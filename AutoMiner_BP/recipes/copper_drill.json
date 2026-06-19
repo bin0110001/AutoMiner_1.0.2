@@ -1,8 +1,9 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:copper_drill"
+      "identifier": "minere:copper_drill",
+      "unlock": true
     },
     "tags": [
       "crafting_table"

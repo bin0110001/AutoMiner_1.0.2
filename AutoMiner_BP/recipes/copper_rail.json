@@ -1,8 +1,9 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:copper_rail"
+      "identifier": "minere:copper_rail",
+      "unlock": true
     },
     "tags": [
       "crafting_table"
@@ -20,23 +21,6 @@
         "item": "minecraft:stick"
       }
     },
-    "unlock": [
-      {
-        "item": "minecraft:copper_ingot"
-      }
-    ],
-    "result": {
-      "item": "minere:copper_rail",
-      "count": 6
-    }
-  }
-}
-    },
-    "unlock": [
-      {
-        "item": "minecraft:copper_ingot"
-      }
-    ],
     "result": {
       "item": "minere:copper_rail",
       "count": 6

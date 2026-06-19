@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.minere.advanced_minecart": {
+      "initial_state": "moving",
+      "states": {
+        "moving": {
+          "animations": ["move"]
+        }
+      }
+    }
+  }
+}

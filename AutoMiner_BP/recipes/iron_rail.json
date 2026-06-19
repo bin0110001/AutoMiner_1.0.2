@@ -1,8 +1,9 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:iron_rail"
+      "identifier": "minere:iron_rail",
+      "unlock": true
     },
     "tags": [
       "crafting_table"
@@ -20,23 +21,6 @@
         "item": "minecraft:stick"
       }
     },
-    "unlock": [
-      {
-        "item": "minecraft:iron_ingot"
-      }
-    ],
-    "result": {
-      "item": "minere:iron_rail",
-      "count": 6
-    }
-  }
-}
-    },
-    "unlock": [
-      {
-        "item": "minecraft:iron_ingot"
-      }
-    ],
     "result": {
       "item": "minere:iron_rail",
       "count": 6

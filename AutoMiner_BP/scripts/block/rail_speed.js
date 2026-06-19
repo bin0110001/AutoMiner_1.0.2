@@ -1,5 +1,4 @@
-import { system, world, Block } from "@minecraft/server";
-
+import { system, world } from "@minecraft/server";
 const RAIL_SPEEDS = {
     "minere:iron_rail": 0.14,
     "minere:golden_rail": 0.25,
@@ -7,17 +6,16 @@ const RAIL_SPEEDS = {
     "minere:copper_rail": 0.08,
     "minere:emerald_rail": 0.06,
 };
-
 function getRailSpeed(block) {
-    const blockInfo = block.permalink;
+    const blockInfo = block.typeId;
     if (blockInfo && blockInfo in RAIL_SPEEDS) {
         return RAIL_SPEEDS[blockInfo];
     }
     return null;
 }
-
 function updateMinecartSpeed() {
-    for (const entity of world.getEntities({ type: "minecraft:minecart" })) {
+    const dimension = world.getDimension("overworld");
+    for (const entity of dimension.getEntities({ type: "minecraft:minecart" })) {
         const location = entity.location;
         const dimension = entity.dimension;
         const belowLocation = {
@@ -26,12 +24,12 @@ function updateMinecartSpeed() {
             z: Math.round(location.z)
         };
         const block = dimension.getBlock(belowLocation);
-        if (!block) continue;
+        if (!block)
+            continue;
         const speed = getRailSpeed(block);
         if (speed !== null) {
             entity.setProperty("minecraft:rail_movement.max_speed", speed);
         }
     }
 }
-
 system.runInterval(updateMinecartSpeed, 10);

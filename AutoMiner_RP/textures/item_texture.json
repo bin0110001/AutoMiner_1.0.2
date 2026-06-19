@@ -23,6 +23,18 @@
     },
     "minere.emerald_rail": {
       "textures": ["textures/items/minere/emerald_rail.png"]
+    },
+    "minere.copper_drill": {
+      "textures": ["textures/items/minere/copper_drill.png"]
+    },
+    "minere.gold_drill": {
+      "textures": ["textures/items/minere/gold_drill.png"]
+    },
+    "minere.iron_drill": {
+      "textures": ["textures/items/minere/iron_drill.png"]
+    },
+    "minere.stone_drill": {
+      "textures": ["textures/items/minere/stone_drill.png"]
     }
   },
   "resource_pack_name": "Auto Miner Resources",

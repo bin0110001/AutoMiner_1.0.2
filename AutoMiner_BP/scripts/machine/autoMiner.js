@@ -190,8 +190,9 @@ export function startAutoMiner(entity) {
                 }
             }
         }
-        // build rail
         let hasPlacedRail = false;
+        let goldenRails = false;
+        let railToPlace = null;
         if (entity.location.y > dimension.heightRange.min &&
             entity.location.y < dimension.heightRange.max &&
             entity.isOnGround) {
@@ -201,139 +202,110 @@ export function startAutoMiner(entity) {
                 entity.isOnGround &&
                 (block.isAir || replaceableBlocks.has(block.typeId))) {
                 for (const typeId of Object.keys(RAIL_SPEEDS)) {
-                    const railsIndex = findItemInContainer(container, type, id); // ERROR in my thought
-                    // Wait, let's fix this properly. I need to be careful with the loop and logic.
+                    const railsIndex = findItemInContainer(container, typeId);
+                    if (railsIndex >= 0) {
+                        railToPlace = typeId;
+                        break;
+                    }
+                }
+                if (railToPlace) {
+                    dimension.runCommand(`setBlock ${entity.location.x} ${entity.location.y - 1} ${entity.location.z} ${railToPlace.replace("minere:", "minecraft:")}`);
+                    hasPlacedRail = true;
+                    if (railToPlace === "minere:golden_rail") {
+                        goldenRails = true;
+                    }
                 }
             }
         }
-        break; // Exit once a rail is placed
-    });
-}
-const redstoneTorchIndex = findItemInContainer(container, "minecraft:redstone_torch");
-const redstoneTorches = redstoneTorchIndex >= 0
-    ? container.getItem(redstoneTorchIndex)
-    : undefined;
-// place redstone torch (logic for rail placement index == 0)
-if (hasPlacedRail &&
-    redstoneTorches &&
-    redstoneTorches.amount > 0 &&
-    rail_placement_index == 0) {
-    const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
-    let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
-    if (yRot > 315 || yRot <= 45) {
-        torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
-    }
-    if (yRot > 45 && yRot <= 135) {
-        torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
-    }
-    if (yrot > 135 && yrot <= 225) {
-        torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
-    }
-    if (yRot > 225 && yRot <= 315) {
-        torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
-    }
-    const torchBlock = dimension.getBlock(torchPos);
-    if (torchBlock &&
-        torchBlock.isValid() &&
-        (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))) {
-        torchBlock.setType(redstoneTorches.typeId);
-        if (redstoneTorches.amount == 1) {
-            container.setItem(redstoneTorchIndex);
+        const redstoneTorchIndex = findItemInContainer(container, "minecraft:redstone_torch");
+        const redstoneTorches = redstoneTorchIndex >= 0
+            ? container.getItem(redstoneTorchIndex)
+            : undefined;
+        if (hasPlacedRail &&
+            redstoneTorches &&
+            redstoneTorches.amount > 0 &&
+            rail_placement_index == 0) {
+            const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
+            let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
+            if (yRot > 315 || yRot <= 45) {
+                torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
+            }
+            if (yRot > 45 && yRot <= 135) {
+                torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
+            }
+            if (yRot > 135 && yRot <= 225) {
+                torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
+            }
+            if (yRot > 225 && yRot <= 315) {
+                torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
+            }
+            const torchBlock = dimension.getBlock(torchPos);
+            if (torchBlock &&
+                torchBlock.isValid() &&
+                (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))) {
+                torchBlock.setType(redstoneTorches.typeId);
+                if (redstoneTorches.amount == 1) {
+                    container.setItem(redstoneTorchIndex);
+                }
+                else {
+                    redstoneTorches.amount -= 1;
+                    container.setItem(redstoneTorchIndex, redstoneTorches);
+                }
+            }
         }
-        else {
-            redstoneTorches.amount -= 1;
-            container.setItem(redstoneTorchIndex, redstoneTorches);
+        const itemEntities = dimension.getEntities({
+            type: "minecraft:item",
+            location: entity.location,
+            maxDistance: PICKUP_RANGE,
+        });
+        for (let i = 0; i < itemEntities.length; i++) {
+            const itemEntity = itemEntities[i];
+            const item = itemEntity.getComponent(EntityComponentTypes.Item);
+            if (item && item.itemStack.maxAmount >= 64) {
+                const leftOver = container.addItem(item.itemStack);
+                if (leftOver) {
+                    item.itemStack.amount = leftOver.amount;
+                }
+                else {
+                    itemEntity.remove();
+                }
+            }
         }
-    }
-}
-// redstone torches
-// has golden rails and index == 0
-if (goldenRails &&
-    redstoneTorches &&
-    redstoneTorches.amount > 0 &&
-    rail_placement_index == 0) {
-    const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
-    let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
-    if (yRot > 315 || yRot <= 45) {
-        torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
-    }
-    if (yRot > 45 && yRot <= 135) {
-        torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
-    }
-    if (yRot > 135 && yRot <= 225) {
-        torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
-    }
-    if (yRot > 225 && yRot <= 315) {
-        torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
-    }
-    const torchBlock = dimension.getBlock(torchPos);
-    if (torchBlock &&
-        torchBlock.isValid() &&
-        (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))) {
-        torchBlock.setType(redstoneTorches.typeId);
-        if (redstoneTorches.amount == 1) {
-            container.setItem(redstoneTorchIndex);
+        // damage entities
+        const mobEntities = dimension.getEntities({
+            excludeFamilies: ["inanimate", "item"],
+            excludeTypes: ["minecraft:item"],
+            location: addVector3(entity.location, entity.getViewDirection()),
+            maxDistance: DAMAGE_RANGE,
+        });
+        for (let i = 0; i < mobEntities.length; i++) {
+            mobEntities[i].applyDamage(DAMAGE, {
+                cause: EntityDamageCause.entityAttack,
+                damagingEntity: entity,
+            });
         }
-        else {
-            redstoneTorches.amount -= 1;
-            container.setItem(redstoneTorchIndex, redstoneTorches);
+        // update properties
+        entity.setProperty("minere:fuel", Math.max(0, fuel - (BASE_FUEL_COST + blocksBroken)));
+        entity.setProperty("minere:durability", Math.max(0, durability - blocksBroken));
+        if (blocksBroken >= durability && durability > 0) {
+            dimension.playSound("random.break", entity.location, {
+                volume: 2.0,
+                pitch: 0.75,
+            });
+            stopAutoMiner(entity);
+            return system.clearRun(runId);
         }
-    }
-}
-// pickup items
-const itemEntities = dimension.getEntities({
-    type: "minecraft:item",
-    location: entity.location,
-    maxDistance: PICKUP_RANGE,
-});
-for (let i = 0; i < itemEntities.length; i++) {
-    const itemEntity = itemEntities[i];
-    const item = itemEntity.getComponent(EntityComponentTypes.Item);
-    if (item && item.itemStack.maxAmount >= 64) {
-        const leftOver = container.addItem(item.itemStack);
-        if (leftOver) {
-            item.itemStack.amount = leftOver.amount;
+        if (hasPlacedRail) {
+            if (rail_placement_index <= 0) {
+                entity.setProperty("minere:rail_index", GOLDEN_RAIL_MAX_INDEX);
+            }
+            else {
+                entity.setProperty("minere:rail_index", Math.max(0, rail_placement_index - 1));
+            }
         }
-        else {
-            itemEntity.remove();
-        }
-    }
+    }, 3);
+    threadMap.set(entity.id, runId);
 }
-// damage entities
-const mobEntities = dimension.getEntities({
-    excludeFamilies: ["inanimate", "item"],
-    excludeTypes: ["minecraft:item"],
-    location: addVector3(entity.location, entity.getViewDirection()),
-    maxDistance: DAMAGE_RANGE,
-});
-for (let i = 0; i < mobEntities.length; i++) {
-    mobEntities[i].applyDamage(DAMAGE, {
-        cause: EntityDamageCause.entityAttack,
-        damagingEntity: entity,
-    });
-}
-// update properties
-entity.setProperty("minere:fuel", Math.max(0, fuel - (BASE_FUEL_COST + blocksBroken)));
-entity.setProperty("minere:durability", Math.max(0, durability - blocksBroken));
-if (blocksBroken >= durability && durability > 0) {
-    dimension.playSound("random.break", entity.location, {
-        volume: 2.0,
-        pitch: 0.75,
-    });
-    stopAutoMiner(entity);
-    return system.clearRun(runId);
-}
-if (hasPlacedRail) {
-    if (rail_placement_index <= 0) {
-        entity.setProperty("minere:rail_index", GOLDEN_RAIL_MAX_INDEX);
-    }
-    else {
-        entity.setProperty("minere:rail_index", Math.max(0, rail_placement_index - 1));
-    }
-}
-3;
-;
-threadMap.set(entity.id, runId);
 export function stopAutoMiner(entity) {
     if (!entity ||
         !entity.isValid() ||

@@ -2,22 +2,22 @@
   "format_version": "1.21.30",
   "minecraft:item": {
     "description": {
-      "identifier": "minere:diamond_drill",
+      "identifier": "minere:gold_drill",
       "menu_category": {
         "group": "itemGroup.name.minecart"
       }
     },
     "components": {
       "minecraft:max_stack_size": 1,
-      "minecraft:icon": "minere.diamond_drill",
+      "minecraft:icon": "minere.gold_drill",
       "minecraft:durability": {
-        "max_durability": 1561
+        "max_durability": 380
       },
       "minecraft:repairable": {
         "repair_items": [
           {
-            "items": ["minecraft:diamond"],
-            "repair_amount": 1561
+            "items": ["minecraft:gold_ingot"],
+            "repair_amount": 380
           }
         ]
       }

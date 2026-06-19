@@ -5,22 +5,22 @@
       "resourcePack",
       "scripting"
     ],
-    "behaviorPackManifestCount": 1,
+    "behaviorPackManifestCount": 2,
     "unknownJsonCount": 0,
     "entityTypeManifestCount": 2,
-    "itemTypeManifestCount": 3,
-    "blockTypeManifestCount": 5,
-    "resourcePackManifestCount": 1,
+    "itemTypeManifestCount": 24,
+    "blockTypeManifestCount": 10,
+    "resourcePackManifestCount": 2,
     "worldCount": 0,
-    "entityTypeResourceCount": 2,
+    "entityTypeResourceCount": 3,
     "behaviorPackAnimationCount": 0,
     "behaviorPackAnimationControllerCount": 0,
-    "overallSize": 2938763,
-    "fileCounts": 122,
-    "folderCounts": 40,
-    "contentSize": 2728418,
-    "contentFileCounts": 119,
-    "contentFolderCounts": 37,
+    "overallSize": 558165,
+    "fileCounts": 229,
+    "folderCounts": 60,
+    "contentSize": 288774,
+    "contentFileCounts": 224,
+    "contentFolderCounts": 56,
     "defaultBehaviorPackUuid": "2e839411-4a0e-4cee-b106-33d5bde91193",
     "defaultIcon": "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",
     "defaultBehaviorPackMinEngineVersion": "1.21.30",
@@ -53,12 +53,8 @@
     ],
     "blockTypeComponents": [
       "minecraftBreakInfo",
-      "minecraftDestroyTime",
-      "minecraftExplosionResistance",
-      "minecraftHardness",
-      "minecraftIsSpawnable",
+      "minecraftDestructible",
       "minecraftLoot",
-      "minecraftMineable",
       "minecraftStepSound",
       "minecraftWaterlogged"
     ],
@@ -87,7 +83,6 @@
       "minecraftParticleMotionDynamic"
     ],
     "apisUsed": [
-      "above",
       "addEffect",
       "addExperience",
       "addItem",
@@ -109,7 +104,6 @@
       "blockInfo",
       "blockPermutation",
       "blockVolume",
-      "blocks",
       "brokenBlockPermutation",
       "campfire",
       "cause",
@@ -132,10 +126,8 @@
       "deadEntity",
       "delay",
       "dimension",
-      "direction",
       "durability",
       "duration",
-      "east",
       "effectiveMax",
       "effectiveMin",
       "enchantable",
@@ -163,7 +155,6 @@
       "fireTick",
       "fireworks",
       "gameMode",
-      "getAllStates",
       "getBlock",
       "getBlockFromViewDirection",
       "getBlockLocationIterator",
@@ -183,7 +174,6 @@
       "getItem",
       "getItemStack",
       "getProperty",
-      "getRedstonePower",
       "getRotation",
       "getState",
       "getTotalXp",
@@ -225,14 +215,12 @@
       "minedBlockPermutation",
       "newValue",
       "next",
-      "north",
       "offhand",
       "offset",
       "oldValue",
       "onCompleteUse",
       "onHitEntity",
       "onMineBlock",
-      "onTick",
       "onUseOn",
       "origin",
       "override",
@@ -245,11 +233,9 @@
       "projectile",
       "ramAttack",
       "range",
-      "redstonePower",
       "registerCustomComponent",
       "remove",
       "removedEntity",
-      "resolve",
       "riding",
       "rotation",
       "runCommand",
@@ -262,7 +248,6 @@
       "setDynamicProperty",
       "setEquipment",
       "setItem",
-      "setPermutation",
       "setProperty",
       "setRotation",
       "setType",
@@ -273,7 +258,6 @@
       "sonicBoom",
       "soulCampfire",
       "source",
-      "south",
       "spawnEntity",
       "spawnItem",
       "spawnParticle",
@@ -297,7 +281,6 @@
       "typeId",
       "vector",
       "volume",
-      "west",
       "world",
       "xpEarnedAtCurrentLevel"
     ],
@@ -305,7 +288,6 @@
     "itemTypes": [
       "Animation",
       "Animation controller",
-      "Audio",
       "Behavior pack folder",
       "Behavior pack manifest",
       "Block type",
@@ -318,6 +300,7 @@
       "Language catalog",
       "Language translations",
       "Loot table",
+      "Minecraft zip",
       "Model",
       "NPM package definition",
       "Particle",
@@ -333,8 +316,8 @@
     "completeVanillaCopy": 0,
     "partialVanillaCopy": 0,
     "animationCount": 0,
-    "textureCount": 5,
-    "textureTexelSize": 19200,
+    "textureCount": 18,
+    "textureTexelSize": 40448,
     "vanillaGameTextureCoverage": 0,
     "vanillaGameTextureCount": 0,
     "minimumSupportablePerformanceTier": 0,
@@ -395,14 +378,14 @@
         "count": 1
       },
       "entityGeometry.cubes": {
-        "instanceCount": 1,
-        "total": 26,
+        "instanceCount": 4,
+        "total": 54,
         "max": 26,
-        "min": 26,
-        "average": 26
+        "min": 1,
+        "average": 14
       },
       "identifier.noOverrideIdentifier": {
-        "count": 3
+        "count": 24
       },
       "entityType.defaultComponents": {
         "minecraftIsStackable": 1,
@@ -426,24 +409,20 @@
         "setProperty": 3
       },
       "blockType.blockDefaultComponents": {
-        "minecraftBreakInfo": 5,
-        "minecraftDestroyTime": 5,
-        "minecraftExplosionResistance": 5,
-        "minecraftHardness": 5,
-        "minecraftIsSpawnable": 5,
-        "minecraftLoot": 5,
-        "minecraftMineable": 5,
-        "minecraftStepSound": 5,
-        "minecraftWaterlogged": 5
+        "minecraftDestructible": 10,
+        "minecraftBreakInfo": 10,
+        "minecraftLoot": 10,
+        "minecraftWaterlogged": 10,
+        "minecraftStepSound": 2
       },
       "itemType.components": {
-        "minecraftMaxStackSize": 3,
-        "minecraftGlint": 1,
-        "minecraftIcon": 3,
-        "minecraftEntityPlacer": 1,
-        "minecraftCustomComponents": 1,
-        "minecraftDurability": 1,
-        "minecraftRepairable": 1
+        "minecraftMaxStackSize": 24,
+        "minecraftGlint": 2,
+        "minecraftIcon": 24,
+        "minecraftEntityPlacer": 2,
+        "minecraftCustomComponents": 2,
+        "minecraftDurability": 12,
+        "minecraftRepairable": 12
       },
       "particleType.particleEmitterComponents": {
         "minecraftEmitterRateSteady": 1,
@@ -459,29 +438,29 @@
         "minecraftParticleAppearanceLighting": 1
       },
       "javaScript.size": {
-        "instanceCount": 50,
-        "total": 85179,
-        "max": 10759,
+        "instanceCount": 94,
+        "total": 158604,
+        "max": 10010,
         "min": 97,
-        "average": 1704
+        "average": 1687
       },
       "javaScript.lines": {
-        "instanceCount": 50,
-        "total": 3302,
+        "instanceCount": 94,
+        "total": 6048,
         "max": 419,
         "min": 5,
-        "average": 66
+        "average": 64
       },
       "behaviorPackManifest.size": {
-        "instanceCount": 1,
-        "total": 781,
+        "instanceCount": 2,
+        "total": 1562,
         "max": 781,
         "min": 781,
         "average": 781
       },
       "behaviorPackManifest.lines": {
-        "instanceCount": 1,
-        "total": 34,
+        "instanceCount": 2,
+        "total": 68,
         "max": 34,
         "min": 34,
         "average": 34
@@ -502,87 +481,87 @@
       },
       "typeScript.size": {
         "instanceCount": 10,
-        "total": 19701,
-        "max": 11144,
+        "total": 19005,
+        "max": 10400,
         "min": 259,
-        "average": 1970
+        "average": 1901
       },
       "typeScript.lines": {
         "instanceCount": 10,
-        "total": 733,
-        "max": 374,
+        "total": 711,
+        "max": 351,
         "min": 13,
-        "average": 73
+        "average": 71
       },
       "resourcePackManifest.size": {
-        "instanceCount": 1,
-        "total": 534,
+        "instanceCount": 2,
+        "total": 1068,
         "max": 534,
         "min": 534,
         "average": 534
       },
       "resourcePackManifest.lines": {
-        "instanceCount": 1,
-        "total": 22,
+        "instanceCount": 2,
+        "total": 44,
         "max": 22,
         "min": 22,
         "average": 22
       },
       "blockType.size": {
-        "instanceCount": 5,
-        "total": 2535,
-        "max": 509,
-        "min": 503,
-        "average": 507
+        "instanceCount": 10,
+        "total": 3955,
+        "max": 442,
+        "min": 380,
+        "average": 396
       },
       "blockType.lines": {
-        "instanceCount": 5,
-        "total": 115,
-        "max": 23,
-        "min": 23,
-        "average": 23
-      },
-      "itemType.size": {
-        "instanceCount": 3,
-        "total": 1213,
-        "max": 493,
-        "min": 236,
-        "average": 404
-      },
-      "itemType.lines": {
-        "instanceCount": 3,
-        "total": 56,
-        "max": 23,
-        "min": 11,
+        "instanceCount": 10,
+        "total": 194,
+        "max": 21,
+        "min": 19,
         "average": 19
       },
+      "itemType.size": {
+        "instanceCount": 24,
+        "total": 8022,
+        "max": 493,
+        "min": 228,
+        "average": 334
+      },
+      "itemType.lines": {
+        "instanceCount": 24,
+        "total": 380,
+        "max": 23,
+        "min": 11,
+        "average": 16
+      },
       "lootTable.size": {
-        "instanceCount": 5,
-        "total": 395,
+        "instanceCount": 10,
+        "total": 790,
         "max": 80,
         "min": 77,
         "average": 79
       },
       "lootTable.lines": {
-        "instanceCount": 5,
-        "total": 30,
+        "instanceCount": 10,
+        "total": 60,
         "max": 6,
         "min": 6,
         "average": 6
       },
       "soundCatalog.size": {
-        "instanceCount": 2,
-        "total": 758,
-        "max": 758,
-        "min": 758,
-        "average": 758
+        "instanceCount": 1,
+        "total": 159,
+        "max": 159,
+        "min": 159,
+        "average": 159
       },
       "soundCatalog.lines": {
-        "instanceCount": 2,
-        "total": 41,
-        "max": 41,
-        "min": 41,
-        "average": 41
+        "instanceCount": 1,
+        "total": 10,
+        "max": 10,
+        "min": 10,
+        "average": 10
       },
       "animation.size": {
         "instanceCount": 2,
@@ -599,46 +578,46 @@
         "average": 56
       },
       "animationController.size": {
-        "instanceCount": 1,
-        "total": 1224,
+        "instanceCount": 2,
+        "total": 1396,
         "max": 1224,
-        "min": 1224,
-        "average": 1224
+        "min": 172,
+        "average": 698
       },
       "animationController.lines": {
-        "instanceCount": 1,
-        "total": 52,
+        "instanceCount": 2,
+        "total": 60,
         "max": 52,
-        "min": 52,
-        "average": 52
+        "min": 8,
+        "average": 30
       },
       "entityTypeVisuals/audio.size": {
-        "instanceCount": 2,
-        "total": 1885,
+        "instanceCount": 3,
+        "total": 2268,
         "max": 1295,
-        "min": 590,
-        "average": 943
+        "min": 350,
+        "average": 756
       },
       "entityTypeVisuals/audio.lines": {
-        "instanceCount": 2,
-        "total": 74,
+        "instanceCount": 3,
+        "total": 89,
         "max": 47,
-        "min": 27,
-        "average": 37
+        "min": 15,
+        "average": 30
       },
       "model.size": {
-        "instanceCount": 1,
-        "total": 3496,
+        "instanceCount": 4,
+        "total": 7672,
         "max": 3496,
-        "min": 3496,
-        "average": 3496
+        "min": 340,
+        "average": 1918
       },
       "model.lines": {
-        "instanceCount": 1,
-        "total": 148,
+        "instanceCount": 4,
+        "total": 328,
         "max": 148,
-        "min": 148,
-        "average": 148
+        "min": 16,
+        "average": 82
       },
       "particle.size": {
         "instanceCount": 1,
@@ -669,18 +648,25 @@
         "average": 2
       },
       "recipe.size": {
-        "instanceCount": 12,
-        "total": 3969,
+        "instanceCount": 24,
+        "total": 7401,
         "max": 464,
-        "min": 272,
-        "average": 331
+        "min": 254,
+        "average": 308
       },
       "recipe.lines": {
-        "instanceCount": 12,
-        "total": 317,
+        "instanceCount": 24,
+        "total": 592,
         "max": 32,
         "min": 17,
-        "average": 26
+        "average": 25
+      },
+      "minecraftZip.size": {
+        "instanceCount": 2,
+        "total": 84511,
+        "max": 57956,
+        "min": 26555,
+        "average": 42256
       },
       "typeScriptConfig.size": {
         "instanceCount": 1,
@@ -725,39 +711,32 @@
         "average": 12
       },
       "itemTexture.size": {
-        "instanceCount": 1,
-        "total": 711,
-        "max": 711,
-        "min": 711,
-        "average": 711
+        "instanceCount": 2,
+        "total": 2026,
+        "max": 1013,
+        "min": 1013,
+        "average": 1013
       },
       "itemTexture.lines": {
-        "instanceCount": 1,
-        "total": 28,
-        "max": 28,
-        "min": 28,
-        "average": 28
+        "instanceCount": 2,
+        "total": 80,
+        "max": 40,
+        "min": 40,
+        "average": 40
       },
       "texture.size": {
-        "instanceCount": 5,
-        "total": 10797,
+        "instanceCount": 18,
+        "total": 27418,
         "max": 7786,
         "min": 459,
-        "average": 2159
+        "average": 1523
       },
       "icon.size": {
-        "instanceCount": 2,
-        "total": 18552,
+        "instanceCount": 4,
+        "total": 37104,
         "max": 9276,
         "min": 9276,
         "average": 9276
-      },
-      "audio.size": {
-        "instanceCount": 4,
-        "total": 2566364,
-        "max": 1020334,
-        "min": 263134,
-        "average": 641591
       },
       "unknown.size": {
         "instanceCount": 1,
@@ -792,196 +771,358 @@
         "count": 3
       },
       "apisUsed.world": {
-        "count": 16
-      },
-      "apisUsed.beforeEvents": {
-        "count": 1
-      },
-      "apisUsed.subscribe": {
-        "count": 1
-      },
-      "apisUsed.data": {
-        "count": 15
-      },
-      "apisUsed.itemComponentRegistry": {
-        "count": 1
-      },
-      "apisUsed.registerCustomComponent": {
-        "count": 1
-      },
-      "apisUsed.entityRemove": {
-        "count": 1
-      },
-      "apisUsed.afterEvents": {
-        "count": 1
-      },
-      "apisUsed.dataDrivenEntityTrigger": {
-        "count": 1
-      },
-      "apisUsed.entity": {
-        "count": 16
-      },
-      "apisUsed.entityLoad": {
-        "count": 1
-      },
-      "apisUsed.entityDie": {
-        "count": 1
-      },
-      "apisUsed.deadEntity": {
-        "count": 1
-      },
-      "apisUsed.itemStack": {
-        "count": 20
-      },
-      "apisUsed.addVector3": {
-        "count": 14
-      },
-      "apisUsed.player": {
-        "count": 17
-      },
-      "apisUsed.dimension": {
-        "count": 27
-      },
-      "apisUsed.location": {
         "count": 32
       },
+      "apisUsed.beforeEvents": {
+        "count": 2
+      },
+      "apisUsed.subscribe": {
+        "count": 2
+      },
+      "apisUsed.data": {
+        "count": 30
+      },
+      "apisUsed.itemComponentRegistry": {
+        "count": 2
+      },
+      "apisUsed.registerCustomComponent": {
+        "count": 2
+      },
+      "apisUsed.entityRemove": {
+        "count": 2
+      },
+      "apisUsed.afterEvents": {
+        "count": 2
+      },
+      "apisUsed.dataDrivenEntityTrigger": {
+        "count": 2
+      },
+      "apisUsed.entity": {
+        "count": 30
+      },
+      "apisUsed.entityLoad": {
+        "count": 2
+      },
+      "apisUsed.entityDie": {
+        "count": 2
+      },
+      "apisUsed.deadEntity": {
+        "count": 2
+      },
+      "apisUsed.system": {
+        "count": 36
+      },
       "apisUsed.block": {
-        "count": 18
+        "count": 28
       },
-      "apisUsed.spawnItem": {
-        "count": 3
+      "apisUsed.blockInfo": {
+        "count": 2
       },
-      "apisUsed.spawnEntity": {
-        "count": 7
+      "apisUsed.typeId": {
+        "count": 62
       },
-      "apisUsed.entityComponentTypes": {
+      "apisUsed.dimension": {
+        "count": 48
+      },
+      "apisUsed.getDimension": {
         "count": 22
       },
+      "apisUsed.getEntities": {
+        "count": 18
+      },
+      "apisUsed.location": {
+        "count": 58
+      },
+      "apisUsed.getBlock": {
+        "count": 20
+      },
+      "apisUsed.speed": {
+        "count": 2
+      },
+      "apisUsed.setProperty": {
+        "count": 6
+      },
+      "apisUsed.runInterval": {
+        "count": 6
+      },
+      "apisUsed.source": {
+        "count": 28
+      },
+      "apisUsed.player": {
+        "count": 30
+      },
+      "apisUsed.itemStack": {
+        "count": 36
+      },
+      "apisUsed.runCommand": {
+        "count": 22
+      },
+      "apisUsed.entityComponentTypes": {
+        "count": 40
+      },
       "apisUsed.itemComponentTypes": {
-        "count": 13
-      },
-      "apisUsed.equipmentSlot": {
-        "count": 10
-      },
-      "apisUsed.getItem": {
-        "count": 9
-      },
-      "apisUsed.getComponent": {
         "count": 24
       },
-      "apisUsed.equippable": {
-        "count": 15
+      "apisUsed.isSneaking": {
+        "count": 6
       },
-      "apisUsed.item": {
+      "apisUsed.getComponent": {
+        "count": 44
+      },
+      "apisUsed.cooldown": {
+        "count": 18
+      },
+      "apisUsed.getCooldownTicksRemaining": {
+        "count": 10
+      },
+      "apisUsed.playSound": {
+        "count": 36
+      },
+      "apisUsed.startCooldown": {
+        "count": 10
+      },
+      "apisUsed.successCount": {
+        "count": 6
+      },
+      "apisUsed.getGameMode": {
+        "count": 16
+      },
+      "apisUsed.maxDistance": {
+        "count": 16
+      },
+      "apisUsed.excludeFamilies": {
+        "count": 4
+      },
+      "apisUsed.addEffect": {
+        "count": 14
+      },
+      "apisUsed.showParticles": {
+        "count": 8
+      },
+      "apisUsed.amplifier": {
+        "count": 14
+      },
+      "apisUsed.getViewDirection": {
         "count": 12
       },
-      "apisUsed.getEquipmentSlot": {
-        "count": 5
+      "apisUsed.spawnEntity": {
+        "count": 10
       },
-      "apisUsed.mainhand": {
+      "apisUsed.projectile": {
+        "count": 12
+      },
+      "apisUsed.owner": {
+        "count": 10
+      },
+      "apisUsed.setRotation": {
+        "count": 10
+      },
+      "apisUsed.getRotation": {
+        "count": 10
+      },
+      "apisUsed.applyImpulse": {
+        "count": 10
+      },
+      "apisUsed.position": {
+        "count": 4
+      },
+      "apisUsed.size": {
+        "count": 8
+      },
+      "apisUsed.timeout": {
+        "count": 4
+      },
+      "apisUsed.runTimeout": {
+        "count": 24
+      },
+      "apisUsed.onUseOn": {
+        "count": 2
+      },
+      "apisUsed.inventory": {
+        "count": 12
+      },
+      "apisUsed.item": {
+        "count": 22
+      },
+      "apisUsed.container": {
+        "count": 8
+      },
+      "apisUsed.getItem": {
+        "count": 16
+      },
+      "apisUsed.selectedSlotIndex": {
         "count": 4
       },
       "apisUsed.durability": {
-        "count": 11
-      },
-      "apisUsed.enchantable": {
-        "count": 6
-      },
-      "apisUsed.hasEnchantment": {
-        "count": 3
-      },
-      "apisUsed.remove": {
-        "count": 5
-      },
-      "apisUsed.system": {
         "count": 18
       },
-      "apisUsed.blockInfo": {
-        "count": 1
+      "apisUsed.getDynamicProperty": {
+        "count": 14
       },
-      "apisUsed.getEntities": {
-        "count": 10
+      "apisUsed.damage": {
+        "count": 12
       },
-      "apisUsed.getBlock": {
-        "count": 10
+      "apisUsed.maxDurability": {
+        "count": 8
       },
-      "apisUsed.speed": {
-        "count": 1
+      "apisUsed.health": {
+        "count": 40
       },
-      "apisUsed.setProperty": {
-        "count": 3
+      "apisUsed.setCurrentValue": {
+        "count": 14
       },
-      "apisUsed.runInterval": {
-        "count": 3
-      },
-      "apisUsed.blockPermutation": {
-        "count": 2
-      },
-      "apisUsed.onTick": {
-        "count": 1
-      },
-      "apisUsed.redstonePower": {
-        "count": 1
-      },
-      "apisUsed.getRedstonePower": {
-        "count": 1
-      },
-      "apisUsed.direction": {
-        "count": 1
-      },
-      "apisUsed.permutation": {
-        "count": 2
-      },
-      "apisUsed.getState": {
-        "count": 2
-      },
-      "apisUsed.blocks": {
-        "count": 1
-      },
-      "apisUsed.below": {
-        "count": 2
-      },
-      "apisUsed.above": {
-        "count": 1
-      },
-      "apisUsed.east": {
-        "count": 1
-      },
-      "apisUsed.west": {
-        "count": 1
-      },
-      "apisUsed.north": {
-        "count": 1
-      },
-      "apisUsed.south": {
-        "count": 1
-      },
-      "apisUsed.isValid": {
+      "apisUsed.setItem": {
         "count": 6
       },
-      "apisUsed.typeId": {
-        "count": 31
+      "apisUsed.pitch": {
+        "count": 8
       },
-      "apisUsed.setPermutation": {
-        "count": 1
+      "apisUsed.damageSource": {
+        "count": 4
       },
-      "apisUsed.resolve": {
-        "count": 1
+      "apisUsed.damagingProjectile": {
+        "count": 4
       },
-      "apisUsed.getAllStates": {
-        "count": 1
+      "apisUsed.applyDamage": {
+        "count": 8
+      },
+      "apisUsed.cause": {
+        "count": 10
+      },
+      "apisUsed.damagingEntity": {
+        "count": 8
+      },
+      "apisUsed.minedBlockPermutation": {
+        "count": 4
+      },
+      "apisUsed.getItemStack": {
+        "count": 4
+      },
+      "apisUsed.onMineBlock": {
+        "count": 4
+      },
+      "apisUsed.entityDamageCause": {
+        "count": 8
+      },
+      "apisUsed.addVector3": {
+        "count": 24
+      },
+      "apisUsed.currentTick": {
+        "count": 8
+      },
+      "apisUsed.setDynamicProperty": {
+        "count": 14
       },
       "apisUsed.spawnParticle": {
-        "count": 7
+        "count": 12
       },
-      "apisUsed.playSound": {
-        "count": 19
+      "apisUsed.getEntitiesFromViewDirection": {
+        "count": 2
+      },
+      "apisUsed.targetLocation": {
+        "count": 2
+      },
+      "apisUsed.getBlockFromViewDirection": {
+        "count": 2
+      },
+      "apisUsed.getHeadLocation": {
+        "count": 4
+      },
+      "apisUsed.filter": {
+        "count": 6
+      },
+      "apisUsed.entityAttack": {
+        "count": 6
+      },
+      "apisUsed.sonicBoom": {
+        "count": 4
+      },
+      "apisUsed.onHitEntity": {
+        "count": 6
+      },
+      "apisUsed.range": {
+        "count": 2
+      },
+      "apisUsed.attackingEntity": {
+        "count": 4
+      },
+      "apisUsed.hitEntity": {
+        "count": 6
+      },
+      "apisUsed.currentValue": {
+        "count": 14
+      },
+      "apisUsed.magic": {
+        "count": 2
       },
       "apisUsed.entities": {
         "count": 2
       },
-      "apisUsed.maxDistance": {
-        "count": 9
+      "apisUsed.targetEntity": {
+        "count": 4
+      },
+      "apisUsed.typeFamily": {
+        "count": 8
+      },
+      "apisUsed.closest": {
+        "count": 8
+      },
+      "apisUsed.families": {
+        "count": 2
+      },
+      "apisUsed.getTypeFamilies": {
+        "count": 6
+      },
+      "apisUsed.volume": {
+        "count": 12
+      },
+      "apisUsed.level": {
+        "count": 6
+      },
+      "apisUsed.heightRange": {
+        "count": 20
+      },
+      "apisUsed.gameMode": {
+        "count": 6
+      },
+      "apisUsed.enchantments": {
+        "count": 2
+      },
+      "apisUsed.enchantable": {
+        "count": 8
+      },
+      "apisUsed.getEnchantment": {
+        "count": 6
+      },
+      "apisUsed.items": {
+        "count": 6
+      },
+      "apisUsed.remove": {
+        "count": 8
+      },
+      "apisUsed.equipmentSlot": {
+        "count": 16
+      },
+      "apisUsed.equippable": {
+        "count": 24
+      },
+      "apisUsed.getEquipmentSlot": {
+        "count": 8
+      },
+      "apisUsed.head": {
+        "count": 6
+      },
+      "apisUsed.chest": {
+        "count": 8
+      },
+      "apisUsed.legs": {
+        "count": 6
+      },
+      "apisUsed.feet": {
+        "count": 6
+      },
+      "apisUsed.offset": {
+        "count": 4
       },
       "apisUsed.riding": {
         "count": 2
@@ -989,455 +1130,254 @@
       "apisUsed.entityRidingOn": {
         "count": 2
       },
-      "apisUsed.getEquipment": {
-        "count": 3
-      },
-      "apisUsed.head": {
-        "count": 4
-      },
-      "apisUsed.heightRange": {
-        "count": 11
-      },
-      "apisUsed.source": {
-        "count": 14
-      },
-      "apisUsed.runCommand": {
-        "count": 11
-      },
-      "apisUsed.getDimension": {
+      "apisUsed.isValid": {
         "count": 10
       },
-      "apisUsed.isSneaking": {
-        "count": 3
-      },
-      "apisUsed.cooldown": {
-        "count": 9
-      },
-      "apisUsed.getCooldownTicksRemaining": {
-        "count": 5
-      },
-      "apisUsed.startCooldown": {
-        "count": 5
-      },
-      "apisUsed.successCount": {
-        "count": 3
-      },
-      "apisUsed.getGameMode": {
-        "count": 8
-      },
-      "apisUsed.excludeFamilies": {
-        "count": 2
-      },
-      "apisUsed.addEffect": {
-        "count": 7
-      },
-      "apisUsed.showParticles": {
-        "count": 4
-      },
-      "apisUsed.amplifier": {
-        "count": 7
-      },
-      "apisUsed.getViewDirection": {
-        "count": 6
-      },
-      "apisUsed.projectile": {
-        "count": 6
-      },
-      "apisUsed.owner": {
-        "count": 5
-      },
-      "apisUsed.setRotation": {
-        "count": 5
-      },
-      "apisUsed.getRotation": {
-        "count": 5
-      },
-      "apisUsed.applyImpulse": {
-        "count": 5
-      },
-      "apisUsed.position": {
-        "count": 2
-      },
-      "apisUsed.size": {
-        "count": 4
-      },
-      "apisUsed.timeout": {
-        "count": 2
-      },
-      "apisUsed.runTimeout": {
-        "count": 12
-      },
-      "apisUsed.onUseOn": {
-        "count": 1
-      },
-      "apisUsed.inventory": {
-        "count": 6
-      },
-      "apisUsed.container": {
-        "count": 4
-      },
-      "apisUsed.selectedSlotIndex": {
-        "count": 2
-      },
-      "apisUsed.getDynamicProperty": {
-        "count": 7
-      },
-      "apisUsed.damage": {
-        "count": 6
-      },
-      "apisUsed.maxDurability": {
-        "count": 4
-      },
-      "apisUsed.health": {
-        "count": 20
-      },
-      "apisUsed.setCurrentValue": {
-        "count": 7
-      },
-      "apisUsed.setItem": {
-        "count": 3
-      },
-      "apisUsed.pitch": {
-        "count": 4
-      },
-      "apisUsed.damageSource": {
-        "count": 2
-      },
-      "apisUsed.damagingProjectile": {
-        "count": 2
-      },
-      "apisUsed.applyDamage": {
-        "count": 4
-      },
-      "apisUsed.cause": {
-        "count": 5
-      },
-      "apisUsed.damagingEntity": {
-        "count": 4
-      },
-      "apisUsed.minedBlockPermutation": {
-        "count": 2
-      },
-      "apisUsed.getItemStack": {
-        "count": 2
-      },
-      "apisUsed.onMineBlock": {
-        "count": 2
-      },
-      "apisUsed.entityDamageCause": {
-        "count": 4
-      },
-      "apisUsed.currentTick": {
-        "count": 4
-      },
-      "apisUsed.setDynamicProperty": {
-        "count": 7
-      },
-      "apisUsed.getEntitiesFromViewDirection": {
-        "count": 1
-      },
-      "apisUsed.targetLocation": {
-        "count": 1
-      },
-      "apisUsed.getBlockFromViewDirection": {
-        "count": 1
-      },
-      "apisUsed.getHeadLocation": {
-        "count": 2
-      },
-      "apisUsed.filter": {
-        "count": 3
-      },
-      "apisUsed.entityAttack": {
-        "count": 3
-      },
-      "apisUsed.sonicBoom": {
-        "count": 2
-      },
-      "apisUsed.onHitEntity": {
-        "count": 3
-      },
-      "apisUsed.range": {
-        "count": 1
-      },
-      "apisUsed.attackingEntity": {
-        "count": 2
-      },
-      "apisUsed.hitEntity": {
-        "count": 3
-      },
-      "apisUsed.currentValue": {
-        "count": 7
-      },
-      "apisUsed.magic": {
-        "count": 1
-      },
-      "apisUsed.targetEntity": {
-        "count": 2
-      },
-      "apisUsed.typeFamily": {
-        "count": 4
-      },
-      "apisUsed.closest": {
-        "count": 4
-      },
-      "apisUsed.families": {
-        "count": 1
-      },
-      "apisUsed.getTypeFamilies": {
-        "count": 3
-      },
-      "apisUsed.volume": {
-        "count": 6
-      },
-      "apisUsed.level": {
-        "count": 3
-      },
-      "apisUsed.gameMode": {
-        "count": 3
-      },
-      "apisUsed.enchantments": {
-        "count": 1
-      },
-      "apisUsed.getEnchantment": {
-        "count": 3
-      },
-      "apisUsed.items": {
-        "count": 3
-      },
-      "apisUsed.chest": {
-        "count": 4
-      },
-      "apisUsed.legs": {
-        "count": 3
-      },
-      "apisUsed.feet": {
-        "count": 3
-      },
-      "apisUsed.offset": {
-        "count": 2
-      },
       "apisUsed.isAir": {
-        "count": 7
+        "count": 14
       },
       "apisUsed.amount": {
-        "count": 3
-      },
-      "apisUsed.setEquipment": {
-        "count": 1
-      },
-      "apisUsed.removedEntity": {
-        "count": 2
-      },
-      "apisUsed.onCompleteUse": {
-        "count": 1
-      },
-      "apisUsed.blockVolume": {
-        "count": 2
-      },
-      "apisUsed.origin": {
-        "count": 1
-      },
-      "apisUsed.getBlocks": {
-        "count": 1
-      },
-      "apisUsed.excludeTypes": {
-        "count": 2
-      },
-      "apisUsed.iterator": {
-        "count": 1
-      },
-      "apisUsed.getBlockLocationIterator": {
-        "count": 1
-      },
-      "apisUsed.next": {
-        "count": 1
-      },
-      "apisUsed.isEmpty": {
-        "count": 2
-      },
-      "apisUsed.offhand": {
-        "count": 1
-      },
-      "apisUsed.brokenBlockPermutation": {
-        "count": 1
-      },
-      "apisUsed.clearRun": {
-        "count": 2
-      },
-      "apisUsed.rotation": {
-        "count": 1
-      },
-      "apisUsed.runId": {
-        "count": 1
-      },
-      "apisUsed.isInWater": {
-        "count": 1
-      },
-      "apisUsed.isLiquid": {
-        "count": 2
-      },
-      "apisUsed.getProperty": {
-        "count": 1
-      },
-      "apisUsed.isOnGround": {
-        "count": 2
-      },
-      "apisUsed.setType": {
-        "count": 1
-      },
-      "apisUsed.maxAmount": {
-        "count": 1
-      },
-      "apisUsed.addItem": {
-        "count": 1
-      },
-      "apisUsed.teleport": {
-        "count": 4
-      },
-      "apisUsed.target": {
-        "count": 8
-      },
-      "apisUsed.triggerEvent": {
-        "count": 4
-      },
-      "apisUsed.chance": {
         "count": 6
       },
+      "apisUsed.mainhand": {
+        "count": 6
+      },
+      "apisUsed.setEquipment": {
+        "count": 2
+      },
+      "apisUsed.removedEntity": {
+        "count": 4
+      },
+      "apisUsed.spawnItem": {
+        "count": 4
+      },
+      "apisUsed.onCompleteUse": {
+        "count": 2
+      },
+      "apisUsed.blockVolume": {
+        "count": 4
+      },
+      "apisUsed.origin": {
+        "count": 2
+      },
+      "apisUsed.getBlocks": {
+        "count": 2
+      },
+      "apisUsed.excludeTypes": {
+        "count": 4
+      },
+      "apisUsed.iterator": {
+        "count": 2
+      },
+      "apisUsed.getBlockLocationIterator": {
+        "count": 2
+      },
+      "apisUsed.next": {
+        "count": 2
+      },
+      "apisUsed.isEmpty": {
+        "count": 4
+      },
+      "apisUsed.permutation": {
+        "count": 2
+      },
+      "apisUsed.getState": {
+        "count": 2
+      },
+      "apisUsed.blockPermutation": {
+        "count": 2
+      },
+      "apisUsed.getEquipment": {
+        "count": 4
+      },
+      "apisUsed.offhand": {
+        "count": 2
+      },
+      "apisUsed.brokenBlockPermutation": {
+        "count": 2
+      },
+      "apisUsed.clearRun": {
+        "count": 4
+      },
+      "apisUsed.rotation": {
+        "count": 2
+      },
+      "apisUsed.runId": {
+        "count": 2
+      },
+      "apisUsed.isInWater": {
+        "count": 2
+      },
+      "apisUsed.isLiquid": {
+        "count": 4
+      },
+      "apisUsed.getProperty": {
+        "count": 2
+      },
+      "apisUsed.isOnGround": {
+        "count": 4
+      },
+      "apisUsed.setType": {
+        "count": 2
+      },
+      "apisUsed.maxAmount": {
+        "count": 2
+      },
+      "apisUsed.addItem": {
+        "count": 2
+      },
+      "apisUsed.teleport": {
+        "count": 8
+      },
+      "apisUsed.target": {
+        "count": 16
+      },
+      "apisUsed.triggerEvent": {
+        "count": 8
+      },
+      "apisUsed.chance": {
+        "count": 12
+      },
       "apisUsed.delay": {
+        "count": 4
+      },
+      "apisUsed.below": {
         "count": 2
       },
       "apisUsed.getEffect": {
-        "count": 3
+        "count": 6
       },
       "apisUsed.duration": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.scale": {
-        "count": 2
+        "count": 4
       },
       "apisUsed.applyKnockback": {
-        "count": 2
+        "count": 4
       },
       "apisUsed.effectiveMax": {
-        "count": 2
+        "count": 4
       },
       "apisUsed.effectiveMin": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.starve": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.suffocation": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.temperature": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.override": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.ramAttack": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.blockExplosion": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.entityExplosion": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.fireworks": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.anvil": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.fire": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.contact": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.charging": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.lightning": {
-        "count": 1
+        "count": 2
+      },
+      "apisUsed.hasEnchantment": {
+        "count": 4
       },
       "apisUsed.fireTick": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.campfire": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.soulCampfire": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.lava": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.magma": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.fall": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.enchantment": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.slot": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.hasItem": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.isSprinting": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.getTotalXp": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.xpEarnedAtCurrentLevel": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.addLevels": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.addExperience": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.totalXpNeededForNextLevel": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.itemId": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.newValue": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.oldValue": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.shift": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.vector": {
-        "count": 2
+        "count": 4
       },
       "apisUsed.start": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.args": {
-        "count": 1
+        "count": 2
       },
       "apisUsed.number": {
-        "count": 1
+        "count": 2
       },
       "textures.itemTextureResourceCount": {
-        "count": 1
+        "count": 2
       },
       "textures.entityResourceCount": {
-        "count": 2
+        "count": 3
       },
       "textures.textureReferences": {
         "count": 2
@@ -1446,7 +1386,7 @@
         "count": 2
       },
       "textures.fileCount": {
-        "count": 5
+        "count": 18
       },
       "textures.uniqueTextureHandlesEstimated": {
         "count": 2
@@ -1461,80 +1401,164 @@
         "count": 2
       },
       "textures.uniqueItemTexturePaths": {
-        "count": 8
+        "count": 12
       },
       "textureImages.customTexture": {
-        "count": 5
+        "count": 18
       },
       "textureImages.pngjpgWidth": {
-        "instanceCount": 5,
-        "total": 240,
+        "instanceCount": 18,
+        "total": 608,
         "max": 128,
         "min": 16,
-        "average": 48
+        "average": 34
       },
       "textureImages.pngjpgHeight": {
-        "instanceCount": 5,
-        "total": 208,
+        "instanceCount": 18,
+        "total": 544,
         "max": 128,
         "min": 16,
-        "average": 42
+        "average": 30
       },
       "textureImages.pngjpgTexels": {
-        "instanceCount": 5,
-        "total": 19200,
+        "instanceCount": 18,
+        "total": 40448,
         "max": 16384,
         "min": 256,
-        "average": 3840
+        "average": 2247
       },
       "textureImages.pngjpgTextureMemory": {
-        "instanceCount": 5,
-        "total": 76800,
+        "instanceCount": 18,
+        "total": 161792,
         "max": 65536,
         "min": 1024,
-        "average": 15360
+        "average": 8988
       },
       "textureImages.width": {
-        "instanceCount": 5,
-        "total": 240,
+        "instanceCount": 18,
+        "total": 608,
         "max": 128,
         "min": 16,
-        "average": 48
+        "average": 34
       },
       "textureImages.height": {
-        "instanceCount": 5,
-        "total": 208,
+        "instanceCount": 18,
+        "total": 544,
         "max": 128,
         "min": 16,
-        "average": 42
+        "average": 30
       },
       "textureImages.texels": {
-        "instanceCount": 5,
-        "total": 19200,
+        "instanceCount": 18,
+        "total": 40448,
         "max": 16384,
         "min": 256,
-        "average": 3840
+        "average": 2247
       },
       "textureImages.textureMemory": {
-        "instanceCount": 5,
-        "total": 76800,
+        "instanceCount": 18,
+        "total": 161792,
         "max": 65536,
         "min": 1024,
-        "average": 15360
+        "average": 8988
       },
       "textureImages.nonVanillaTexels": {
-        "instanceCount": 5,
-        "total": 19200,
+        "instanceCount": 18,
+        "total": 40448,
         "max": 16384,
         "min": 256,
-        "average": 3840
+        "average": 2247
       },
       "textureImages.nonVanillaTextureMemory": {
-        "instanceCount": 5,
-        "total": 76800,
+        "instanceCount": 18,
+        "total": 161792,
         "max": 65536,
         "min": 1024,
-        "average": 15360
+        "average": 8988
+      },
+      "textureImages.nonTiedWidth": {
+        "instanceCount": 2,
+        "total": 192,
+        "max": 128,
+        "min": 64,
+        "average": 96
+      },
+      "textureImages.nonTiedHeight": {
+        "instanceCount": 2,
+        "total": 160,
+        "max": 128,
+        "min": 32,
+        "average": 80
+      },
+      "textureImages.nonTiedTexels": {
+        "instanceCount": 2,
+        "total": 18432,
+        "max": 16384,
+        "min": 2048,
+        "average": 9216
+      },
+      "textureImages.nonTiedTextureMemory": {
+        "instanceCount": 2,
+        "total": 73728,
+        "max": 65536,
+        "min": 8192,
+        "average": 36864
+      },
+      "textureImages.nonTiedNonVanillaTexels": {
+        "instanceCount": 2,
+        "total": 18432,
+        "max": 16384,
+        "min": 2048,
+        "average": 9216
+      },
+      "textureImages.nonTiedNonVanillaTextureMemory": {
+        "instanceCount": 2,
+        "total": 73728,
+        "max": 65536,
+        "min": 8192,
+        "average": 36864
+      },
+      "textureImages.itemWidth": {
+        "instanceCount": 14,
+        "total": 224,
+        "max": 16,
+        "min": 16,
+        "average": 16
+      },
+      "textureImages.itemHeight": {
+        "instanceCount": 14,
+        "total": 224,
+        "max": 16,
+        "min": 16,
+        "average": 16
+      },
+      "textureImages.itemTexels": {
+        "instanceCount": 14,
+        "total": 3584,
+        "max": 256,
+        "min": 256,
+        "average": 256
+      },
+      "textureImages.itemTextureMemory": {
+        "instanceCount": 14,
+        "total": 14336,
+        "max": 1024,
+        "min": 1024,
+        "average": 1024
+      },
+      "textureImages.itemNonVanillaTexels": {
+        "instanceCount": 14,
+        "total": 3584,
+        "max": 256,
+        "min": 256,
+        "average": 256
+      },
+      "textureImages.itemNonVanillaTextureMemory": {
+        "instanceCount": 14,
+        "total": 14336,
+        "max": 1024,
+        "min": 1024,
+        "average": 1024
       },
       "textureImages.entityWidth": {
         "instanceCount": 2,
@@ -1578,48 +1602,6 @@
         "min": 8192,
         "average": 36864
       },
-      "textureImages.itemWidth": {
-        "instanceCount": 3,
-        "total": 48,
-        "max": 16,
-        "min": 16,
-        "average": 16
-      },
-      "textureImages.itemHeight": {
-        "instanceCount": 3,
-        "total": 48,
-        "max": 16,
-        "min": 16,
-        "average": 16
-      },
-      "textureImages.itemTexels": {
-        "instanceCount": 3,
-        "total": 768,
-        "max": 256,
-        "min": 256,
-        "average": 256
-      },
-      "textureImages.itemTextureMemory": {
-        "instanceCount": 3,
-        "total": 3072,
-        "max": 1024,
-        "min": 1024,
-        "average": 1024
-      },
-      "textureImages.itemNonVanillaTexels": {
-        "instanceCount": 3,
-        "total": 768,
-        "max": 256,
-        "min": 256,
-        "average": 256
-      },
-      "textureImages.itemNonVanillaTextureMemory": {
-        "instanceCount": 3,
-        "total": 3072,
-        "max": 1024,
-        "min": 1024,
-        "average": 1024
-      },
       "textureImages.vanillaGameTextureCoverage": {
         "overrideCount": 0,
         "vanillaTextureCount": 2526,
@@ -1627,17 +1609,17 @@
       },
       "textureImagesTier0.nonVanillaTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier0.totalTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier0.blockAtlasTextureMemoryTier": {
         "instanceCount": 1,
@@ -1648,24 +1630,24 @@
       },
       "textureImagesTier0.itemAtlasTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 4096,
-        "max": 4096,
-        "min": 4096,
-        "average": 4096
+        "total": 8192,
+        "max": 8192,
+        "min": 8192,
+        "average": 8192
       },
       "textureImagesTier1.nonVanillaTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier1.totalTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier1.blockAtlasTextureMemoryTier": {
         "instanceCount": 1,
@@ -1676,24 +1658,24 @@
       },
       "textureImagesTier1.itemAtlasTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 4096,
-        "max": 4096,
-        "min": 4096,
-        "average": 4096
+        "total": 8192,
+        "max": 8192,
+        "min": 8192,
+        "average": 8192
       },
       "textureImagesTier2.nonVanillaTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier2.totalTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier2.blockAtlasTextureMemoryTier": {
         "instanceCount": 1,
@@ -1704,24 +1686,24 @@
       },
       "textureImagesTier2.itemAtlasTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 4096,
-        "max": 4096,
-        "min": 4096,
-        "average": 4096
+        "total": 8192,
+        "max": 8192,
+        "min": 8192,
+        "average": 8192
       },
       "textureImagesTier3.nonVanillaTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier3.totalTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier3.blockAtlasTextureMemoryTier": {
         "instanceCount": 1,
@@ -1732,24 +1714,24 @@
       },
       "textureImagesTier3.itemAtlasTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 4096,
-        "max": 4096,
-        "min": 4096,
-        "average": 4096
+        "total": 8192,
+        "max": 8192,
+        "min": 8192,
+        "average": 8192
       },
       "textureImagesTier4.nonVanillaTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier4.totalTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier4.blockAtlasTextureMemoryTier": {
         "instanceCount": 1,
@@ -1760,24 +1742,24 @@
       },
       "textureImagesTier4.itemAtlasTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 4096,
-        "max": 4096,
-        "min": 4096,
-        "average": 4096
+        "total": 8192,
+        "max": 8192,
+        "min": 8192,
+        "average": 8192
       },
       "textureImagesTier5.nonVanillaTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier5.totalTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 76800,
-        "max": 76800,
-        "min": 76800,
-        "average": 76800
+        "total": 80896,
+        "max": 80896,
+        "min": 80896,
+        "average": 80896
       },
       "textureImagesTier5.blockAtlasTextureMemoryTier": {
         "instanceCount": 1,
@@ -1788,25 +1770,25 @@
       },
       "textureImagesTier5.itemAtlasTextureMemoryTier": {
         "instanceCount": 1,
-        "total": 4096,
-        "max": 4096,
-        "min": 4096,
-        "average": 4096
+        "total": 8192,
+        "max": 8192,
+        "min": 8192,
+        "average": 8192
       }
     },
     "errorCount": 0,
     "internalProcessingErrorCount": 0,
-    "warningCount": 42,
+    "warningCount": 66,
     "testSuccessCount": 39,
     "testFailCount": 0,
     "testNotApplicableCount": 12,
     "errorSummary": "",
     "internalProcessingErrorSummary": "",
-    "warningSummary": "WARNING: [STRICT101] (/AutoMiner_BP/entities/advanced_minecart.json) Uses a runtime_identifier override: minecraft:minecart\nWARNING: [UNLINK323] (/AutoMiner_BP/loot_tables/blocks/copper_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/loot_tables/blocks/copper_rail.json to `minere:copper_rail`\nWARNING: [UNLINK323] (/AutoMiner_BP/loot_tables/blocks/diamond_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/loot_tables/blocks/diamond_rail.json to `minere:diamond_rail`\nWARNING: [UNLINK323] (/AutoMiner_BP/loot_tables/blocks/emerald_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/loot_tables/blocks/emerald_rail.json to `minere:emerald_rail`\nWARNING: [UNLINK323] (/AutoMiner_BP/loot_tables/blocks/golden_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/loot_tables/blocks/golden_rail.json to `minere:golden_rail`\nWARNING: [UNLINK323] (/AutoMiner_BP/loot_tables/blocks/iron_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/loot_tables/blocks/iron_rail.json to `minere:iron_rail`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:amethyst_shard`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:blast_furnace`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:chest_minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:hopper_minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:piston`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:redstone`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_drill.json to `minecraft:copper_ingot`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_drill.json to `minecraft:stick`",
+    "warningSummary": "WARNING: [STRICT101] (/AutoMiner_BP/entities/advanced_minecart.json) Uses a runtime_identifier override: minecraft:minecart\nWARNING: [UNLINK191] (/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/advanced_minecart.png) Texture does not have any items in this pack that are using this.\nWARNING: [UNLINK191] (/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/auto_miner.png) Texture does not have any items in this pack that are using this.\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:amethyst_shard`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:blast_furnace`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:chest_minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:hopper_minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:piston`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:redstone`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_drill.json to `minecraft:copper_ingot`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_drill.json to `minecraft:stick`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_rail.json to `minecraft:copper_ingot`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_rail.json to `minecraft:stick`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/diamond_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/diamond_drill.json to `minecraft:diamond`",
     "testFailSummary": "",
-    "infoGenerationTime": 967,
-    "endToEndGenerationTime": 1183,
-    "reds": 183745,
+    "infoGenerationTime": 807,
+    "endToEndGenerationTime": 1025,
+    "reds": 346484,
     "summary": {
       "BASEGAMEVER": {
         "2": {
@@ -1917,7 +1899,7 @@
         },
         "120": {
           "title": "Minor Version Low",
-          "defaultMessage": "Behavior pack entity type format version (1.12.0) has a lower minor version number compared to the current version or the previous current minor version",
+          "defaultMessage": "Behavior pack entity type format version (1.20.0) has a lower minor version number compared to the current version or the previous current minor version",
           "recommendations": 2
         }
       },
@@ -1947,12 +1929,17 @@
         "136": {
           "title": "Item Minor High",
           "defaultMessage": "Item type version (1.20.80) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-          "recommendations": 1
+          "recommendations": 2
         },
         "156": {
           "title": "Recipe Minor High",
           "defaultMessage": "Recipe version (1.12.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-          "recommendations": 12
+          "recommendations": 10
+        },
+        "160": {
+          "title": "Recipe Patch High",
+          "defaultMessage": "Recipe version (1.21.0) has a lower patch version number compared to the expected version (1.26.30)",
+          "recommendations": 4
         },
         "216": {
           "title": "RP Anim Minor High",
@@ -1960,8 +1947,8 @@
           "recommendations": 2
         },
         "296": {
-          "defaultMessage": "Entity type resource version (1.10.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-          "recommendations": 2
+          "defaultMessage": "Entity type resource version (1.20.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
+          "recommendations": 3
         },
         "621": {
           "defaultMessage": "Block type format_version"
@@ -2084,9 +2071,9 @@
           "title": "Recipe count",
           "defaultMessage": "Recipe item count"
         },
-        "251": {
-          "title": "Sound catalog count",
-          "defaultMessage": "Sound catalog item count"
+        "254": {
+          "title": "Minecraft zip count",
+          "defaultMessage": "Minecraft zip item count"
         },
         "258": {
           "title": "TypeScript config count",
@@ -2111,10 +2098,6 @@
         "303": {
           "title": "Icon count",
           "defaultMessage": "Icon item count"
-        },
-        "308": {
-          "title": "Audio count",
-          "defaultMessage": "Audio item count"
         },
         "309": {
           "title": "Behavior pack folder count",
@@ -2146,7 +2129,7 @@
         "120": {
           "title": "Minor Version Low",
           "defaultMessage": "Behavior pack Item Type format version (1.20.80) has a lower minor version number compared to the current version or the previous current minor version",
-          "recommendations": 3
+          "recommendations": 24
         }
       },
       "JSON": {
@@ -2199,10 +2182,6 @@
         "105": {
           "title": "Item Texture",
           "defaultMessage": "Item texture file"
-        },
-        "106": {
-          "title": "Sound Definition",
-          "defaultMessage": "Sound definitions file"
         },
         "108": {
           "title": "Sound File",
@@ -2283,9 +2262,9 @@
           "title": "Recipe",
           "defaultMessage": "Recipe file lines"
         },
-        "151": {
-          "title": "Sound catalog",
-          "defaultMessage": "Sound catalog file lines"
+        "154": {
+          "title": "Minecraft zip",
+          "defaultMessage": "Minecraft zip file size"
         },
         "158": {
           "title": "TypeScript config",
@@ -2310,10 +2289,6 @@
         "203": {
           "title": "Icon",
           "defaultMessage": "Icon file size"
-        },
-        "208": {
-          "title": "Audio",
-          "defaultMessage": "Audio file size"
         },
         "209": {
           "title": "Behavior pack folder",
@@ -2462,7 +2437,7 @@
         "104": {
           "title": "Mixed Case Path",
           "defaultMessage": "File path contains non-lowercase letters",
-          "recommendations": 23
+          "recommendations": 43
         }
       },
       "PRJINT": {
@@ -2637,18 +2612,27 @@
           "defaultMessage": "Unlinked Items completed successfully",
           "testCompleteSuccesses": 1
         },
+        "191": {
+          "title": "Unused Item",
+          "defaultMessage": "Texture does not have any items in this pack that are using this.",
+          "warnings": 2
+        },
         "205": {
           "title": "Vanilla Reference",
-          "defaultMessage": "Link to vanilla model item; avoid if possible",
-          "recommendations": 3
+          "defaultMessage": "Link to vanilla texture item; avoid if possible",
+          "recommendations": 1
         },
         "323": {
           "defaultMessage": "Link to item type is not found in this pack",
-          "warnings": 36
+          "warnings": 52
+        },
+        "351": {
+          "defaultMessage": "Link to sound catalog is not found in this pack",
+          "warnings": 1
         },
         "399": {
           "defaultMessage": "Link to texture is not found in this pack",
-          "warnings": 5
+          "warnings": 10
         }
       },
       "VALFILE": {
@@ -2732,31 +2716,31 @@
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/copper_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/diamond_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/emerald_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/golden_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/iron_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json"
     },
     {
       "iTp": 2,
@@ -2776,7 +2760,153 @@
       "gId": "COMJSON",
       "gIx": 1123,
       "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/copper_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/copper_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
       "p": "/AutoMiner_BP/items/diamond_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/diamond_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/gold_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/golden_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/iron_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/iron_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/stone_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json"
     },
     {
       "iTp": 2,
@@ -2789,6 +2919,12 @@
       "gId": "COMJSON",
       "gIx": 1128,
       "p": "/AutoMiner_RP/animations/auto_miner.animation.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1129,
+      "p": "/AutoMiner_RP/animation_controllers/advanced_minecart.controller.json"
     },
     {
       "iTp": 2,
@@ -2906,37 +3042,43 @@
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 120,
-      "p": "/AutoMiner_BP/blocks/copper_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 120,
-      "p": "/AutoMiner_BP/blocks/diamond_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 120,
-      "p": "/AutoMiner_BP/blocks/emerald_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 120,
-      "p": "/AutoMiner_BP/blocks/golden_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 120,
-      "p": "/AutoMiner_BP/blocks/iron_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 136,
       "p": "/AutoMiner_BP/items/advanced_minecart.item.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "FORMATVER",
+      "gIx": 136,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
     },
     {
       "iTp": 6,
@@ -2955,71 +3097,80 @@
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/copper_drill.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/copper_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/diamond_drill.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/diamond_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/emerald_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/gold_drill.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/golden_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 156,
       "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/iron_drill.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/iron_rail.json"
+      "gIx": 160,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json"
     },
     {
       "iTp": 6,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/stone_drill.json"
+      "gIx": 160,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "FORMATVER",
+      "gIx": 160,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "FORMATVER",
+      "gIx": 160,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json"
     },
     {
       "iTp": 6,
@@ -3043,6 +3194,14 @@
       "iTp": 6,
       "gId": "FORMATVER",
       "gIx": 296,
+      "m": "Entity type resource version (1.10.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
+      "p": "/AutoMiner_RP/entity/advanced_minecart.render_controller.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "FORMATVER",
+      "gIx": 296,
+      "m": "Entity type resource version (1.10.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
       "p": "/AutoMiner_RP/entity/auto_miner.entity.json"
     },
     {
@@ -3052,8 +3211,8 @@
       "p": "/AutoMiner_BP/blocks/copper_rail.json",
       "d": [
         1,
-        21,
-        0
+        26,
+        30
       ]
     },
     {
@@ -3063,8 +3222,8 @@
       "p": "/AutoMiner_BP/blocks/diamond_rail.json",
       "d": [
         1,
-        21,
-        0
+        26,
+        30
       ]
     },
     {
@@ -3074,8 +3233,8 @@
       "p": "/AutoMiner_BP/blocks/emerald_rail.json",
       "d": [
         1,
-        21,
-        0
+        26,
+        30
       ]
     },
     {
@@ -3083,6 +3242,28 @@
       "gId": "FORMATVER",
       "gIx": 621,
       "p": "/AutoMiner_BP/blocks/golden_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 621,
+      "p": "/AutoMiner_BP/blocks/iron_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 621,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json",
       "d": [
         1,
         21,
@@ -3093,7 +3274,40 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 621,
-      "p": "/AutoMiner_BP/blocks/iron_rail.json",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json",
+      "d": [
+        1,
+        21,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 621,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json",
+      "d": [
+        1,
+        21,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 621,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json",
+      "d": [
+        1,
+        21,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 621,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json",
       "d": [
         1,
         21,
@@ -3126,7 +3340,238 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
+      "p": "/AutoMiner_BP/items/copper_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/copper_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
       "p": "/AutoMiner_BP/items/diamond_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/diamond_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/emerald_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/gold_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/golden_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/iron_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/iron_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/stone_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json",
+      "d": [
+        1,
+        20,
+        80
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json",
       "d": [
         1,
         21,
@@ -3159,6 +3604,17 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 629,
+      "p": "/AutoMiner_RP/animation_controllers/advanced_minecart.controller.json",
+      "d": [
+        1,
+        10,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 629,
       "p": "/AutoMiner_RP/animation_controllers/auto_miner.controller.json",
       "d": [
         1,
@@ -3171,6 +3627,17 @@
       "gId": "FORMATVER",
       "gIx": 630,
       "p": "/AutoMiner_RP/entity/advanced_minecart.entity.json",
+      "d": [
+        1,
+        20,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 630,
+      "p": "/AutoMiner_RP/entity/advanced_minecart.render_controller.json",
       "d": [
         1,
         10,
@@ -3217,8 +3684,8 @@
       "p": "/AutoMiner_BP/recipes/copper_drill.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3228,8 +3695,8 @@
       "p": "/AutoMiner_BP/recipes/copper_rail.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3239,8 +3706,8 @@
       "p": "/AutoMiner_BP/recipes/diamond_drill.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3250,8 +3717,8 @@
       "p": "/AutoMiner_BP/recipes/diamond_rail.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3261,8 +3728,8 @@
       "p": "/AutoMiner_BP/recipes/emerald_rail.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3272,8 +3739,8 @@
       "p": "/AutoMiner_BP/recipes/gold_drill.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3283,8 +3750,8 @@
       "p": "/AutoMiner_BP/recipes/golden_rail.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3294,8 +3761,8 @@
       "p": "/AutoMiner_BP/recipes/iron_drill.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3305,8 +3772,8 @@
       "p": "/AutoMiner_BP/recipes/iron_rail.json",
       "d": [
         1,
-        20,
-        10
+        26,
+        30
       ]
     },
     {
@@ -3316,8 +3783,140 @@
       "p": "/AutoMiner_BP/recipes/stone_drill.json",
       "d": [
         1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json",
+      "d": [
+        1,
+        12,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
+      "d": [
+        1,
         20,
         10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json",
+      "d": [
+        1,
+        20,
+        10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json",
+      "d": [
+        1,
+        20,
+        10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json",
+      "d": [
+        1,
+        21,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json",
+      "d": [
+        1,
+        20,
+        10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json",
+      "d": [
+        1,
+        20,
+        10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json",
+      "d": [
+        1,
+        21,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json",
+      "d": [
+        1,
+        20,
+        10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json",
+      "d": [
+        1,
+        21,
+        0
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json",
+      "d": [
+        1,
+        20,
+        10
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json",
+      "d": [
+        1,
+        21,
+        0
       ]
     },
     {
@@ -3341,11 +3940,11 @@
       "gIx": 102,
       "fs": {
         "cubes": {
-          "instanceCount": 1,
-          "total": 26,
+          "instanceCount": 4,
+          "total": 54,
           "max": 26,
-          "min": 26,
-          "average": 26
+          "min": 1,
+          "average": 14
         }
       }
     },
@@ -3368,6 +3967,18 @@
     {
       "iTp": 2,
       "gId": "ITEMS",
+      "gIx": 102,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "ITEMS",
+      "gIx": 103,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "ITEMS",
       "gIx": 103,
       "p": "/AutoMiner_RP/manifest.json"
     },
@@ -3375,13 +3986,13 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 202,
-      "d": 50
+      "d": 94
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 205,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
@@ -3399,25 +4010,25 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 214,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 221,
-      "d": 5
+      "d": 10
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 223,
-      "d": 3
+      "d": 24
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 224,
-      "d": 5
+      "d": 10
     },
     {
       "iTp": 2,
@@ -3435,19 +4046,19 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 229,
-      "d": 1
-    },
-    {
-      "iTp": 2,
-      "gId": "ITEMS",
-      "gIx": 230,
       "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
+      "gIx": 230,
+      "d": 3
+    },
+    {
+      "iTp": 2,
+      "gId": "ITEMS",
       "gIx": 232,
-      "d": 1
+      "d": 4
     },
     {
       "iTp": 2,
@@ -3465,13 +4076,13 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 243,
-      "d": 12
+      "d": 24
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
-      "gIx": 251,
-      "d": 1
+      "gIx": 254,
+      "d": 2
     },
     {
       "iTp": 2,
@@ -3495,37 +4106,31 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 292,
-      "d": 1
-    },
-    {
-      "iTp": 2,
-      "gId": "ITEMS",
-      "gIx": 299,
-      "d": 5
-    },
-    {
-      "iTp": 2,
-      "gId": "ITEMS",
-      "gIx": 303,
       "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
-      "gIx": 308,
+      "gIx": 299,
+      "d": 18
+    },
+    {
+      "iTp": 2,
+      "gId": "ITEMS",
+      "gIx": 303,
       "d": 4
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 309,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 310,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
@@ -3544,7 +4149,7 @@
       "gIx": 53,
       "fs": {
         "noOverrideIdentifier": {
-          "count": 3
+          "count": 24
         }
       }
     },
@@ -3571,7 +4176,153 @@
       "gId": "ITEMTYPE",
       "gIx": 120,
       "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/copper_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/copper_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
       "p": "/AutoMiner_BP/items/diamond_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/diamond_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/emerald_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/gold_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/golden_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/iron_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/iron_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/AutoMiner_BP/items/stone_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ITEMTYPE",
+      "gIx": 120,
+      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json"
     },
     {
       "iTp": 1,
@@ -3594,31 +4345,31 @@
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/copper_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/diamond_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/emerald_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/golden_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1121,
-      "p": "/AutoMiner_BP/blocks/iron_rail.json"
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json"
     },
     {
       "iTp": 2,
@@ -3638,7 +4389,153 @@
       "gId": "JSON",
       "gIx": 1123,
       "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/copper_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/copper_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
       "p": "/AutoMiner_BP/items/diamond_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/diamond_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/gold_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/golden_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/iron_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/iron_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/AutoMiner_BP/items/stone_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1123,
+      "m": "Item type is not at a current format version (is at 1.21.30)",
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json"
     },
     {
       "iTp": 2,
@@ -3651,6 +4548,12 @@
       "gId": "JSON",
       "gIx": 1128,
       "p": "/AutoMiner_RP/animations/auto_miner.animation.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1129,
+      "p": "/AutoMiner_RP/animation_controllers/advanced_minecart.controller.json"
     },
     {
       "iTp": 2,
@@ -3716,18 +4619,114 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 102,
+      "d": "/blocks/copper_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftDestructible": 1,
+          "minecraftBreakInfo": 1,
+          "minecraftLoot": 1,
+          "minecraftWaterlogged": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/blocks/diamond_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftDestructible": 1,
+          "minecraftBreakInfo": 1,
+          "minecraftLoot": 1,
+          "minecraftStepSound": 1,
+          "minecraftWaterlogged": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/blocks/emerald_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftDestructible": 1,
+          "minecraftBreakInfo": 1,
+          "minecraftLoot": 1,
+          "minecraftWaterlogged": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/blocks/golden_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftDestructible": 1,
+          "minecraftBreakInfo": 1,
+          "minecraftLoot": 1,
+          "minecraftWaterlogged": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/blocks/iron_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftDestructible": 1,
+          "minecraftBreakInfo": 1,
+          "minecraftLoot": 1,
+          "minecraftWaterlogged": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/loot_tables/blocks/copper_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/loot_tables/blocks/diamond_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/loot_tables/blocks/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/loot_tables/blocks/golden_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "d": "/loot_tables/blocks/iron_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
       "p": "/AutoMiner_BP/blocks/copper_rail.json",
       "d": "/AutoMiner_BP/blocks/copper_rail.json",
       "fs": {
         "blockDefaultComponents": {
+          "minecraftDestructible": 1,
           "minecraftBreakInfo": 1,
-          "minecraftDestroyTime": 1,
-          "minecraftExplosionResistance": 1,
-          "minecraftHardness": 1,
-          "minecraftIsSpawnable": 1,
           "minecraftLoot": 1,
-          "minecraftMineable": 1,
-          "minecraftStepSound": 1,
           "minecraftWaterlogged": 1
         }
       }
@@ -3740,13 +4739,9 @@
       "d": "/AutoMiner_BP/blocks/diamond_rail.json",
       "fs": {
         "blockDefaultComponents": {
+          "minecraftDestructible": 1,
           "minecraftBreakInfo": 1,
-          "minecraftDestroyTime": 1,
-          "minecraftExplosionResistance": 1,
-          "minecraftHardness": 1,
-          "minecraftIsSpawnable": 1,
           "minecraftLoot": 1,
-          "minecraftMineable": 1,
           "minecraftStepSound": 1,
           "minecraftWaterlogged": 1
         }
@@ -3760,14 +4755,9 @@
       "d": "/AutoMiner_BP/blocks/emerald_rail.json",
       "fs": {
         "blockDefaultComponents": {
+          "minecraftDestructible": 1,
           "minecraftBreakInfo": 1,
-          "minecraftDestroyTime": 1,
-          "minecraftExplosionResistance": 1,
-          "minecraftHardness": 1,
-          "minecraftIsSpawnable": 1,
           "minecraftLoot": 1,
-          "minecraftMineable": 1,
-          "minecraftStepSound": 1,
           "minecraftWaterlogged": 1
         }
       }
@@ -3780,14 +4770,9 @@
       "d": "/AutoMiner_BP/blocks/golden_rail.json",
       "fs": {
         "blockDefaultComponents": {
+          "minecraftDestructible": 1,
           "minecraftBreakInfo": 1,
-          "minecraftDestroyTime": 1,
-          "minecraftExplosionResistance": 1,
-          "minecraftHardness": 1,
-          "minecraftIsSpawnable": 1,
           "minecraftLoot": 1,
-          "minecraftMineable": 1,
-          "minecraftStepSound": 1,
           "minecraftWaterlogged": 1
         }
       }
@@ -3800,14 +4785,9 @@
       "d": "/AutoMiner_BP/blocks/iron_rail.json",
       "fs": {
         "blockDefaultComponents": {
+          "minecraftDestructible": 1,
           "minecraftBreakInfo": 1,
-          "minecraftDestroyTime": 1,
-          "minecraftExplosionResistance": 1,
-          "minecraftHardness": 1,
-          "minecraftIsSpawnable": 1,
           "minecraftLoot": 1,
-          "minecraftMineable": 1,
-          "minecraftStepSound": 1,
           "minecraftWaterlogged": 1
         }
       }
@@ -3851,6 +4831,165 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
+      "d": "/items/advanced_minecart.item.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftGlint": 1,
+          "minecraftIcon": 1,
+          "minecraftEntityPlacer": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/auto_miner.item.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftCustomComponents": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/copper_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/copper_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/diamond_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/diamond_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/emerald_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/gold_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/golden_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/iron_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/iron_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "d": "/items/stone_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
       "p": "/AutoMiner_BP/items/advanced_minecart.item.json",
       "d": "/AutoMiner_BP/items/advanced_minecart.item.json",
       "fs": {
@@ -3882,8 +5021,23 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/diamond_drill.json",
-      "d": "/AutoMiner_BP/items/diamond_drill.json",
+      "p": "/AutoMiner_BP/items/copper_drill.json",
+      "d": "/AutoMiner_BP/items/copper_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/copper_rail.json",
+      "d": "/AutoMiner_BP/items/copper_rail.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -3894,16 +5048,127 @@
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 105,
-      "p": "/AutoMiner_RP/textures/item_texture.json",
-      "d": "/AutoMiner_RP/textures/item_texture.json"
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/diamond_drill.json",
+      "d": "/AutoMiner_BP/items/diamond_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
     },
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 106,
-      "p": "/AutoMiner_RP/sounds/sound_definitions.json",
-      "d": "/AutoMiner_RP/sounds/sound_definitions.json"
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/diamond_rail.json",
+      "d": "/AutoMiner_BP/items/diamond_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/emerald_rail.json",
+      "d": "/AutoMiner_BP/items/emerald_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/gold_drill.json",
+      "d": "/AutoMiner_BP/items/gold_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/golden_rail.json",
+      "d": "/AutoMiner_BP/items/golden_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/iron_drill.json",
+      "d": "/AutoMiner_BP/items/iron_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/iron_rail.json",
+      "d": "/AutoMiner_BP/items/iron_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/stone_drill.json",
+      "d": "/AutoMiner_BP/items/stone_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 105,
+      "d": "/textures/item_texture.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 105,
+      "p": "/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_RP/textures/item_texture.json"
     },
     {
       "iTp": 2,
@@ -3945,18 +5210,18 @@
       "gIx": 102,
       "fs": {
         "size": {
-          "instanceCount": 50,
-          "total": 85179,
-          "max": 10759,
+          "instanceCount": 94,
+          "total": 158604,
+          "max": 10010,
           "min": 97,
-          "average": 1704
+          "average": 1687
         },
         "lines": {
-          "instanceCount": 50,
-          "total": 3302,
+          "instanceCount": 94,
+          "total": 6048,
           "max": 419,
           "min": 5,
-          "average": 66
+          "average": 64
         }
       }
     },
@@ -3966,15 +5231,15 @@
       "gIx": 105,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 781,
+          "instanceCount": 2,
+          "total": 1562,
           "max": 781,
           "min": 781,
           "average": 781
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 34,
+          "instanceCount": 2,
+          "total": 68,
           "max": 34,
           "min": 34,
           "average": 34
@@ -4009,17 +5274,17 @@
       "fs": {
         "size": {
           "instanceCount": 10,
-          "total": 19701,
-          "max": 11144,
+          "total": 19005,
+          "max": 10400,
           "min": 259,
-          "average": 1970
+          "average": 1901
         },
         "lines": {
           "instanceCount": 10,
-          "total": 733,
-          "max": 374,
+          "total": 711,
+          "max": 351,
           "min": 13,
-          "average": 73
+          "average": 71
         }
       }
     },
@@ -4029,15 +5294,15 @@
       "gIx": 114,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 534,
+          "instanceCount": 2,
+          "total": 1068,
           "max": 534,
           "min": 534,
           "average": 534
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 22,
+          "instanceCount": 2,
+          "total": 44,
           "max": 22,
           "min": 22,
           "average": 22
@@ -4050,18 +5315,18 @@
       "gIx": 121,
       "fs": {
         "size": {
-          "instanceCount": 5,
-          "total": 2535,
-          "max": 509,
-          "min": 503,
-          "average": 507
+          "instanceCount": 10,
+          "total": 3955,
+          "max": 442,
+          "min": 380,
+          "average": 396
         },
         "lines": {
-          "instanceCount": 5,
-          "total": 115,
-          "max": 23,
-          "min": 23,
-          "average": 23
+          "instanceCount": 10,
+          "total": 194,
+          "max": 21,
+          "min": 19,
+          "average": 19
         }
       }
     },
@@ -4071,18 +5336,18 @@
       "gIx": 123,
       "fs": {
         "size": {
-          "instanceCount": 3,
-          "total": 1213,
+          "instanceCount": 24,
+          "total": 8022,
           "max": 493,
-          "min": 236,
-          "average": 404
+          "min": 228,
+          "average": 334
         },
         "lines": {
-          "instanceCount": 3,
-          "total": 56,
+          "instanceCount": 24,
+          "total": 380,
           "max": 23,
           "min": 11,
-          "average": 19
+          "average": 16
         }
       }
     },
@@ -4092,15 +5357,15 @@
       "gIx": 124,
       "fs": {
         "size": {
-          "instanceCount": 5,
-          "total": 395,
+          "instanceCount": 10,
+          "total": 790,
           "max": 80,
           "min": 77,
           "average": 79
         },
         "lines": {
-          "instanceCount": 5,
-          "total": 30,
+          "instanceCount": 10,
+          "total": 60,
           "max": 6,
           "min": 6,
           "average": 6
@@ -4114,17 +5379,17 @@
       "fs": {
         "size": {
           "instanceCount": 1,
-          "total": 201,
-          "max": 201,
-          "min": 201,
-          "average": 201
+          "total": 159,
+          "max": 159,
+          "min": 159,
+          "average": 159
         },
         "lines": {
           "instanceCount": 1,
-          "total": 11,
-          "max": 11,
-          "min": 11,
-          "average": 11
+          "total": 10,
+          "max": 10,
+          "min": 10,
+          "average": 10
         }
       }
     },
@@ -4155,18 +5420,18 @@
       "gIx": 129,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 1224,
+          "instanceCount": 2,
+          "total": 1396,
           "max": 1224,
-          "min": 1224,
-          "average": 1224
+          "min": 172,
+          "average": 698
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 52,
+          "instanceCount": 2,
+          "total": 60,
           "max": 52,
-          "min": 52,
-          "average": 52
+          "min": 8,
+          "average": 30
         }
       }
     },
@@ -4176,18 +5441,18 @@
       "gIx": 130,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 1885,
+          "instanceCount": 3,
+          "total": 2268,
           "max": 1295,
-          "min": 590,
-          "average": 943
+          "min": 350,
+          "average": 756
         },
         "lines": {
-          "instanceCount": 2,
-          "total": 74,
+          "instanceCount": 3,
+          "total": 89,
           "max": 47,
-          "min": 27,
-          "average": 37
+          "min": 15,
+          "average": 30
         }
       }
     },
@@ -4197,18 +5462,18 @@
       "gIx": 132,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 3496,
+          "instanceCount": 4,
+          "total": 7672,
           "max": 3496,
-          "min": 3496,
-          "average": 3496
+          "min": 340,
+          "average": 1918
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 148,
+          "instanceCount": 4,
+          "total": 328,
           "max": 148,
-          "min": 148,
-          "average": 148
+          "min": 16,
+          "average": 82
         }
       }
     },
@@ -4260,39 +5525,32 @@
       "gIx": 143,
       "fs": {
         "size": {
-          "instanceCount": 12,
-          "total": 3969,
+          "instanceCount": 24,
+          "total": 7401,
           "max": 464,
-          "min": 272,
-          "average": 331
+          "min": 254,
+          "average": 308
         },
         "lines": {
-          "instanceCount": 12,
-          "total": 317,
+          "instanceCount": 24,
+          "total": 592,
           "max": 32,
           "min": 17,
-          "average": 26
+          "average": 25
         }
       }
     },
     {
       "iTp": 7,
       "gId": "LINESIZE",
-      "gIx": 151,
+      "gIx": 154,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 557,
-          "max": 557,
-          "min": 557,
-          "average": 557
-        },
-        "lines": {
-          "instanceCount": 1,
-          "total": 30,
-          "max": 30,
-          "min": 30,
-          "average": 30
+          "instanceCount": 2,
+          "total": 84511,
+          "max": 57956,
+          "min": 26555,
+          "average": 42256
         }
       }
     },
@@ -4365,18 +5623,18 @@
       "gIx": 192,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 711,
-          "max": 711,
-          "min": 711,
-          "average": 711
+          "instanceCount": 2,
+          "total": 2026,
+          "max": 1013,
+          "min": 1013,
+          "average": 1013
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 28,
-          "max": 28,
-          "min": 28,
-          "average": 28
+          "instanceCount": 2,
+          "total": 80,
+          "max": 40,
+          "min": 40,
+          "average": 40
         }
       }
     },
@@ -4386,11 +5644,11 @@
       "gIx": 199,
       "fs": {
         "size": {
-          "instanceCount": 5,
-          "total": 10797,
+          "instanceCount": 18,
+          "total": 27418,
           "max": 7786,
           "min": 459,
-          "average": 2159
+          "average": 1523
         }
       }
     },
@@ -4400,25 +5658,11 @@
       "gIx": 203,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 18552,
+          "instanceCount": 4,
+          "total": 37104,
           "max": 9276,
           "min": 9276,
           "average": 9276
-        }
-      }
-    },
-    {
-      "iTp": 7,
-      "gId": "LINESIZE",
-      "gIx": 208,
-      "fs": {
-        "size": {
-          "instanceCount": 4,
-          "total": 2566364,
-          "max": 1020334,
-          "min": 263134,
-          "average": 641591
         }
       }
     },
@@ -4477,6 +5721,28 @@
     {
       "iTp": 2,
       "gId": "MINENGINEVER",
+      "gIx": 605,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "MINENGINEVER",
+      "gIx": 614,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "MINENGINEVER",
       "gIx": 614,
       "p": "/AutoMiner_RP/manifest.json",
       "d": [
@@ -4505,6 +5771,13 @@
     {
       "iTp": 2,
       "gId": "PACK",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "d": "Auto Miner [1.0.2]"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
       "gIx": 105,
       "p": "/AutoMiner_BP/manifest.json",
       "d": "CocoaWarrior's Auto Miner"
@@ -4512,8 +5785,22 @@
     {
       "iTp": 2,
       "gId": "PACK",
+      "gIx": 105,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "d": "CocoaWarrior's Auto Miner"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
       "gIx": 106,
       "p": "/AutoMiner_BP/manifest.json",
+      "d": "2e839411-4a0e-4cee-b106-33d5bde91193|1.0.1"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 106,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
       "d": "2e839411-4a0e-4cee-b106-33d5bde91193|1.0.1"
     },
     {
@@ -4537,6 +5824,24 @@
     {
       "iTp": 2,
       "gId": "PACK",
+      "gIx": 107,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "d": 2
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 107,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
       "gIx": 108,
       "p": "/AutoMiner_BP/manifest.json",
       "d": "2e839411-4a0e-4cee-b106-33d5bde91193"
@@ -4544,8 +5849,32 @@
     {
       "iTp": 2,
       "gId": "PACK",
+      "gIx": 108,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "d": "2e839411-4a0e-4cee-b106-33d5bde91193"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
       "gIx": 109,
       "p": "/AutoMiner_BP/manifest.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 109,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 111,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
     },
     {
       "iTp": 2,
@@ -4562,6 +5891,13 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 112,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": "368af99b-0257-4d18-86ba-056ddbaf52d1"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 112,
       "p": "/AutoMiner_RP/manifest.json",
       "d": "368af99b-0257-4d18-86ba-056ddbaf52d1"
     },
@@ -4569,7 +5905,20 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 113,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 113,
       "p": "/AutoMiner_RP/manifest.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 114,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": "AutoMiner [1.0.2]"
     },
     {
       "iTp": 2,
@@ -4582,6 +5931,13 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 115,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": "CocoaWarrior's Auto Miner Resources"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 115,
       "p": "/AutoMiner_RP/manifest.json",
       "d": "CocoaWarrior's Auto Miner Resources"
     },
@@ -4589,8 +5945,22 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 116,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": "368af99b-0257-4d18-86ba-056ddbaf52d1|1.0.2"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 116,
       "p": "/AutoMiner_RP/manifest.json",
       "d": "368af99b-0257-4d18-86ba-056ddbaf52d1|1.0.2"
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 117,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "d": 2
     },
     {
       "iTp": 2,
@@ -4618,42 +5988,54 @@
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 101,
-      "d": 2938763
+      "d": 558165
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 102,
-      "d": 122
+      "d": 229
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 103,
-      "d": 40
+      "d": 60
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 104,
-      "d": 2728418
+      "d": 288774
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 105,
-      "d": 119
+      "d": 224
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 106,
-      "d": 37
+      "d": 56
     },
     {
       "iTp": 1,
       "gId": "PATHLENGTH",
       "gIx": 1
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "d": "/AutoMiner_1_0_2__v1.0.2.zip"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip"
     },
     {
       "iTp": 6,
@@ -4794,6 +6176,132 @@
       "d": "src/util/vector3Functions.ts"
     },
     {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/machine/autoMiner.js",
+      "d": "machine/autoMiner.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/angerEndermen.js",
+      "d": "mob/angerEndermen.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/castFire.js",
+      "d": "mob/castFire.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/endSpawns.js",
+      "d": "mob/endSpawns.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/enderTeleport.js",
+      "d": "mob/enderTeleport.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/ogreLaugh.js",
+      "d": "mob/ogreLaugh.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/shootWeb.js",
+      "d": "mob/shootWeb.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/throwBy.js",
+      "d": "mob/throwBy.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/armorCurve.js",
+      "d": "player/armorCurve.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/armorWeight.js",
+      "d": "player/armorWeight.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/consumeXp.js",
+      "d": "player/consumeXp.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/healFromItem.js",
+      "d": "player/healFromItem.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/playerHungerHeal.js",
+      "d": "player/playerHungerHeal.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/matchFunctions.js",
+      "d": "util/matchFunctions.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/mathFunctions.js",
+      "d": "util/mathFunctions.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/throwBy.js",
+      "d": "util/throwBy.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/vector2Functions.js",
+      "d": "util/vector2Functions.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/vector3Functions.js",
+      "d": "util/vector3Functions.js"
+    },
+    {
       "iTp": 1,
       "gId": "PRJINT",
       "gIx": 1
@@ -4851,196 +6359,358 @@
       "gIx": 101,
       "fs": {
         "world": {
-          "count": 16
-        },
-        "beforeEvents": {
-          "count": 1
-        },
-        "subscribe": {
-          "count": 1
-        },
-        "data": {
-          "count": 15
-        },
-        "itemComponentRegistry": {
-          "count": 1
-        },
-        "registerCustomComponent": {
-          "count": 1
-        },
-        "entityRemove": {
-          "count": 1
-        },
-        "afterEvents": {
-          "count": 1
-        },
-        "dataDrivenEntityTrigger": {
-          "count": 1
-        },
-        "entity": {
-          "count": 16
-        },
-        "entityLoad": {
-          "count": 1
-        },
-        "entityDie": {
-          "count": 1
-        },
-        "deadEntity": {
-          "count": 1
-        },
-        "itemStack": {
-          "count": 20
-        },
-        "addVector3": {
-          "count": 14
-        },
-        "player": {
-          "count": 17
-        },
-        "dimension": {
-          "count": 27
-        },
-        "location": {
           "count": 32
         },
+        "beforeEvents": {
+          "count": 2
+        },
+        "subscribe": {
+          "count": 2
+        },
+        "data": {
+          "count": 30
+        },
+        "itemComponentRegistry": {
+          "count": 2
+        },
+        "registerCustomComponent": {
+          "count": 2
+        },
+        "entityRemove": {
+          "count": 2
+        },
+        "afterEvents": {
+          "count": 2
+        },
+        "dataDrivenEntityTrigger": {
+          "count": 2
+        },
+        "entity": {
+          "count": 30
+        },
+        "entityLoad": {
+          "count": 2
+        },
+        "entityDie": {
+          "count": 2
+        },
+        "deadEntity": {
+          "count": 2
+        },
+        "system": {
+          "count": 36
+        },
         "block": {
-          "count": 18
+          "count": 28
         },
-        "spawnItem": {
-          "count": 3
+        "blockInfo": {
+          "count": 2
         },
-        "spawnEntity": {
-          "count": 7
+        "typeId": {
+          "count": 62
         },
-        "entityComponentTypes": {
+        "dimension": {
+          "count": 48
+        },
+        "getDimension": {
           "count": 22
         },
+        "getEntities": {
+          "count": 18
+        },
+        "location": {
+          "count": 58
+        },
+        "getBlock": {
+          "count": 20
+        },
+        "speed": {
+          "count": 2
+        },
+        "setProperty": {
+          "count": 6
+        },
+        "runInterval": {
+          "count": 6
+        },
+        "source": {
+          "count": 28
+        },
+        "player": {
+          "count": 30
+        },
+        "itemStack": {
+          "count": 36
+        },
+        "runCommand": {
+          "count": 22
+        },
+        "entityComponentTypes": {
+          "count": 40
+        },
         "itemComponentTypes": {
-          "count": 13
-        },
-        "equipmentSlot": {
-          "count": 10
-        },
-        "getItem": {
-          "count": 9
-        },
-        "getComponent": {
           "count": 24
         },
-        "equippable": {
-          "count": 15
+        "isSneaking": {
+          "count": 6
         },
-        "item": {
+        "getComponent": {
+          "count": 44
+        },
+        "cooldown": {
+          "count": 18
+        },
+        "getCooldownTicksRemaining": {
+          "count": 10
+        },
+        "playSound": {
+          "count": 36
+        },
+        "startCooldown": {
+          "count": 10
+        },
+        "successCount": {
+          "count": 6
+        },
+        "getGameMode": {
+          "count": 16
+        },
+        "maxDistance": {
+          "count": 16
+        },
+        "excludeFamilies": {
+          "count": 4
+        },
+        "addEffect": {
+          "count": 14
+        },
+        "showParticles": {
+          "count": 8
+        },
+        "amplifier": {
+          "count": 14
+        },
+        "getViewDirection": {
           "count": 12
         },
-        "getEquipmentSlot": {
-          "count": 5
+        "spawnEntity": {
+          "count": 10
         },
-        "mainhand": {
+        "projectile": {
+          "count": 12
+        },
+        "owner": {
+          "count": 10
+        },
+        "setRotation": {
+          "count": 10
+        },
+        "getRotation": {
+          "count": 10
+        },
+        "applyImpulse": {
+          "count": 10
+        },
+        "position": {
+          "count": 4
+        },
+        "size": {
+          "count": 8
+        },
+        "timeout": {
+          "count": 4
+        },
+        "runTimeout": {
+          "count": 24
+        },
+        "onUseOn": {
+          "count": 2
+        },
+        "inventory": {
+          "count": 12
+        },
+        "item": {
+          "count": 22
+        },
+        "container": {
+          "count": 8
+        },
+        "getItem": {
+          "count": 16
+        },
+        "selectedSlotIndex": {
           "count": 4
         },
         "durability": {
-          "count": 11
-        },
-        "enchantable": {
-          "count": 6
-        },
-        "hasEnchantment": {
-          "count": 3
-        },
-        "remove": {
-          "count": 5
-        },
-        "system": {
           "count": 18
         },
-        "blockInfo": {
-          "count": 1
+        "getDynamicProperty": {
+          "count": 14
         },
-        "getEntities": {
-          "count": 10
+        "damage": {
+          "count": 12
         },
-        "getBlock": {
-          "count": 10
+        "maxDurability": {
+          "count": 8
         },
-        "speed": {
-          "count": 1
+        "health": {
+          "count": 40
         },
-        "setProperty": {
-          "count": 3
+        "setCurrentValue": {
+          "count": 14
         },
-        "runInterval": {
-          "count": 3
-        },
-        "blockPermutation": {
-          "count": 2
-        },
-        "onTick": {
-          "count": 1
-        },
-        "redstonePower": {
-          "count": 1
-        },
-        "getRedstonePower": {
-          "count": 1
-        },
-        "direction": {
-          "count": 1
-        },
-        "permutation": {
-          "count": 2
-        },
-        "getState": {
-          "count": 2
-        },
-        "blocks": {
-          "count": 1
-        },
-        "below": {
-          "count": 2
-        },
-        "above": {
-          "count": 1
-        },
-        "east": {
-          "count": 1
-        },
-        "west": {
-          "count": 1
-        },
-        "north": {
-          "count": 1
-        },
-        "south": {
-          "count": 1
-        },
-        "isValid": {
+        "setItem": {
           "count": 6
         },
-        "typeId": {
-          "count": 31
+        "pitch": {
+          "count": 8
         },
-        "setPermutation": {
-          "count": 1
+        "damageSource": {
+          "count": 4
         },
-        "resolve": {
-          "count": 1
+        "damagingProjectile": {
+          "count": 4
         },
-        "getAllStates": {
-          "count": 1
+        "applyDamage": {
+          "count": 8
+        },
+        "cause": {
+          "count": 10
+        },
+        "damagingEntity": {
+          "count": 8
+        },
+        "minedBlockPermutation": {
+          "count": 4
+        },
+        "getItemStack": {
+          "count": 4
+        },
+        "onMineBlock": {
+          "count": 4
+        },
+        "entityDamageCause": {
+          "count": 8
+        },
+        "addVector3": {
+          "count": 24
+        },
+        "currentTick": {
+          "count": 8
+        },
+        "setDynamicProperty": {
+          "count": 14
         },
         "spawnParticle": {
-          "count": 7
+          "count": 12
         },
-        "playSound": {
-          "count": 19
+        "getEntitiesFromViewDirection": {
+          "count": 2
+        },
+        "targetLocation": {
+          "count": 2
+        },
+        "getBlockFromViewDirection": {
+          "count": 2
+        },
+        "getHeadLocation": {
+          "count": 4
+        },
+        "filter": {
+          "count": 6
+        },
+        "entityAttack": {
+          "count": 6
+        },
+        "sonicBoom": {
+          "count": 4
+        },
+        "onHitEntity": {
+          "count": 6
+        },
+        "range": {
+          "count": 2
+        },
+        "attackingEntity": {
+          "count": 4
+        },
+        "hitEntity": {
+          "count": 6
+        },
+        "currentValue": {
+          "count": 14
+        },
+        "magic": {
+          "count": 2
         },
         "entities": {
           "count": 2
         },
-        "maxDistance": {
-          "count": 9
+        "targetEntity": {
+          "count": 4
+        },
+        "typeFamily": {
+          "count": 8
+        },
+        "closest": {
+          "count": 8
+        },
+        "families": {
+          "count": 2
+        },
+        "getTypeFamilies": {
+          "count": 6
+        },
+        "volume": {
+          "count": 12
+        },
+        "level": {
+          "count": 6
+        },
+        "heightRange": {
+          "count": 20
+        },
+        "gameMode": {
+          "count": 6
+        },
+        "enchantments": {
+          "count": 2
+        },
+        "enchantable": {
+          "count": 8
+        },
+        "getEnchantment": {
+          "count": 6
+        },
+        "items": {
+          "count": 6
+        },
+        "remove": {
+          "count": 8
+        },
+        "equipmentSlot": {
+          "count": 16
+        },
+        "equippable": {
+          "count": 24
+        },
+        "getEquipmentSlot": {
+          "count": 8
+        },
+        "head": {
+          "count": 6
+        },
+        "chest": {
+          "count": 8
+        },
+        "legs": {
+          "count": 6
+        },
+        "feet": {
+          "count": 6
+        },
+        "offset": {
+          "count": 4
         },
         "riding": {
           "count": 2
@@ -5048,449 +6718,248 @@
         "entityRidingOn": {
           "count": 2
         },
-        "getEquipment": {
-          "count": 3
-        },
-        "head": {
-          "count": 4
-        },
-        "heightRange": {
-          "count": 11
-        },
-        "source": {
-          "count": 14
-        },
-        "runCommand": {
-          "count": 11
-        },
-        "getDimension": {
+        "isValid": {
           "count": 10
         },
-        "isSneaking": {
-          "count": 3
-        },
-        "cooldown": {
-          "count": 9
-        },
-        "getCooldownTicksRemaining": {
-          "count": 5
-        },
-        "startCooldown": {
-          "count": 5
-        },
-        "successCount": {
-          "count": 3
-        },
-        "getGameMode": {
-          "count": 8
-        },
-        "excludeFamilies": {
-          "count": 2
-        },
-        "addEffect": {
-          "count": 7
-        },
-        "showParticles": {
-          "count": 4
-        },
-        "amplifier": {
-          "count": 7
-        },
-        "getViewDirection": {
-          "count": 6
-        },
-        "projectile": {
-          "count": 6
-        },
-        "owner": {
-          "count": 5
-        },
-        "setRotation": {
-          "count": 5
-        },
-        "getRotation": {
-          "count": 5
-        },
-        "applyImpulse": {
-          "count": 5
-        },
-        "position": {
-          "count": 2
-        },
-        "size": {
-          "count": 4
-        },
-        "timeout": {
-          "count": 2
-        },
-        "runTimeout": {
-          "count": 12
-        },
-        "onUseOn": {
-          "count": 1
-        },
-        "inventory": {
-          "count": 6
-        },
-        "container": {
-          "count": 4
-        },
-        "selectedSlotIndex": {
-          "count": 2
-        },
-        "getDynamicProperty": {
-          "count": 7
-        },
-        "damage": {
-          "count": 6
-        },
-        "maxDurability": {
-          "count": 4
-        },
-        "health": {
-          "count": 20
-        },
-        "setCurrentValue": {
-          "count": 7
-        },
-        "setItem": {
-          "count": 3
-        },
-        "pitch": {
-          "count": 4
-        },
-        "damageSource": {
-          "count": 2
-        },
-        "damagingProjectile": {
-          "count": 2
-        },
-        "applyDamage": {
-          "count": 4
-        },
-        "cause": {
-          "count": 5
-        },
-        "damagingEntity": {
-          "count": 4
-        },
-        "minedBlockPermutation": {
-          "count": 2
-        },
-        "getItemStack": {
-          "count": 2
-        },
-        "onMineBlock": {
-          "count": 2
-        },
-        "entityDamageCause": {
-          "count": 4
-        },
-        "currentTick": {
-          "count": 4
-        },
-        "setDynamicProperty": {
-          "count": 7
-        },
-        "getEntitiesFromViewDirection": {
-          "count": 1
-        },
-        "targetLocation": {
-          "count": 1
-        },
-        "getBlockFromViewDirection": {
-          "count": 1
-        },
-        "getHeadLocation": {
-          "count": 2
-        },
-        "filter": {
-          "count": 3
-        },
-        "entityAttack": {
-          "count": 3
-        },
-        "sonicBoom": {
-          "count": 2
-        },
-        "onHitEntity": {
-          "count": 3
-        },
-        "range": {
-          "count": 1
-        },
-        "attackingEntity": {
-          "count": 2
-        },
-        "hitEntity": {
-          "count": 3
-        },
-        "currentValue": {
-          "count": 7
-        },
-        "magic": {
-          "count": 1
-        },
-        "targetEntity": {
-          "count": 2
-        },
-        "typeFamily": {
-          "count": 4
-        },
-        "closest": {
-          "count": 4
-        },
-        "families": {
-          "count": 1
-        },
-        "getTypeFamilies": {
-          "count": 3
-        },
-        "volume": {
-          "count": 6
-        },
-        "level": {
-          "count": 3
-        },
-        "gameMode": {
-          "count": 3
-        },
-        "enchantments": {
-          "count": 1
-        },
-        "getEnchantment": {
-          "count": 3
-        },
-        "items": {
-          "count": 3
-        },
-        "chest": {
-          "count": 4
-        },
-        "legs": {
-          "count": 3
-        },
-        "feet": {
-          "count": 3
-        },
-        "offset": {
-          "count": 2
-        },
         "isAir": {
-          "count": 7
+          "count": 14
         },
         "amount": {
-          "count": 3
-        },
-        "setEquipment": {
-          "count": 1
-        },
-        "removedEntity": {
-          "count": 2
-        },
-        "onCompleteUse": {
-          "count": 1
-        },
-        "blockVolume": {
-          "count": 2
-        },
-        "origin": {
-          "count": 1
-        },
-        "getBlocks": {
-          "count": 1
-        },
-        "excludeTypes": {
-          "count": 2
-        },
-        "iterator": {
-          "count": 1
-        },
-        "getBlockLocationIterator": {
-          "count": 1
-        },
-        "next": {
-          "count": 1
-        },
-        "isEmpty": {
-          "count": 2
-        },
-        "offhand": {
-          "count": 1
-        },
-        "brokenBlockPermutation": {
-          "count": 1
-        },
-        "clearRun": {
-          "count": 2
-        },
-        "rotation": {
-          "count": 1
-        },
-        "runId": {
-          "count": 1
-        },
-        "isInWater": {
-          "count": 1
-        },
-        "isLiquid": {
-          "count": 2
-        },
-        "getProperty": {
-          "count": 1
-        },
-        "isOnGround": {
-          "count": 2
-        },
-        "setType": {
-          "count": 1
-        },
-        "maxAmount": {
-          "count": 1
-        },
-        "addItem": {
-          "count": 1
-        },
-        "teleport": {
-          "count": 4
-        },
-        "target": {
-          "count": 8
-        },
-        "triggerEvent": {
-          "count": 4
-        },
-        "chance": {
           "count": 6
         },
+        "mainhand": {
+          "count": 6
+        },
+        "setEquipment": {
+          "count": 2
+        },
+        "removedEntity": {
+          "count": 4
+        },
+        "spawnItem": {
+          "count": 4
+        },
+        "onCompleteUse": {
+          "count": 2
+        },
+        "blockVolume": {
+          "count": 4
+        },
+        "origin": {
+          "count": 2
+        },
+        "getBlocks": {
+          "count": 2
+        },
+        "excludeTypes": {
+          "count": 4
+        },
+        "iterator": {
+          "count": 2
+        },
+        "getBlockLocationIterator": {
+          "count": 2
+        },
+        "next": {
+          "count": 2
+        },
+        "isEmpty": {
+          "count": 4
+        },
+        "permutation": {
+          "count": 2
+        },
+        "getState": {
+          "count": 2
+        },
+        "blockPermutation": {
+          "count": 2
+        },
+        "getEquipment": {
+          "count": 4
+        },
+        "offhand": {
+          "count": 2
+        },
+        "brokenBlockPermutation": {
+          "count": 2
+        },
+        "clearRun": {
+          "count": 4
+        },
+        "rotation": {
+          "count": 2
+        },
+        "runId": {
+          "count": 2
+        },
+        "isInWater": {
+          "count": 2
+        },
+        "isLiquid": {
+          "count": 4
+        },
+        "getProperty": {
+          "count": 2
+        },
+        "isOnGround": {
+          "count": 4
+        },
+        "setType": {
+          "count": 2
+        },
+        "maxAmount": {
+          "count": 2
+        },
+        "addItem": {
+          "count": 2
+        },
+        "teleport": {
+          "count": 8
+        },
+        "target": {
+          "count": 16
+        },
+        "triggerEvent": {
+          "count": 8
+        },
+        "chance": {
+          "count": 12
+        },
         "delay": {
+          "count": 4
+        },
+        "below": {
           "count": 2
         },
         "getEffect": {
-          "count": 3
+          "count": 6
         },
         "duration": {
-          "count": 1
+          "count": 2
         },
         "scale": {
-          "count": 2
+          "count": 4
         },
         "applyKnockback": {
-          "count": 2
+          "count": 4
         },
         "effectiveMax": {
-          "count": 2
+          "count": 4
         },
         "effectiveMin": {
-          "count": 1
-        },
-        "starve": {
-          "count": 1
-        },
-        "suffocation": {
-          "count": 1
-        },
-        "temperature": {
-          "count": 1
-        },
-        "override": {
-          "count": 1
-        },
-        "ramAttack": {
-          "count": 1
-        },
-        "blockExplosion": {
-          "count": 1
-        },
-        "entityExplosion": {
-          "count": 1
-        },
-        "fireworks": {
-          "count": 1
-        },
-        "anvil": {
-          "count": 1
-        },
-        "fire": {
-          "count": 1
-        },
-        "contact": {
-          "count": 1
-        },
-        "charging": {
-          "count": 1
-        },
-        "lightning": {
-          "count": 1
-        },
-        "fireTick": {
-          "count": 1
-        },
-        "campfire": {
-          "count": 1
-        },
-        "soulCampfire": {
-          "count": 1
-        },
-        "lava": {
-          "count": 1
-        },
-        "magma": {
-          "count": 1
-        },
-        "fall": {
-          "count": 1
-        },
-        "enchantment": {
-          "count": 1
-        },
-        "slot": {
-          "count": 1
-        },
-        "hasItem": {
-          "count": 1
-        },
-        "isSprinting": {
-          "count": 1
-        },
-        "getTotalXp": {
-          "count": 1
-        },
-        "xpEarnedAtCurrentLevel": {
-          "count": 1
-        },
-        "addLevels": {
-          "count": 1
-        },
-        "addExperience": {
-          "count": 1
-        },
-        "totalXpNeededForNextLevel": {
-          "count": 1
-        },
-        "itemId": {
-          "count": 1
-        },
-        "newValue": {
-          "count": 1
-        },
-        "oldValue": {
-          "count": 1
-        },
-        "shift": {
-          "count": 1
-        },
-        "vector": {
           "count": 2
         },
+        "starve": {
+          "count": 2
+        },
+        "suffocation": {
+          "count": 2
+        },
+        "temperature": {
+          "count": 2
+        },
+        "override": {
+          "count": 2
+        },
+        "ramAttack": {
+          "count": 2
+        },
+        "blockExplosion": {
+          "count": 2
+        },
+        "entityExplosion": {
+          "count": 2
+        },
+        "fireworks": {
+          "count": 2
+        },
+        "anvil": {
+          "count": 2
+        },
+        "fire": {
+          "count": 2
+        },
+        "contact": {
+          "count": 2
+        },
+        "charging": {
+          "count": 2
+        },
+        "lightning": {
+          "count": 2
+        },
+        "hasEnchantment": {
+          "count": 4
+        },
+        "fireTick": {
+          "count": 2
+        },
+        "campfire": {
+          "count": 2
+        },
+        "soulCampfire": {
+          "count": 2
+        },
+        "lava": {
+          "count": 2
+        },
+        "magma": {
+          "count": 2
+        },
+        "fall": {
+          "count": 2
+        },
+        "enchantment": {
+          "count": 2
+        },
+        "slot": {
+          "count": 2
+        },
+        "hasItem": {
+          "count": 2
+        },
+        "isSprinting": {
+          "count": 2
+        },
+        "getTotalXp": {
+          "count": 2
+        },
+        "xpEarnedAtCurrentLevel": {
+          "count": 2
+        },
+        "addLevels": {
+          "count": 2
+        },
+        "addExperience": {
+          "count": 2
+        },
+        "totalXpNeededForNextLevel": {
+          "count": 2
+        },
+        "itemId": {
+          "count": 2
+        },
+        "newValue": {
+          "count": 2
+        },
+        "oldValue": {
+          "count": 2
+        },
+        "shift": {
+          "count": 2
+        },
+        "vector": {
+          "count": 4
+        },
         "start": {
-          "count": 1
+          "count": 2
         },
         "args": {
-          "count": 1
+          "count": 2
         },
         "number": {
-          "count": 1
+          "count": 2
         }
       }
     },
@@ -5504,6 +6973,14 @@
       "gId": "SCRIPTMODULE",
       "gIx": 100,
       "p": "/AutoMiner_BP/manifest.json",
+      "d": "1.16.0",
+      "iId": "@minecraft/server"
+    },
+    {
+      "iTp": 2,
+      "gId": "SCRIPTMODULE",
+      "gIx": 100,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
       "d": "1.16.0",
       "iId": "@minecraft/server"
     },
@@ -5567,10 +7044,10 @@
       "gIx": 101,
       "fs": {
         "itemTextureResourceCount": {
-          "count": 1
+          "count": 2
         },
         "entityResourceCount": {
-          "count": 2
+          "count": 3
         },
         "textureReferences": {
           "count": 2
@@ -5579,7 +7056,7 @@
           "count": 2
         },
         "fileCount": {
-          "count": 5
+          "count": 18
         },
         "uniqueTextureHandlesEstimated": {
           "count": 2
@@ -5594,7 +7071,7 @@
           "count": 2
         },
         "uniqueItemTexturePaths": {
-          "count": 8
+          "count": 12
         }
       }
     },
@@ -5609,77 +7086,161 @@
       "gIx": 101,
       "fs": {
         "customTexture": {
-          "count": 5
+          "count": 18
         },
         "pngjpgWidth": {
-          "instanceCount": 5,
-          "total": 240,
+          "instanceCount": 18,
+          "total": 608,
           "max": 128,
           "min": 16,
-          "average": 48
+          "average": 34
         },
         "pngjpgHeight": {
-          "instanceCount": 5,
-          "total": 208,
+          "instanceCount": 18,
+          "total": 544,
           "max": 128,
           "min": 16,
-          "average": 42
+          "average": 30
         },
         "pngjpgTexels": {
-          "instanceCount": 5,
-          "total": 19200,
+          "instanceCount": 18,
+          "total": 40448,
           "max": 16384,
           "min": 256,
-          "average": 3840
+          "average": 2247
         },
         "pngjpgTextureMemory": {
-          "instanceCount": 5,
-          "total": 76800,
+          "instanceCount": 18,
+          "total": 161792,
           "max": 65536,
           "min": 1024,
-          "average": 15360
+          "average": 8988
         },
         "width": {
-          "instanceCount": 5,
-          "total": 240,
+          "instanceCount": 18,
+          "total": 608,
           "max": 128,
           "min": 16,
-          "average": 48
+          "average": 34
         },
         "height": {
-          "instanceCount": 5,
-          "total": 208,
+          "instanceCount": 18,
+          "total": 544,
           "max": 128,
           "min": 16,
-          "average": 42
+          "average": 30
         },
         "texels": {
-          "instanceCount": 5,
-          "total": 19200,
+          "instanceCount": 18,
+          "total": 40448,
           "max": 16384,
           "min": 256,
-          "average": 3840
+          "average": 2247
         },
         "textureMemory": {
-          "instanceCount": 5,
-          "total": 76800,
+          "instanceCount": 18,
+          "total": 161792,
           "max": 65536,
           "min": 1024,
-          "average": 15360
+          "average": 8988
         },
         "nonVanillaTexels": {
-          "instanceCount": 5,
-          "total": 19200,
+          "instanceCount": 18,
+          "total": 40448,
           "max": 16384,
           "min": 256,
-          "average": 3840
+          "average": 2247
         },
         "nonVanillaTextureMemory": {
-          "instanceCount": 5,
-          "total": 76800,
+          "instanceCount": 18,
+          "total": 161792,
           "max": 65536,
           "min": 1024,
-          "average": 15360
+          "average": 8988
+        },
+        "nonTiedWidth": {
+          "instanceCount": 2,
+          "total": 192,
+          "max": 128,
+          "min": 64,
+          "average": 96
+        },
+        "nonTiedHeight": {
+          "instanceCount": 2,
+          "total": 160,
+          "max": 128,
+          "min": 32,
+          "average": 80
+        },
+        "nonTiedTexels": {
+          "instanceCount": 2,
+          "total": 18432,
+          "max": 16384,
+          "min": 2048,
+          "average": 9216
+        },
+        "nonTiedTextureMemory": {
+          "instanceCount": 2,
+          "total": 73728,
+          "max": 65536,
+          "min": 8192,
+          "average": 36864
+        },
+        "nonTiedNonVanillaTexels": {
+          "instanceCount": 2,
+          "total": 18432,
+          "max": 16384,
+          "min": 2048,
+          "average": 9216
+        },
+        "nonTiedNonVanillaTextureMemory": {
+          "instanceCount": 2,
+          "total": 73728,
+          "max": 65536,
+          "min": 8192,
+          "average": 36864
+        },
+        "itemWidth": {
+          "instanceCount": 14,
+          "total": 224,
+          "max": 16,
+          "min": 16,
+          "average": 16
+        },
+        "itemHeight": {
+          "instanceCount": 14,
+          "total": 224,
+          "max": 16,
+          "min": 16,
+          "average": 16
+        },
+        "itemTexels": {
+          "instanceCount": 14,
+          "total": 3584,
+          "max": 256,
+          "min": 256,
+          "average": 256
+        },
+        "itemTextureMemory": {
+          "instanceCount": 14,
+          "total": 14336,
+          "max": 1024,
+          "min": 1024,
+          "average": 1024
+        },
+        "itemNonVanillaTexels": {
+          "instanceCount": 14,
+          "total": 3584,
+          "max": 256,
+          "min": 256,
+          "average": 256
+        },
+        "itemNonVanillaTextureMemory": {
+          "instanceCount": 14,
+          "total": 14336,
+          "max": 1024,
+          "min": 1024,
+          "average": 1024
         },
         "entityWidth": {
           "instanceCount": 2,
@@ -5723,48 +7284,6 @@
           "min": 8192,
           "average": 36864
         },
-        "itemWidth": {
-          "instanceCount": 3,
-          "total": 48,
-          "max": 16,
-          "min": 16,
-          "average": 16
-        },
-        "itemHeight": {
-          "instanceCount": 3,
-          "total": 48,
-          "max": 16,
-          "min": 16,
-          "average": 16
-        },
-        "itemTexels": {
-          "instanceCount": 3,
-          "total": 768,
-          "max": 256,
-          "min": 256,
-          "average": 256
-        },
-        "itemTextureMemory": {
-          "instanceCount": 3,
-          "total": 3072,
-          "max": 1024,
-          "min": 1024,
-          "average": 1024
-        },
-        "itemNonVanillaTexels": {
-          "instanceCount": 3,
-          "total": 768,
-          "max": 256,
-          "min": 256,
-          "average": 256
-        },
-        "itemNonVanillaTextureMemory": {
-          "instanceCount": 3,
-          "total": 3072,
-          "max": 1024,
-          "min": 1024,
-          "average": 1024
-        },
         "vanillaGameTextureCoverage": {
           "overrideCount": 0,
           "vanillaTextureCount": 2526,
@@ -5779,17 +7298,17 @@
       "fs": {
         "nonVanillaTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "totalTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "blockAtlasTextureMemoryTier": {
           "instanceCount": 1,
@@ -5800,10 +7319,10 @@
         },
         "itemAtlasTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 4096,
-          "max": 4096,
-          "min": 4096,
-          "average": 4096
+          "total": 8192,
+          "max": 8192,
+          "min": 8192,
+          "average": 8192
         }
       }
     },
@@ -5814,17 +7333,17 @@
       "fs": {
         "nonVanillaTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "totalTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "blockAtlasTextureMemoryTier": {
           "instanceCount": 1,
@@ -5835,10 +7354,10 @@
         },
         "itemAtlasTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 4096,
-          "max": 4096,
-          "min": 4096,
-          "average": 4096
+          "total": 8192,
+          "max": 8192,
+          "min": 8192,
+          "average": 8192
         }
       }
     },
@@ -5849,17 +7368,17 @@
       "fs": {
         "nonVanillaTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "totalTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "blockAtlasTextureMemoryTier": {
           "instanceCount": 1,
@@ -5870,10 +7389,10 @@
         },
         "itemAtlasTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 4096,
-          "max": 4096,
-          "min": 4096,
-          "average": 4096
+          "total": 8192,
+          "max": 8192,
+          "min": 8192,
+          "average": 8192
         }
       }
     },
@@ -5884,17 +7403,17 @@
       "fs": {
         "nonVanillaTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "totalTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "blockAtlasTextureMemoryTier": {
           "instanceCount": 1,
@@ -5905,10 +7424,10 @@
         },
         "itemAtlasTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 4096,
-          "max": 4096,
-          "min": 4096,
-          "average": 4096
+          "total": 8192,
+          "max": 8192,
+          "min": 8192,
+          "average": 8192
         }
       }
     },
@@ -5919,17 +7438,17 @@
       "fs": {
         "nonVanillaTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "totalTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "blockAtlasTextureMemoryTier": {
           "instanceCount": 1,
@@ -5940,10 +7459,10 @@
         },
         "itemAtlasTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 4096,
-          "max": 4096,
-          "min": 4096,
-          "average": 4096
+          "total": 8192,
+          "max": 8192,
+          "min": 8192,
+          "average": 8192
         }
       }
     },
@@ -5954,17 +7473,17 @@
       "fs": {
         "nonVanillaTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "totalTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 76800,
-          "max": 76800,
-          "min": 76800,
-          "average": 76800
+          "total": 80896,
+          "max": 80896,
+          "min": 80896,
+          "average": 80896
         },
         "blockAtlasTextureMemoryTier": {
           "instanceCount": 1,
@@ -5975,10 +7494,10 @@
         },
         "itemAtlasTextureMemoryTier": {
           "instanceCount": 1,
-          "total": 4096,
-          "max": 4096,
-          "min": 4096,
-          "average": 4096
+          "total": 8192,
+          "max": 8192,
+          "min": 8192,
+          "average": 8192
         }
       }
     },
@@ -6018,62 +7537,23 @@
       "gIx": 1
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "UNLINK",
-      "gIx": 205,
-      "p": "/AutoMiner_RP/entity/advanced_minecart.entity.json",
-      "d": "geometry.minecart"
+      "gIx": 191,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/advanced_minecart.png"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 191,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/auto_miner.png"
     },
     {
       "iTp": 6,
       "gId": "UNLINK",
       "gIx": 205,
-      "m": "Link to vanilla texture item; avoid if possible",
       "p": "/AutoMiner_RP/particles/auto_miner_particles.json",
       "d": "textures/particle/particles"
-    },
-    {
-      "iTp": 6,
-      "gId": "UNLINK",
-      "gIx": 205,
-      "m": "Link to vanilla sound catalog item; avoid if possible",
-      "p": "/AutoMiner_RP/sounds.json",
-      "d": "mob.irongolem.repair"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/loot_tables/blocks/copper_rail.json",
-      "d": "/AutoMiner_BP/loot_tables/blocks/copper_rail.json to `minere:copper_rail`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/loot_tables/blocks/diamond_rail.json",
-      "d": "/AutoMiner_BP/loot_tables/blocks/diamond_rail.json to `minere:diamond_rail`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/loot_tables/blocks/emerald_rail.json",
-      "d": "/AutoMiner_BP/loot_tables/blocks/emerald_rail.json to `minere:emerald_rail`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/loot_tables/blocks/golden_rail.json",
-      "d": "/AutoMiner_BP/loot_tables/blocks/golden_rail.json to `minere:golden_rail`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/loot_tables/blocks/iron_rail.json",
-      "d": "/AutoMiner_BP/loot_tables/blocks/iron_rail.json to `minere:iron_rail`"
     },
     {
       "iTp": 4,
@@ -6150,13 +7630,6 @@
       "gId": "UNLINK",
       "gIx": 323,
       "p": "/AutoMiner_BP/recipes/copper_rail.json",
-      "d": "/AutoMiner_BP/recipes/copper_rail.json to `minecraft:copper_ingot`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/copper_rail.json",
       "d": "/AutoMiner_BP/recipes/copper_rail.json to `minecraft:stick`"
     },
     {
@@ -6185,21 +7658,7 @@
       "gId": "UNLINK",
       "gIx": 323,
       "p": "/AutoMiner_BP/recipes/diamond_rail.json",
-      "d": "/AutoMiner_BP/recipes/diamond_rail.json to `minecraft:iron_ingot`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/diamond_rail.json",
       "d": "/AutoMiner_BP/recipes/diamond_rail.json to `minecraft:stick`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/emerald_rail.json",
-      "d": "/AutoMiner_BP/recipes/emerald_rail.json to `minecraft:emerald`"
     },
     {
       "iTp": 4,
@@ -6241,13 +7700,6 @@
       "gId": "UNLINK",
       "gIx": 323,
       "p": "/AutoMiner_BP/recipes/golden_rail.json",
-      "d": "/AutoMiner_BP/recipes/golden_rail.json to `minecraft:gold_ingot`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/golden_rail.json",
       "d": "/AutoMiner_BP/recipes/golden_rail.json to `minecraft:stick`"
     },
     {
@@ -6256,13 +7708,6 @@
       "gIx": 323,
       "p": "/AutoMiner_BP/recipes/iron_drill.json",
       "d": "/AutoMiner_BP/recipes/iron_drill.json to `minecraft:iron_ingot`"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/iron_rail.json",
-      "d": "/AutoMiner_BP/recipes/iron_rail.json to `minecraft:dust`"
     },
     {
       "iTp": 4,
@@ -6291,6 +7736,230 @@
       "gIx": 323,
       "p": "/AutoMiner_BP/recipes/stone_drill.json",
       "d": "/AutoMiner_BP/recipes/stone_drill.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json to `minecraft:amethyst_shard`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json to `minecraft:minecart`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:blast_furnace`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:chest_minecart`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:hopper_minecart`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:piston`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:redstone`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json to `minecraft:copper_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json to `minecraft:copper_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json to `minecraft:diamond`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json to `minecraft:iron_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json to `minecraft:diamond`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json to `minecraft:emerald`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json to `minecraft:gold_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json to `minecraft:gold_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json to `minecraft:iron_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json to `minecraft:iron_ingot`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json to `minecraft:cobblestone`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 323,
+      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json",
+      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 351,
+      "p": "/AutoMiner_RP/sounds.json",
+      "d": "/AutoMiner_RP/sounds.json to `machine.auto_miner.hit`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 399,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
+      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/copper_rail`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 399,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
+      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/diamond_rail`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 399,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
+      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/emerald_rail`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 399,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
+      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/golden_rail`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 399,
+      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
+      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/iron_rail`"
     },
     {
       "iTp": 4,

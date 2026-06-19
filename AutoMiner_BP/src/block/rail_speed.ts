@@ -9,7 +9,7 @@ const RAIL_SPEEDS: Record<string, number> = {
 };
 
 function getRailSpeed(block: Block): number | null {
-    const blockInfo = block.permalink;
+    const blockInfo = block.typeId;
     if (blockInfo && blockInfo in RAIL_SPEEDS) {
         return RAIL_SPEEDS[blockInfo];
     }
@@ -17,7 +17,8 @@ function getRailSpeed(block: Block): number | null {
 }
 
 function updateMinecartSpeed() {
-    for (const entity of world.getEntities({ type: "minecraft:minecart" })) {
+    const dimension = world.getDimension("overworld");
+    for (const entity of dimension.getEntities({ type: "minecraft:minecart" })) {
         const location = entity.location;
         const dimension = entity.dimension;
         

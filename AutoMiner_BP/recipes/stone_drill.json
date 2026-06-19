@@ -1,8 +1,9 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:stone_drill"
+      "identifier": "minere:stone_drill",
+      "unlock": true
     },
     "tags": [
       "crafting_table"

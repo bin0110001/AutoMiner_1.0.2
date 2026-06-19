@@ -229,123 +229,86 @@ export function startAutoMiner(entity: Entity) {
           }
         }
       }
-    }
-        // build rail
-        let hasPlacedRail = false;
-        if (
-          entity.location.y > dimension.heightRange.min &&
-          entity.location.y < dimension.heightRange.max &&
-          entity.isOnGround
-        ) {
-          const block = dimension.getBlock(entity.location);
-          if (
-            block &&
-            block.isValid() &&
-            entity.isOnGround &&
-            (block.isAir || replaceableBlocks.has(block.typeId))
-          ) {
-            for (const typeId of Object.keys(RAIL_SPEEDS)) {
-              const railsIndex = findItemInContainer(container, type: id); // ERROR in my thought
-              // Wait, let's fix this properly. I need to be careful with the loop and logic.
-            }
+}
+    let hasPlacedRail = false;
+    let goldenRails = false;
+    let railToPlace: string | null = null;
+    if (
+      entity.location.y > dimension.heightRange.min &&
+      entity.location.y < dimension.heightRange.max &&
+      entity.isOnGround
+    ) {
+      const block = dimension.getBlock(entity.location);
+      if (
+        block &&
+        block.isValid() &&
+        entity.isOnGround &&
+        (block.isAir || replaceableBlocks.has(block.typeId))
+      ) {
+        for (const typeId of Object.keys(RAIL_SPEEDS)) {
+          const railsIndex = findItemInContainer(container, typeId);
+          if (railsIndex >= 0) {
+            railToPlace = typeId;
+            break;
           }
         }
-              break; // Exit once a rail is placed
-            }
-          }
-        }
-
-        const redstoneTorchIndex = findItemInContainer(
-          container,
-          "minecraft:redstone_torch",
-        );
-        const redstoneTorches =
-          redstoneTorchIndex >= 0
-            ? container.getItem(redstoneTorchIndex)
-            : undefined;
-
-        // place redstone torch (logic for rail placement index == 0)
-        if (
-          hasPlacedRail &&
-          redstoneTorches &&
-          redstoneTorches.amount > 0 &&
-          rail_placement_index == 0
-        ) {
-          const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
-          let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
-          if (yRot > 315 || yRot <= 45) {
-            torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
-          }
-          if (yRot > 45 && yRot <= 135) {
-            torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
-          }
-          if (yrot > 135 && yrot <= 225) {
-            torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
-          }
-          if (yRot > 225 && yRot <= 315) {
-            torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
-          }
-          const torchBlock = dimension.getBlock(torchPos);
-          if (
-            torchBlock &&
-            torchBlock.isValid() &&
-            (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))
-          ) {
-            torchBlock.setType(redstoneTorches.typeId);
-            if (redstoneTorches.amount == 1) {
-              container.setItem(redstoneTorchIndex);
-            } else {
-              redstoneTorches.amount -= 1;
-              container.setItem(redstoneTorchIndex, redstoneTorches);
-            }
-          }
-        }
-      }
-    }
-          }
-        }
-
-        // redstone torches
-        // has golden rails and index == 0
-        if (
-          goldenRails &&
-          redstoneTorches &&
-          redstoneTorches.amount > 0 &&
-          rail_placement_index == 0
-        ) {
-          const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
-          let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
-          if (yRot > 315 || yRot <= 45) {
-            torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
-          }
-          if (yRot > 45 && yRot <= 135) {
-            torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
-          }
-          if (yRot > 135 && yRot <= 225) {
-            torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
-          }
-          if (yRot > 225 && yRot <= 315) {
-            torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
-          }
-          const torchBlock = dimension.getBlock(torchPos);
-          if (
-            torchBlock &&
-            torchBlock.isValid() &&
-            (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))
-          ) {
-            torchBlock.setType(redstoneTorches.typeId);
-            if (redstoneTorches.amount == 1) {
-              container.setItem(redstoneTorchIndex);
-            } else {
-              redstoneTorches.amount -= 1;
-              container.setItem(redstoneTorchIndex, redstoneTorches);
-            }
+        if (railToPlace) {
+          dimension.runCommand(
+            `setBlock ${entity.location.x} ${entity.location.y - 1} ${entity.location.z} ${railToPlace.replace("minere:", "minecraft:")}`,
+          );
+          hasPlacedRail = true;
+          if (railToPlace === "minere:golden_rail") {
+            goldenRails = true;
           }
         }
       }
     }
 
-    // pickup items
+    const redstoneTorchIndex = findItemInContainer(
+      container,
+      "minecraft:redstone_torch",
+    );
+    const redstoneTorches =
+      redstoneTorchIndex >= 0
+        ? container.getItem(redstoneTorchIndex)
+        : undefined;
+
+    if (
+      hasPlacedRail &&
+      redstoneTorches &&
+      redstoneTorches.amount > 0 &&
+      rail_placement_index == 0
+    ) {
+      const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
+      let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
+      if (yRot > 315 || yRot <= 45) {
+        torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
+      }
+      if (yRot > 45 && yRot <= 135) {
+        torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
+      }
+      if (yRot > 135 && yRot <= 225) {
+        torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
+      }
+      if (yRot > 225 && yRot <= 315) {
+        torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
+      }
+      const torchBlock = dimension.getBlock(torchPos);
+      if (
+        torchBlock &&
+        torchBlock.isValid() &&
+        (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))
+      ) {
+        torchBlock.setType(redstoneTorches.typeId);
+        if (redstoneTorches.amount == 1) {
+          container.setItem(redstoneTorchIndex);
+        } else {
+          redstoneTorches.amount -= 1;
+          container.setItem(redstoneTorchIndex, redstoneTorches);
+        }
+      }
+    }
+
     const itemEntities = dimension.getEntities({
       type: "minecraft:item",
       location: entity.location,

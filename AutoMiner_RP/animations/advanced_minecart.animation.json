@@ -1,0 +1,18 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.minere.advanced_minecart.move": {
+      "loop": true,
+      "bones": {
+        "root": {
+          "rotation": [
+            "Math.sin(variable.hurt) * 45",
+            "query.body_y_rotation",
+            0
+          ],
+          "position": [0, -18.0, 0]
+        }
+      }
+    }
+  }
+}

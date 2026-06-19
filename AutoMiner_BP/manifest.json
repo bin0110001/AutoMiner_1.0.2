@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "CocoaWarrior's Auto Miner",
+    "name": "Auto Miner [1.0.2]",
+    "uuid": "2e839411-4a0e-4cee-b106-33d5bde91193",
+    "version": [1, 0, 1],
+    "min_engine_version": [1, 21, 30]
+  },
+  "modules": [
+    {
+      "description": "AutoMiner Data",
+      "type": "data",
+      "uuid": "eb9ea2f5-77f4-4793-8d96-8808a462e4a3",
+      "version": [1, 0, 2]
+    },
+    {
+      "description": "AutoMiner Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "f0627115-682c-482c-997d-1ca53efdcf1b",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 2]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "368af99b-0257-4d18-86ba-056ddbaf52d1",
+      "version": [1, 0, 2]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.16.0"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "blockbench_entity_wizard": ["1.1.1", "1.4.0", "1.5.1"],
+      "blockbench_item_wizard": ["1.1.0"],
+      "blockbench_block_wizard": ["1.2.2", "1.3.0"]
+    }
+  }
+}

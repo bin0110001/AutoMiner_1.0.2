@@ -1,0 +1,15 @@
+{
+  "texture_data": {
+    "minere.advanced_minecart": {
+      "textures": "textures/items/minere/advanced_minecart.png"
+    },
+    "minere.auto_miner": {
+      "textures": "textures/items/minere/auto_miner.png"
+    },
+    "minere.diamond_drill": {
+      "textures": "textures/items/minere/diamond_drill.png"
+    }
+  },
+  "resource_pack_name": "Auto Miner Resources",
+  "texture_name": "atlas.items"
+}

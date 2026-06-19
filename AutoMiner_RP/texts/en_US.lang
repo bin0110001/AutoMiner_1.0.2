@@ -1,0 +1,8 @@
+entity.minere:advanced_minecart.name=Enchanted Minecart
+item.minere:advanced_minecart=Enchanted Minecart
+action.interact.add_fuel=Add Fuel
+entity.minere:auto_miner.name=Auto Miner
+item.minere:auto_miner=Auto Miner
+entity.minere:auto_miner.name=Auto Miner
+item.minere:diamond_drill=Diamond Drill
+action.hint.exit.minere:advanced_minecart=Press SPACE to Exit

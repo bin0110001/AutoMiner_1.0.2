@@ -1,0 +1,45 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:emerald_rail"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " E ",
+      " S ",
+      " E "
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:emerald"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:emerald"
+      }
+    ],
+    "result": {
+      "item": "minere:emerald_rail",
+      "count": 6
+    }
+  }
+}
+    },
+    "unlock": [
+      {
+        "item": "minecraft:emerald"
+      }
+    ],
+    "result": {
+      "item": "minere:emerald_rail",
+      "count": 6
+    }
+  }
+}

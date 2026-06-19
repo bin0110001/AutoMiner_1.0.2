@@ -2,6 +2,7 @@ import { world } from "@minecraft/server";
 import { replaceMinecart } from "item/replace_minecart";
 import { startAutoMiner, minerDie, stopAutoMiner } from "machine/autoMiner";
 import { AutoMinerItem } from "item/auto_miner_item";
+import "./block/rail_speed";
 export const DEFAULT_TICK = 20;
 world.beforeEvents.worldInitialize.subscribe(function (data) {
     data.itemComponentRegistry.registerCustomComponent("minere:auto_miner_item", AutoMinerItem);

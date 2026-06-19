@@ -1,2 +1,12 @@
 pack.name=MineRe BP
 pack.description=Minecraft redone, rebalanced, or something like that.
+item.minere:iron_rail=Iron Rail
+item.minere:golden_rail=Golden Rail
+item.minere:diamond_rail=Diamond Rail
+item.minere:copper_rail=Copper Rail
+item.minere:emerald_rail=Emerald Rail
+block.minere:iron_rail=Iron Rail
+block.minere:golden_rail=Golden Rail
+block.minere:diamond_rail=Diamond Rail
+block.minere:copper_rail=Copper Rail
+block.minere:emerald_rail=Emerald Rail

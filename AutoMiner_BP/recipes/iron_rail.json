@@ -1,0 +1,45 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:iron_rail"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " I ",
+      " S ",
+      " I "
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "result": {
+      "item": "minere:iron_rail",
+      "count": 6
+    }
+  }
+}
+    },
+    "unlock": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "result": {
+      "item": "minere:iron_rail",
+      "count": 6
+    }
+  }
+}

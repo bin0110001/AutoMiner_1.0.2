@@ -1,13 +1,28 @@
 {
   "texture_data": {
     "minere.advanced_minecart": {
-      "textures": "textures/items/minere/advanced_minecart.png"
+      "textures": ["textures/items/minere/advanced_minecart.png"]
     },
     "minere.auto_miner": {
-      "textures": "textures/items/minere/auto_miner.png"
+      "textures": ["textures/items/minere/auto_miner.png"]
     },
     "minere.diamond_drill": {
-      "textures": "textures/items/minere/diamond_drill.png"
+      "textures": ["textures/items/minere/diamond_drill.png"]
+    },
+    "minere.iron_rail": {
+      "textures": ["textures/items/minere/iron_rail.png"]
+    },
+    "minere.golden_rail": {
+      "textures": ["textures/items/minere/golden_rail.png"]
+    },
+    "minere.diamond_rail": {
+      "textures": ["textures/items/minere/diamond_rail.png"]
+    },
+    "minere.copper_rail": {
+      "textures": ["textures/items/minere/copper_rail.png"]
+    },
+    "minere.emerald_rail": {
+      "textures": ["textures/items/minere/emerald_rail.png"]
     }
   },
   "resource_pack_name": "Auto Miner Resources",

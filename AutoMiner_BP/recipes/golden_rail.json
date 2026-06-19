@@ -1,0 +1,45 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:golden_rail"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " G ",
+      " S ",
+      " G "
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "result": {
+      "item": "minere:golden_rail",
+      "count": 6
+    }
+  }
+}
+    },
+    "unlock": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "result": {
+      "item": "minere:golden_rail",
+      "count": 6
+    }
+  }
+}

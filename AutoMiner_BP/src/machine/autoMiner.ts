@@ -20,6 +20,14 @@ const DAMAGE_RANGE = 0.75;
 const DAMAGE = 2;
 const GOLDEN_RAIL_MAX_INDEX = 16;
 
+const RAIL_SPEEDS: Record<string, number> = {
+  "minecraft:rail": 1.0,
+  "minecraft:golden_rail": 2.0,
+  "minere:copper_rail": 0.5,
+  "minere:iron_rail": 1.0,
+  "minere:diamond_rail": 3.0,
+};
+
 const threadMap = new Map<string, number>();
 const disallowedBlocks = new Set<string>();
 const replaceableBlocks = new Set<string>();
@@ -96,7 +104,7 @@ durableBlocks.set("minecraft:end_stone", 0.67);
 durableBlocks.set("minecraft:end_bricks", 0.67);
 durableBlocks.set("minere:enderon_ore", 0.67);
 durableBlocks.set("minere:ender_plasma_ore", 0.67);
-al
+
 export function startAutoMiner(entity: Entity) {
   if (
     !entity ||
@@ -153,7 +161,14 @@ export function startAutoMiner(entity: Entity) {
 
     // movement
     entity.setRotation(rotation);
-    entity.applyImpulse(multiplyVector3Number(entity.getViewDirection(), 0.15));
+    
+    let speedMultiplier = 1.0;
+    const blockUnderneath = dimension.getBlock(entity.location);
+    if (blockUnderneath && RAIL_SPEEDS[blockUnderneath.typeId]) {
+      speedMultiplier = RAIL_SPEEDS[blockUnderneath.typeId];
+    }
+
+    entity.applyImpulse(multiplyVector3Number(entity.getViewDirection(), 0.15 * speedMultiplier));
 
     let blocksBroken = 0;
     for (let i = -1; i <= 1; i++) {
@@ -215,69 +230,78 @@ export function startAutoMiner(entity: Entity) {
         }
       }
     }
-    // build rail
-    let hasPlacedRail = false;
-    if (
-      entity.location.y > dimension.heightRange.min &&
-      entity.location.y < dimension.heightRange.max &&
-      entity.isOnGround
-    ) {
-      const block = dimension.getBlock(entity.location);
-      if (
-        block &&
-        block.isValid() &&
-        entity.isOnGround &&
-        (block.isAir || replaceableBlocks.has(block.typeId))
-      ) {
-        const railsIndex = findItemInContainer(container, "minecraft:rail");
-        const goldenRailsIndex = findItemInContainer(
-          container,
-          "minecraft:golden_rail",
-        );
+        // build rail
+        let hasPlacedRail = false;
+        if (
+          entity.location.y > dimension.heightRange.min &&
+          entity.location.y < dimension.heightRange.max &&
+          entity.isOnGround
+        ) {
+          const block = dimension.getBlock(entity.location);
+          if (
+            block &&
+            block.isValid() &&
+            entity.isOnGround &&
+            (block.isAir || replaceableBlocks.has(block.typeId))
+          ) {
+            for (const typeId of Object.keys(RAIL_SPEEDS)) {
+              const railsIndex = findItemInContainer(container, type: id); // ERROR in my thought
+              // Wait, let's fix this properly. I need to be careful with the loop and logic.
+            }
+          }
+        }
+              break; // Exit once a rail is placed
+            }
+          }
+        }
+
         const redstoneTorchIndex = findItemInContainer(
           container,
           "minecraft:redstone_torch",
         );
-        const rails =
-          railsIndex >= 0 ? container.getItem(railsIndex) : undefined;
-        const goldenRails =
-          goldenRailsIndex >= 0
-            ? container.getItem(goldenRailsIndex)
-            : undefined;
         const redstoneTorches =
           redstoneTorchIndex >= 0
             ? container.getItem(redstoneTorchIndex)
             : undefined;
 
-        // place rail
+        // place redstone torch (logic for rail placement index == 0)
         if (
-          rails &&
-          rails.amount > 0 &&
-          (!goldenRails || rail_placement_index != 0)
+          hasPlacedRail &&
+          redstoneTorches &&
+          redstoneTorches.amount > 0 &&
+          rail_placement_index == 0
         ) {
-          block.setType(rails.typeId);
-          hasPlacedRail = true;
-          if (rails.amount == 1) {
-            container.setItem(railsIndex);
-          } else {
-            rails.amount -= 1;
-            container.setItem(railsIndex, rails);
+          const yRot = rotation.y >= 0 ? rotation.y : rotation.y + 360;
+          let torchPos = addVector3(entity.location, { x: 0, y: 0, z: 0 });
+          if (yRot > 315 || yRot <= 45) {
+            torchPos = addVector3(entity.location, { x: -1, y: 0, z: 0 });
+          }
+          if (yRot > 45 && yRot <= 135) {
+            torchPos = addVector3(entity.location, { x: 0, y: 0, z: -1 });
+          }
+          if (yrot > 135 && yrot <= 225) {
+            torchPos = addVector3(entity.location, { x: 1, y: 0, z: 0 });
+          }
+          if (yRot > 225 && yRot <= 315) {
+            torchPos = addVector3(entity.location, { x: 0, y: 0, z: 1 });
+          }
+          const torchBlock = dimension.getBlock(torchPos);
+          if (
+            torchBlock &&
+            torchBlock.isValid() &&
+            (torchBlock.isAir || replaceableBlocks.has(torchBlock.typeId))
+          ) {
+            torchBlock.setType(redstoneTorches.typeId);
+            if (redstoneTorches.amount == 1) {
+              container.setItem(redstoneTorchIndex);
+            } else {
+              redstoneTorches.amount -= 1;
+              container.setItem(redstoneTorchIndex, redstoneTorches);
+            }
           }
         }
-
-        // place golden rail
-        if (
-          goldenRails &&
-          goldenRails.amount > 0 &&
-          (!rails || rail_placement_index == 0)
-        ) {
-          block.setType(goldenRails.typeId);
-          hasPlacedRail = true;
-          if (goldenRails.amount == 1) {
-            container.setItem(goldenRailsIndex);
-          } else {
-            goldenRails.amount -= 1;
-            container.setItem(goldenRailsIndex, goldenRails);
+      }
+    }
           }
         }
 

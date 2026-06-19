@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "minere:golden_rail",
+      "is_spawnable": false,
+      "is_experimental": false,
+      "register_as_tool": true
+    },
+    "components": {
+      "minecraft:break_info": {
+        "harvest_tool": "pickaxe"
+      },
+      "minecraft:destroy_time": 2.0,
+      "minecraft:explosion_resistance": 30,
+      "minecraft:hardness": 2.0,
+      "minecraft:is_spawnable": false,
+      "minecraft:loot": "loot_tables/blocks/golden_rail.json",
+      "minecraft:mineable": {
+        "tool": "pickaxe"
+      },
+      "minecraft:step_sound": "metal",
+      "minecraft:waterlogged": true
+    }
+  }
+}

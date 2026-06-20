@@ -3,7 +3,7 @@
   "minecraft:entity": {
     "description": {
       "identifier": "minere:auto_miner",
-      "is_spawnable": false,
+      "is_spawnable": true,
       "is_summonable": true,
       "is_experimental": false,
       "properties": {
@@ -88,6 +88,9 @@
       "minecraft:collision_box": {
         "width": 1.25,
         "height": 1.25
+      },
+      "minecraft:type_family": {
+        "family": ["minere:auto_miner", "inanimate"]
       },
       "minecraft:pushable": {
         "is_pushable": false

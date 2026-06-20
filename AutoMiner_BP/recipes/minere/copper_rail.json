@@ -2,27 +2,27 @@
   "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:emerald_rail",
-      "unlock": true
+      "identifier": "minere:copper_rail"
     },
-    "tags": [
-      "crafting_table"
-    ],
+    "tags": ["crafting_table"],
     "pattern": [
-      " E ",
+      " C ",
       " S ",
-      " E "
+      " C "
     ],
     "key": {
-      "E": {
-        "item": "minecraft:emerald"
+      "C": {
+        "item": "minecraft:copper_ingot"
       },
       "S": {
         "item": "minecraft:stick"
       }
     },
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
     "result": {
-      "item": "minere:emerald_rail",
+      "item": "minere:copper_rail",
       "count": 6
     }
   }

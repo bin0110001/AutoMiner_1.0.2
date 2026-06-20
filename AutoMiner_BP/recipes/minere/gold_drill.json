@@ -2,28 +2,27 @@
   "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:golden_rail",
-      "unlock": true
+      "identifier": "minere:gold_drill"
     },
-    "tags": [
-      "crafting_table"
-    ],
+    "tags": ["crafting_table"],
     "pattern": [
-      " G ",
-      " S ",
-      " G "
+      "GG ",
+      "IGI",
+      "GG "
     ],
     "key": {
       "G": {
         "item": "minecraft:gold_ingot"
       },
-      "S": {
+      "I": {
         "item": "minecraft:stick"
       }
     },
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
     "result": {
-      "item": "minere:golden_rail",
-      "count": 6
+      "item": "minere:gold_drill"
     }
   }
 }

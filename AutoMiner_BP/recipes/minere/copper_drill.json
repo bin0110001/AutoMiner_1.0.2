@@ -2,12 +2,9 @@
   "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:copper_drill",
-      "unlock": true
+      "identifier": "minere:copper_drill"
     },
-    "tags": [
-      "crafting_table"
-    ],
+    "tags": ["crafting_table"],
     "pattern": [
       "CC ",
       "ICC",
@@ -20,6 +17,9 @@
       "I": {
         "item": "minecraft:stick"
       }
+    },
+    "unlock": {
+      "context": "AlwaysUnlocked"
     },
     "result": {
       "item": "minere:copper_drill"

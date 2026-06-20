@@ -2,21 +2,10 @@
   "format_version": "1.26.30",
   "minecraft:block": {
     "description": {
-      "identifier": "minere:iron_rail",
-      "is_spawnable": false,
-      "is_experimental": false
+      "identifier": "minere:iron_rail"
     },
     "components": {
-      "minecraft:destructible": {
-        "explosion_resistance": 30,
-        "has_collision": true
-      },
-      "minecraft:break_info": {
-        "harvest_tool": "pickaxe",
-        "destroy_time": 2.0
-      },
       "minecraft:loot": "loot_tables/blocks/iron_rail.json",
-      "minecraft:waterlogged": true
     }
   }
 }

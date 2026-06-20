@@ -1,10 +1,9 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.21.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:auto_miner"
+      "identifier": "minere:auto_miner_item"
     },
-
     "tags": ["crafting_table"],
     "pattern": ["BPD", "CRH"],
     "key": {
@@ -27,13 +26,11 @@
         "item": "minecraft:redstone"
       }
     },
-    "unlock": [
-      {
-        "item": "minecraft:redstone"
-      }
-    ],
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
     "result": {
-      "item": "minere:auto_miner"
+      "item": "minere:auto_miner_item"
     }
   }
 }

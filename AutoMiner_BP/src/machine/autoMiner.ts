@@ -399,7 +399,7 @@ export function minerDie(entity: Entity) {
   const fuel = entity.getProperty("minere:fuel") as number;
   const durability = entity.getProperty("minere:durability") as number;
 
-  const itemStack: ItemStack = new ItemStack("minere:auto_miner");
+  const itemStack: ItemStack = new ItemStack("minere:auto_miner_item");
   const durabilityComponent = itemStack.getComponent(
     ItemComponentTypes.Durability,
   ) as ItemDurabilityComponent;

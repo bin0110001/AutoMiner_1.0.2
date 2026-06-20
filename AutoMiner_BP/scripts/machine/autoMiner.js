@@ -325,7 +325,7 @@ export function minerDie(entity) {
     const dimension = entity.dimension;
     const fuel = entity.getProperty("minere:fuel");
     const durability = entity.getProperty("minere:durability");
-    const itemStack = new ItemStack("minere:auto_miner");
+    const itemStack = new ItemStack("minere:auto_miner_item");
     const durabilityComponent = itemStack.getComponent(ItemComponentTypes.Durability);
     durabilityComponent.damage = durabilityComponent.damage =
         durabilityComponent.maxDurability - durability;

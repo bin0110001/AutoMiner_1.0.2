@@ -1,5 +1,5 @@
 {
-  "format_version": "1.10.0",
+  "format_version": "1.21.30",
   "animation_controllers": {
     "controller.animation.minere.advanced_minecart": {
       "initial_state": "moving",

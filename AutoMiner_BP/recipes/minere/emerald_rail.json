@@ -2,27 +2,27 @@
   "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:iron_rail",
-      "unlock": true
+      "identifier": "minere:emerald_rail"
     },
-    "tags": [
-      "crafting_table"
-    ],
+    "tags": ["crafting_table"],
     "pattern": [
-      " I ",
+      " E ",
       " S ",
-      " I "
+      " E "
     ],
     "key": {
-      "I": {
-        "item": "minecraft:iron_ingot"
+      "E": {
+        "item": "minecraft:emerald"
       },
       "S": {
         "item": "minecraft:stick"
       }
     },
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
     "result": {
-      "item": "minere:iron_rail",
+      "item": "minere:emerald_rail",
       "count": 6
     }
   }

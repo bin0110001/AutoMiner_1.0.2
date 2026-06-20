@@ -2,12 +2,9 @@
   "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:diamond_drill",
-      "unlock": true
+      "identifier": "minere:diamond_drill"
     },
-    "tags": [
-      "crafting_table"
-    ],
+    "tags": ["crafting_table"],
     "pattern": [
       "DD ",
       "IDD",
@@ -20,6 +17,9 @@
       "I": {
         "item": "minecraft:iron_ingot"
       }
+    },
+    "unlock": {
+      "context": "AlwaysUnlocked"
     },
     "result": {
       "item": "minere:diamond_drill"

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.18.20",
+  "format_version": "1.21.30",
   "minecraft:entity": {
     "description": {
       "identifier": "minere:auto_miner",
@@ -7,6 +7,12 @@
       "is_summonable": true,
       "is_experimental": false,
       "properties": {
+        "minere:durability": {
+          "type": "int",
+          "client_sync": true,
+          "default": 0,
+          "range": [0, 6000]
+        },
         "minere:fuel": {
           "type": "int",
           "client_sync": true,
@@ -36,6 +42,7 @@
         "value": 1.0
       },
       "minecraft:health": {
+        "max": 20,
         "value": 20
       },
       "minecraft:damage_sensor": {
@@ -90,10 +97,14 @@
         "height": 1.25
       },
       "minecraft:type_family": {
-        "family": ["minere:auto_miner", "inanimate"]
+        "family": ["auto_miner", "inanimate"]
       },
       "minecraft:pushable": {
         "is_pushable": false
+      },
+      "minecraft:is_stackable": {},
+      "minecraft:loot": {
+        "table": "loot_tables/entities/auto_miner.json"
       }
     },
     "events": {

@@ -2,8 +2,7 @@
   "format_version": "1.26.30",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minere:diamond_rail",
-      "unlock": true
+      "identifier": "minere:diamond_rail"
     },
     "tags": [
       "crafting_table"
@@ -13,6 +12,9 @@
       " S ",
       " D "
     ],
+    "unlock": {
+      "context": "AlwaysUnlocked"
+    },
     "key": {
       "D": {
         "item": "minecraft:diamond"

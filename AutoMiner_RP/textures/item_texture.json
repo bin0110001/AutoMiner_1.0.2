@@ -3,7 +3,7 @@
     "minere.advanced_minecart": {
       "textures": ["textures/items/minere/advanced_minecart.png"]
     },
-    "minere.auto_miner": {
+    "minere.auto_miner_item": {
       "textures": ["textures/items/minere/auto_miner.png"]
     },
     "minere.diamond_drill": {

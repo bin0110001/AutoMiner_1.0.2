@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "entry": "minere:auto_miner_item",
+          "quantity": 1
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:entity_dead",
+          "damage": {
+            "breaking_entity_type": "player"
+          }
+        }
+      ]
+    }
+  ]
+}

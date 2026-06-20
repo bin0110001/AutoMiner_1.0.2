@@ -7,20 +7,20 @@
     ],
     "behaviorPackManifestCount": 2,
     "unknownJsonCount": 0,
-    "entityTypeManifestCount": 2,
+    "entityTypeManifestCount": 4,
     "itemTypeManifestCount": 24,
     "blockTypeManifestCount": 10,
     "resourcePackManifestCount": 2,
     "worldCount": 0,
-    "entityTypeResourceCount": 3,
+    "entityTypeResourceCount": 6,
     "behaviorPackAnimationCount": 0,
     "behaviorPackAnimationControllerCount": 0,
-    "overallSize": 558165,
-    "fileCounts": 229,
-    "folderCounts": 60,
-    "contentSize": 288774,
-    "contentFileCounts": 224,
-    "contentFolderCounts": 56,
+    "overallSize": 8935467,
+    "fileCounts": 332,
+    "folderCounts": 98,
+    "contentSize": 8513714,
+    "contentFileCounts": 326,
+    "contentFolderCounts": 92,
     "defaultBehaviorPackUuid": "2e839411-4a0e-4cee-b106-33d5bde91193",
     "defaultIcon": "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",
     "defaultBehaviorPackMinEngineVersion": "1.21.30",
@@ -44,6 +44,7 @@
       "minecraftInventory",
       "minecraftIsStackable",
       "minecraftKnockbackResistance",
+      "minecraftLoot",
       "minecraftPhysics",
       "minecraftPushable",
       "minecraftRailMovement",
@@ -52,11 +53,7 @@
       "minecraftTypeFamily"
     ],
     "blockTypeComponents": [
-      "minecraftBreakInfo",
-      "minecraftDestructible",
-      "minecraftLoot",
-      "minecraftStepSound",
-      "minecraftWaterlogged"
+      "minecraftLoot"
     ],
     "itemTypeComponents": [
       "minecraftCustomComponents",
@@ -284,7 +281,7 @@
       "world",
       "xpEarnedAtCurrentLevel"
     ],
-    "mctoolsVersion": 10017002,
+    "mctoolsVersion": 10017003,
     "itemTypes": [
       "Animation",
       "Animation controller",
@@ -350,32 +347,32 @@
     "worldLoadErrors": 0,
     "commands": [],
     "featureSets": {
-      "runtimeIdentifier.minecraftMinecart": {
-        "count": 1
-      },
       "runtimeIdentifier.noRuntimeIdentifier": {
-        "count": 1
+        "count": 4
       },
       "entityIdentifier.noOverrideIdentifier": {
-        "count": 2
+        "count": 4
+      },
+      "entityMetadata.spawnableEntityType": {
+        "count": 4
       },
       "entityMetadata.summonableEntityType": {
-        "count": 2
+        "count": 4
       },
       "entityMetadata.entityTypeProperty": {
-        "count": 3
+        "count": 8
       },
       "entityMetadata.entityTypePropertyClientSyncEqualstrue": {
-        "count": 2
+        "count": 6
       },
       "entityMetadata.entityTypeIntProperty": {
-        "count": 2
+        "count": 6
       },
       "entityMetadata.entityTypeBoolProperty": {
-        "count": 1
+        "count": 2
       },
       "entityMetadata.entityTypePropertyClientSyncEqualsfalse": {
-        "count": 1
+        "count": 2
       },
       "entityGeometry.cubes": {
         "instanceCount": 4,
@@ -388,32 +385,29 @@
         "count": 24
       },
       "entityType.defaultComponents": {
-        "minecraftIsStackable": 1,
-        "minecraftTypeFamily": 1,
-        "minecraftCollisionBox": 2,
-        "minecraftRailMovement": 1,
-        "minecraftRideable": 1,
-        "minecraftRailSensor": 1,
-        "minecraftPhysics": 2,
-        "minecraftPushable": 2,
-        "minecraftConditionalBandwidthOptimization": 1,
-        "minecraftKnockbackResistance": 1,
-        "minecraftHealth": 1,
-        "minecraftDamageSensor": 1,
-        "minecraftFireImmune": 1,
-        "minecraftInventory": 1
+        "minecraftIsStackable": 4,
+        "minecraftTypeFamily": 4,
+        "minecraftCollisionBox": 4,
+        "minecraftRailMovement": 2,
+        "minecraftRideable": 2,
+        "minecraftRailSensor": 2,
+        "minecraftPhysics": 4,
+        "minecraftPushable": 4,
+        "minecraftConditionalBandwidthOptimization": 2,
+        "minecraftLoot": 4,
+        "minecraftKnockbackResistance": 2,
+        "minecraftHealth": 2,
+        "minecraftDamageSensor": 2,
+        "minecraftFireImmune": 2,
+        "minecraftInventory": 2
       },
       "entityType.entityEvents": {
-        "sequence": 4,
-        "filters": 2,
-        "setProperty": 3
+        "sequence": 8,
+        "filters": 4,
+        "setProperty": 6
       },
       "blockType.blockDefaultComponents": {
-        "minecraftDestructible": 10,
-        "minecraftBreakInfo": 10,
-        "minecraftLoot": 10,
-        "minecraftWaterlogged": 10,
-        "minecraftStepSound": 2
+        "minecraftLoot": 10
       },
       "itemType.components": {
         "minecraftMaxStackSize": 24,
@@ -425,28 +419,28 @@
         "minecraftRepairable": 12
       },
       "particleType.particleEmitterComponents": {
-        "minecraftEmitterRateSteady": 1,
-        "minecraftEmitterLifetimeLooping": 1,
-        "minecraftEmitterShapeCustom": 1
+        "minecraftEmitterRateSteady": 2,
+        "minecraftEmitterLifetimeLooping": 2,
+        "minecraftEmitterShapeCustom": 2
       },
       "particleType.particleComponents": {
-        "minecraftParticleLifetimeExpression": 1,
-        "minecraftParticleInitialSpeed": 1,
-        "minecraftParticleMotionDynamic": 1,
-        "minecraftParticleAppearanceBillboard": 1,
-        "minecraftParticleAppearanceTinting": 1,
-        "minecraftParticleAppearanceLighting": 1
+        "minecraftParticleLifetimeExpression": 2,
+        "minecraftParticleInitialSpeed": 2,
+        "minecraftParticleMotionDynamic": 2,
+        "minecraftParticleAppearanceBillboard": 2,
+        "minecraftParticleAppearanceTinting": 2,
+        "minecraftParticleAppearanceLighting": 2
       },
       "javaScript.size": {
         "instanceCount": 94,
-        "total": 158604,
-        "max": 10010,
+        "total": 158754,
+        "max": 10015,
         "min": 97,
-        "average": 1687
+        "average": 1689
       },
       "javaScript.lines": {
         "instanceCount": 94,
-        "total": 6048,
+        "total": 6050,
         "max": 419,
         "min": 5,
         "average": 64
@@ -466,67 +460,67 @@
         "average": 34
       },
       "entityType.size": {
-        "instanceCount": 2,
-        "total": 3599,
-        "max": 2540,
-        "min": 1059,
-        "average": 1800
+        "instanceCount": 4,
+        "total": 7794,
+        "max": 2787,
+        "min": 1110,
+        "average": 1949
       },
       "entityType.lines": {
-        "instanceCount": 2,
-        "total": 203,
-        "max": 150,
-        "min": 53,
-        "average": 102
+        "instanceCount": 4,
+        "total": 438,
+        "max": 164,
+        "min": 55,
+        "average": 110
       },
       "typeScript.size": {
-        "instanceCount": 10,
-        "total": 19005,
-        "max": 10400,
+        "instanceCount": 20,
+        "total": 38108,
+        "max": 10405,
         "min": 259,
-        "average": 1901
+        "average": 1905
       },
       "typeScript.lines": {
-        "instanceCount": 10,
-        "total": 711,
+        "instanceCount": 20,
+        "total": 1420,
         "max": 351,
         "min": 13,
         "average": 71
       },
       "resourcePackManifest.size": {
         "instanceCount": 2,
-        "total": 1068,
-        "max": 534,
-        "min": 534,
-        "average": 534
+        "total": 1234,
+        "max": 617,
+        "min": 617,
+        "average": 617
       },
       "resourcePackManifest.lines": {
         "instanceCount": 2,
-        "total": 44,
-        "max": 22,
-        "min": 22,
-        "average": 22
+        "total": 52,
+        "max": 26,
+        "min": 26,
+        "average": 26
       },
       "blockType.size": {
         "instanceCount": 10,
-        "total": 3955,
-        "max": 442,
-        "min": 380,
-        "average": 396
+        "total": 1688,
+        "max": 171,
+        "min": 165,
+        "average": 169
       },
       "blockType.lines": {
         "instanceCount": 10,
-        "total": 194,
-        "max": 21,
-        "min": 19,
-        "average": 19
+        "total": 80,
+        "max": 8,
+        "min": 8,
+        "average": 8
       },
       "itemType.size": {
         "instanceCount": 24,
-        "total": 8022,
-        "max": 493,
+        "total": 8042,
+        "max": 494,
         "min": 228,
-        "average": 334
+        "average": 335
       },
       "itemType.lines": {
         "instanceCount": 24,
@@ -536,71 +530,71 @@
         "average": 16
       },
       "lootTable.size": {
-        "instanceCount": 10,
-        "total": 790,
-        "max": 80,
+        "instanceCount": 14,
+        "total": 1566,
+        "max": 195,
         "min": 77,
-        "average": 79
+        "average": 112
       },
       "lootTable.lines": {
-        "instanceCount": 10,
-        "total": 60,
-        "max": 6,
+        "instanceCount": 14,
+        "total": 108,
+        "max": 12,
         "min": 6,
-        "average": 6
+        "average": 8
       },
       "soundCatalog.size": {
-        "instanceCount": 1,
-        "total": 159,
+        "instanceCount": 2,
+        "total": 318,
         "max": 159,
         "min": 159,
         "average": 159
       },
       "soundCatalog.lines": {
-        "instanceCount": 1,
-        "total": 10,
+        "instanceCount": 2,
+        "total": 20,
         "max": 10,
         "min": 10,
         "average": 10
       },
       "animation.size": {
-        "instanceCount": 2,
-        "total": 1682,
-        "max": 1475,
-        "min": 207,
-        "average": 841
+        "instanceCount": 4,
+        "total": 1782,
+        "max": 682,
+        "min": 209,
+        "average": 446
       },
       "animation.lines": {
-        "instanceCount": 2,
-        "total": 111,
-        "max": 99,
+        "instanceCount": 4,
+        "total": 100,
+        "max": 38,
         "min": 12,
-        "average": 56
+        "average": 25
       },
       "animationController.size": {
-        "instanceCount": 2,
-        "total": 1396,
-        "max": 1224,
-        "min": 172,
-        "average": 698
+        "instanceCount": 4,
+        "total": 2796,
+        "max": 1225,
+        "min": 173,
+        "average": 699
       },
       "animationController.lines": {
-        "instanceCount": 2,
-        "total": 60,
+        "instanceCount": 4,
+        "total": 120,
         "max": 52,
         "min": 8,
         "average": 30
       },
       "entityTypeVisuals/audio.size": {
-        "instanceCount": 3,
-        "total": 2268,
-        "max": 1295,
-        "min": 350,
-        "average": 756
+        "instanceCount": 6,
+        "total": 4542,
+        "max": 1296,
+        "min": 351,
+        "average": 757
       },
       "entityTypeVisuals/audio.lines": {
-        "instanceCount": 3,
-        "total": 89,
+        "instanceCount": 6,
+        "total": 178,
         "max": 47,
         "min": 15,
         "average": 30
@@ -620,102 +614,102 @@
         "average": 82
       },
       "particle.size": {
-        "instanceCount": 1,
-        "total": 1205,
+        "instanceCount": 2,
+        "total": 2410,
         "max": 1205,
         "min": 1205,
         "average": 1205
       },
       "particle.lines": {
-        "instanceCount": 1,
-        "total": 54,
+        "instanceCount": 2,
+        "total": 108,
         "max": 54,
         "min": 54,
         "average": 54
       },
       "languageCatalog.size": {
-        "instanceCount": 2,
-        "total": 34,
+        "instanceCount": 4,
+        "total": 68,
         "max": 25,
         "min": 9,
         "average": 17
       },
       "languageCatalog.lines": {
-        "instanceCount": 2,
-        "total": 4,
+        "instanceCount": 4,
+        "total": 8,
         "max": 2,
         "min": 2,
         "average": 2
       },
       "recipe.size": {
         "instanceCount": 24,
-        "total": 7401,
-        "max": 464,
-        "min": 254,
-        "average": 308
+        "total": 7840,
+        "max": 471,
+        "min": 279,
+        "average": 327
       },
       "recipe.lines": {
         "instanceCount": 24,
         "total": 592,
         "max": 32,
-        "min": 17,
+        "min": 20,
         "average": 25
       },
       "minecraftZip.size": {
-        "instanceCount": 2,
-        "total": 84511,
-        "max": 57956,
-        "min": 26555,
-        "average": 42256
+        "instanceCount": 1,
+        "total": 2404287,
+        "max": 2404287,
+        "min": 2404287,
+        "average": 2404287
       },
       "typeScriptConfig.size": {
-        "instanceCount": 1,
-        "total": 221,
+        "instanceCount": 2,
+        "total": 442,
         "max": 221,
         "min": 221,
         "average": 221
       },
       "typeScriptConfig.lines": {
-        "instanceCount": 1,
-        "total": 12,
+        "instanceCount": 2,
+        "total": 24,
         "max": 12,
         "min": 12,
         "average": 12
       },
       "NPMPackageDefinition.size": {
-        "instanceCount": 1,
-        "total": 269,
+        "instanceCount": 2,
+        "total": 538,
         "max": 269,
         "min": 269,
         "average": 269
       },
       "NPMPackageDefinition.lines": {
-        "instanceCount": 1,
-        "total": 15,
+        "instanceCount": 2,
+        "total": 30,
         "max": 15,
         "min": 15,
         "average": 15
       },
       "languageTranslations.size": {
-        "instanceCount": 4,
-        "total": 1869,
-        "max": 684,
-        "min": 379,
-        "average": 467
+        "instanceCount": 8,
+        "total": 3768,
+        "max": 689,
+        "min": 384,
+        "average": 471
       },
       "languageTranslations.lines": {
-        "instanceCount": 4,
-        "total": 46,
+        "instanceCount": 8,
+        "total": 92,
         "max": 18,
         "min": 8,
         "average": 12
       },
       "itemTexture.size": {
         "instanceCount": 2,
-        "total": 2026,
-        "max": 1013,
-        "min": 1013,
-        "average": 1013
+        "total": 2036,
+        "max": 1018,
+        "min": 1018,
+        "average": 1018
       },
       "itemTexture.lines": {
         "instanceCount": 2,
@@ -753,22 +747,16 @@
         "average": 47
       },
       "animationCount.resource": {
-        "count": 9
+        "count": 18
       },
       "boneCount.resourceAnimationBone": {
-        "count": 22
+        "count": 6
       },
       "boneCount.resourceAnimationBonePositionContinuous": {
-        "count": 8
+        "count": 16
       },
       "boneCount.resourceAnimationBoneRotationContinuous": {
-        "count": 40
-      },
-      "boneCount.resourceAnimationBoneScaleKeyframe": {
-        "count": 4
-      },
-      "boneCount.resourceAnimationBoneScaleContinuous": {
-        "count": 3
+        "count": 16
       },
       "apisUsed.world": {
         "count": 32
@@ -810,7 +798,7 @@
         "count": 2
       },
       "apisUsed.system": {
-        "count": 36
+        "count": 38
       },
       "apisUsed.block": {
         "count": 28
@@ -1377,13 +1365,13 @@
         "count": 2
       },
       "textures.entityResourceCount": {
-        "count": 3
+        "count": 6
       },
       "textures.textureReferences": {
-        "count": 2
+        "count": 4
       },
       "textures.entityReferences": {
-        "count": 2
+        "count": 4
       },
       "textures.fileCount": {
         "count": 18
@@ -1476,44 +1464,44 @@
         "min": 1024,
         "average": 8988
       },
-      "textureImages.nonTiedWidth": {
-        "instanceCount": 2,
-        "total": 192,
+      "textureImages.entityWidth": {
+        "instanceCount": 4,
+        "total": 384,
         "max": 128,
         "min": 64,
         "average": 96
       },
-      "textureImages.nonTiedHeight": {
-        "instanceCount": 2,
-        "total": 160,
+      "textureImages.entityHeight": {
+        "instanceCount": 4,
+        "total": 320,
         "max": 128,
         "min": 32,
         "average": 80
       },
-      "textureImages.nonTiedTexels": {
-        "instanceCount": 2,
-        "total": 18432,
+      "textureImages.entityTexels": {
+        "instanceCount": 4,
+        "total": 36864,
         "max": 16384,
         "min": 2048,
         "average": 9216
       },
-      "textureImages.nonTiedTextureMemory": {
-        "instanceCount": 2,
-        "total": 73728,
+      "textureImages.entityTextureMemory": {
+        "instanceCount": 4,
+        "total": 147456,
         "max": 65536,
         "min": 8192,
         "average": 36864
       },
-      "textureImages.nonTiedNonVanillaTexels": {
-        "instanceCount": 2,
-        "total": 18432,
+      "textureImages.entityNonVanillaTexels": {
+        "instanceCount": 4,
+        "total": 36864,
         "max": 16384,
         "min": 2048,
         "average": 9216
       },
-      "textureImages.nonTiedNonVanillaTextureMemory": {
-        "instanceCount": 2,
-        "total": 73728,
+      "textureImages.entityNonVanillaTextureMemory": {
+        "instanceCount": 4,
+        "total": 147456,
         "max": 65536,
         "min": 8192,
         "average": 36864
@@ -1559,48 +1547,6 @@
         "max": 1024,
         "min": 1024,
         "average": 1024
-      },
-      "textureImages.entityWidth": {
-        "instanceCount": 2,
-        "total": 192,
-        "max": 128,
-        "min": 64,
-        "average": 96
-      },
-      "textureImages.entityHeight": {
-        "instanceCount": 2,
-        "total": 160,
-        "max": 128,
-        "min": 32,
-        "average": 80
-      },
-      "textureImages.entityTexels": {
-        "instanceCount": 2,
-        "total": 18432,
-        "max": 16384,
-        "min": 2048,
-        "average": 9216
-      },
-      "textureImages.entityTextureMemory": {
-        "instanceCount": 2,
-        "total": 73728,
-        "max": 65536,
-        "min": 8192,
-        "average": 36864
-      },
-      "textureImages.entityNonVanillaTexels": {
-        "instanceCount": 2,
-        "total": 18432,
-        "max": 16384,
-        "min": 2048,
-        "average": 9216
-      },
-      "textureImages.entityNonVanillaTextureMemory": {
-        "instanceCount": 2,
-        "total": 73728,
-        "max": 65536,
-        "min": 8192,
-        "average": 36864
       },
       "textureImages.vanillaGameTextureCoverage": {
         "overrideCount": 0,
@@ -1778,17 +1724,17 @@
     },
     "errorCount": 0,
     "internalProcessingErrorCount": 0,
-    "warningCount": 66,
+    "warningCount": 72,
     "testSuccessCount": 39,
     "testFailCount": 0,
-    "testNotApplicableCount": 12,
+    "testNotApplicableCount": 13,
     "errorSummary": "",
     "internalProcessingErrorSummary": "",
-    "warningSummary": "WARNING: [STRICT101] (/AutoMiner_BP/entities/advanced_minecart.json) Uses a runtime_identifier override: minecraft:minecart\nWARNING: [UNLINK191] (/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/advanced_minecart.png) Texture does not have any items in this pack that are using this.\nWARNING: [UNLINK191] (/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/auto_miner.png) Texture does not have any items in this pack that are using this.\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:amethyst_shard`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:blast_furnace`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:chest_minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:hopper_minecart`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:piston`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/auto_miner.json to `minecraft:redstone`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_drill.json to `minecraft:copper_ingot`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_drill.json to `minecraft:stick`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_rail.json to `minecraft:copper_ingot`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/copper_rail.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/copper_rail.json to `minecraft:stick`\nWARNING: [UNLINK323] (/AutoMiner_BP/recipes/diamond_drill.json) Link to item type is not found in this pack: /AutoMiner_BP/recipes/diamond_drill.json to `minecraft:diamond`",
+    "warningSummary": "WARNING: [FORMATVER218] (/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/advanced_minecart.animation.json) Resource animation version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER218] (/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/auto_miner.animation.json) Resource animation version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER218] (/AutoMiner_RP/animations/minere/advanced_minecart.animation.json) Resource animation version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER218] (/AutoMiner_RP/animations/minere/auto_miner.animation.json) Resource animation version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER238] (/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json) Resource animation controller version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER238] (/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json) Resource animation controller version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER238] (/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json) Resource animation controller version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [FORMATVER238] (/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json) Resource animation controller version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json to `minecraft:amethyst_shard`\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json to `minecraft:minecart`\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:blast_furnace`\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:chest_minecart`\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:hopper_minecart`\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:piston`\nWARNING: [UNLINK323] (/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json) Link to item type is not found in this pack: /AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:redstone`",
     "testFailSummary": "",
-    "infoGenerationTime": 807,
-    "endToEndGenerationTime": 1025,
-    "reds": 346484,
+    "infoGenerationTime": 1201,
+    "endToEndGenerationTime": 1459,
+    "reds": 357368,
     "summary": {
       "BASEGAMEVER": {
         "2": {
@@ -1833,17 +1779,14 @@
         "1110": {
           "defaultMessage": "Entity type is not at a current format version"
         },
-        "1121": {
-          "defaultMessage": "Block type is not at a current format version (is at 1.21.0)"
-        },
         "1123": {
-          "defaultMessage": "Item type is not at a current format version (is at 1.20.80)"
+          "defaultMessage": "Item type is not at a current format version (is at 1.21.30)"
         },
         "1128": {
-          "defaultMessage": "Animation is not at a current format version (is at 1.8.0)"
+          "defaultMessage": "Animation is not at a current format version (is at 1.21.30)"
         },
         "1129": {
-          "defaultMessage": "Animation controller is not at a current format version (is at 1.10.0)"
+          "defaultMessage": "Animation controller is not at a current format version (is at 1.21.30)"
         }
       },
       "CPACKICON": {
@@ -1899,8 +1842,8 @@
         },
         "120": {
           "title": "Minor Version Low",
-          "defaultMessage": "Behavior pack entity type format version (1.20.0) has a lower minor version number compared to the current version or the previous current minor version",
-          "recommendations": 2
+          "defaultMessage": "Behavior pack entity type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
+          "recommendations": 4
         }
       },
       "EXPFLAG": {
@@ -1921,34 +1864,15 @@
           "defaultMessage": "Format Version completed successfully",
           "testCompleteSuccesses": 1
         },
-        "120": {
-          "title": "Block Patch High",
-          "defaultMessage": "Block type version (1.21.0) has a lower patch version number compared to the expected version (1.26.30)",
-          "recommendations": 5
+        "218": {
+          "title": "RP Anim Patch Low",
+          "defaultMessage": "Resource animation version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)",
+          "warnings": 4
         },
-        "136": {
-          "title": "Item Minor High",
-          "defaultMessage": "Item type version (1.20.80) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-          "recommendations": 2
-        },
-        "156": {
-          "title": "Recipe Minor High",
-          "defaultMessage": "Recipe version (1.12.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-          "recommendations": 10
-        },
-        "160": {
-          "title": "Recipe Patch High",
-          "defaultMessage": "Recipe version (1.21.0) has a lower patch version number compared to the expected version (1.26.30)",
-          "recommendations": 4
-        },
-        "216": {
-          "title": "RP Anim Minor High",
-          "defaultMessage": "Resource animation version (1.8.0) has a lower minor version number compared to the expected version (1.10.0) or its previous minor version",
-          "recommendations": 2
-        },
-        "296": {
-          "defaultMessage": "Entity type resource version (1.20.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-          "recommendations": 3
+        "238": {
+          "title": "RP AnimCtrl Patch Low",
+          "defaultMessage": "Resource animation controller version (1.21.30) has a higher minor version number compared to the expected version (1.10.0)",
+          "warnings": 4
         },
         "621": {
           "defaultMessage": "Block type format_version"
@@ -2128,7 +2052,7 @@
         },
         "120": {
           "title": "Minor Version Low",
-          "defaultMessage": "Behavior pack Item Type format version (1.20.80) has a lower minor version number compared to the current version or the previous current minor version",
+          "defaultMessage": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
           "recommendations": 24
         }
       },
@@ -2141,17 +2065,14 @@
         "1110": {
           "defaultMessage": "Entity type is not at a current format version"
         },
-        "1121": {
-          "defaultMessage": "Block type is not at a current format version (is at 1.21.0)"
-        },
         "1123": {
-          "defaultMessage": "Item type is not at a current format version (is at 1.20.80)"
+          "defaultMessage": "Item type is not at a current format version (is at 1.21.30)"
         },
         "1128": {
-          "defaultMessage": "Animation is not at a current format version (is at 1.8.0)"
+          "defaultMessage": "Animation is not at a current format version (is at 1.21.30)"
         },
         "1129": {
-          "defaultMessage": "Animation controller is not at a current format version (is at 1.10.0)"
+          "defaultMessage": "Animation controller is not at a current format version (is at 1.21.30)"
         }
       },
       "JSONF": {
@@ -2437,7 +2358,7 @@
         "104": {
           "title": "Mixed Case Path",
           "defaultMessage": "File path contains non-lowercase letters",
-          "recommendations": 43
+          "recommendations": 46
         }
       },
       "PRJINT": {
@@ -2504,11 +2425,6 @@
           "title": "Platform Validation",
           "defaultMessage": "Strict Platform completed successfully",
           "testCompleteSuccesses": 1
-        },
-        "101": {
-          "title": "Runtime ID Override",
-          "defaultMessage": "Uses a runtime_identifier override",
-          "warnings": 1
         }
       },
       "SUMMARY": {
@@ -2570,6 +2486,11 @@
           "defaultMessage": "Texture Images Tier 5"
         }
       },
+      "TEXTURELIST": {
+        "2": {
+          "defaultMessage": "No applicable items found for test Texture List Validation (TEXTURELIST)"
+        }
+      },
       "TEXTUREREF": {
         "1": {
           "title": "Texture References",
@@ -2612,15 +2533,10 @@
           "defaultMessage": "Unlinked Items completed successfully",
           "testCompleteSuccesses": 1
         },
-        "191": {
-          "title": "Unused Item",
-          "defaultMessage": "Texture does not have any items in this pack that are using this.",
-          "warnings": 2
-        },
         "205": {
           "title": "Vanilla Reference",
           "defaultMessage": "Link to vanilla texture item; avoid if possible",
-          "recommendations": 1
+          "recommendations": 2
         },
         "323": {
           "defaultMessage": "Link to item type is not found in this pack",
@@ -2628,7 +2544,7 @@
         },
         "351": {
           "defaultMessage": "Link to sound catalog is not found in this pack",
-          "warnings": 1
+          "warnings": 2
         },
         "399": {
           "defaultMessage": "Link to texture is not found in this pack",
@@ -2704,233 +2620,217 @@
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1110,
-      "p": "/AutoMiner_BP/entities/advanced_minecart.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/entities/minere/advanced_minecart.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1110,
-      "p": "/AutoMiner_BP/entities/auto_miner.behavior.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/entities/minere/auto_miner.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json"
+      "gIx": 1110,
+      "p": "/AutoMiner_BP/entities/minere/advanced_minecart.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "COMJSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "COMJSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "COMJSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json"
+      "gIx": 1110,
+      "p": "/AutoMiner_BP/entities/minere/auto_miner.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "p": "/AutoMiner_BP/items/advanced_minecart.item.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/advanced_minecart.item.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/auto_miner.item.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/auto_miner.item.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/copper_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/copper_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/diamond_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/diamond_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/emerald_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/emerald_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/gold_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/gold_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/golden_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/golden_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/iron_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/iron_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/stone_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/stone_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+      "p": "/AutoMiner_BP/items/minere/advanced_minecart.item.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json"
+      "p": "/AutoMiner_BP/items/minere/auto_miner.item.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json"
+      "p": "/AutoMiner_BP/items/minere/copper_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json"
+      "p": "/AutoMiner_BP/items/minere/copper_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json"
+      "p": "/AutoMiner_BP/items/minere/diamond_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json"
+      "p": "/AutoMiner_BP/items/minere/diamond_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json"
+      "p": "/AutoMiner_BP/items/minere/emerald_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json"
+      "p": "/AutoMiner_BP/items/minere/gold_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json"
+      "p": "/AutoMiner_BP/items/minere/golden_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json"
+      "p": "/AutoMiner_BP/items/minere/iron_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json"
+      "p": "/AutoMiner_BP/items/minere/iron_rail.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json"
+      "p": "/AutoMiner_BP/items/minere/stone_drill.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1128,
-      "p": "/AutoMiner_RP/animations/advanced_minecart.animation.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/advanced_minecart.animation.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1128,
-      "p": "/AutoMiner_RP/animations/auto_miner.animation.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/auto_miner.animation.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1128,
+      "p": "/AutoMiner_RP/animations/minere/advanced_minecart.animation.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1128,
+      "p": "/AutoMiner_RP/animations/minere/auto_miner.animation.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1129,
-      "p": "/AutoMiner_RP/animation_controllers/advanced_minecart.controller.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json"
     },
     {
       "iTp": 2,
       "gId": "COMJSON",
       "gIx": 1129,
-      "p": "/AutoMiner_RP/animation_controllers/auto_miner.controller.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1129,
+      "p": "/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "COMJSON",
+      "gIx": 1129,
+      "p": "/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json"
     },
     {
       "iTp": 1,
@@ -2967,11 +2867,8 @@
       "gId": "ENTITYTYPE",
       "gIx": 52,
       "fs": {
-        "minecraftMinecart": {
-          "count": 1
-        },
         "noRuntimeIdentifier": {
-          "count": 1
+          "count": 4
         }
       }
     },
@@ -2981,7 +2878,7 @@
       "gIx": 53,
       "fs": {
         "noOverrideIdentifier": {
-          "count": 2
+          "count": 4
         }
       }
     },
@@ -2990,23 +2887,26 @@
       "gId": "ENTITYTYPE",
       "gIx": 54,
       "fs": {
+        "spawnableEntityType": {
+          "count": 4
+        },
         "summonableEntityType": {
-          "count": 2
+          "count": 4
         },
         "entityTypeProperty": {
-          "count": 3
+          "count": 8
         },
         "entityTypePropertyClientSyncEqualstrue": {
-          "count": 2
+          "count": 6
         },
         "entityTypeIntProperty": {
-          "count": 2
+          "count": 6
         },
         "entityTypeBoolProperty": {
-          "count": 1
+          "count": 2
         },
         "entityTypePropertyClientSyncEqualsfalse": {
-          "count": 1
+          "count": 2
         }
       }
     },
@@ -3014,14 +2914,25 @@
       "iTp": 6,
       "gId": "ENTITYTYPE",
       "gIx": 120,
-      "p": "/AutoMiner_BP/entities/advanced_minecart.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/entities/minere/advanced_minecart.json"
     },
     {
       "iTp": 6,
       "gId": "ENTITYTYPE",
       "gIx": 120,
-      "m": "Behavior pack entity type format version (1.18.20) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/entities/auto_miner.behavior.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/entities/minere/auto_miner.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ENTITYTYPE",
+      "gIx": 120,
+      "p": "/AutoMiner_BP/entities/minere/advanced_minecart.json"
+    },
+    {
+      "iTp": 6,
+      "gId": "ENTITYTYPE",
+      "gIx": 120,
+      "p": "/AutoMiner_BP/entities/minere/auto_miner.json"
     },
     {
       "iTp": 8,
@@ -3039,170 +2950,107 @@
       "gIx": 1
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 120,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json"
+      "gIx": 218,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/advanced_minecart.animation.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 120,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json"
+      "gIx": 218,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/auto_miner.animation.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 120,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json"
+      "gIx": 218,
+      "p": "/AutoMiner_RP/animations/minere/advanced_minecart.animation.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 120,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json"
+      "gIx": 218,
+      "p": "/AutoMiner_RP/animations/minere/auto_miner.animation.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 120,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json"
+      "gIx": 238,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 136,
-      "p": "/AutoMiner_BP/items/advanced_minecart.item.json"
+      "gIx": 238,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 136,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+      "gIx": 238,
+      "p": "/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json"
     },
     {
-      "iTp": 6,
+      "iTp": 4,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "p": "/AutoMiner_BP/recipes/advanced_minecart.json"
+      "gIx": 238,
+      "p": "/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json"
     },
     {
-      "iTp": 6,
+      "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_BP/recipes/auto_miner.json"
+      "gIx": 621,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/blocks/copper_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
     },
     {
-      "iTp": 6,
+      "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json"
+      "gIx": 621,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/blocks/diamond_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
     },
     {
-      "iTp": 6,
+      "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json"
+      "gIx": 621,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/blocks/emerald_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
     },
     {
-      "iTp": 6,
+      "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json"
+      "gIx": 621,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/blocks/golden_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
     },
     {
-      "iTp": 6,
+      "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 156,
-      "m": "Recipe version (1.20.10) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 160,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 160,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 160,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 160,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 216,
-      "p": "/AutoMiner_RP/animations/advanced_minecart.animation.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 216,
-      "p": "/AutoMiner_RP/animations/auto_miner.animation.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 296,
-      "p": "/AutoMiner_RP/entity/advanced_minecart.entity.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 296,
-      "m": "Entity type resource version (1.10.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_RP/entity/advanced_minecart.render_controller.json"
-    },
-    {
-      "iTp": 6,
-      "gId": "FORMATVER",
-      "gIx": 296,
-      "m": "Entity type resource version (1.10.0) has a lower minor version number compared to the expected version (1.26.30) or its previous minor version",
-      "p": "/AutoMiner_RP/entity/auto_miner.entity.json"
+      "gIx": 621,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/blocks/iron_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
     },
     {
       "iTp": 2,
@@ -3262,74 +3110,8 @@
     {
       "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 621,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json",
-      "d": [
-        1,
-        21,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 621,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json",
-      "d": [
-        1,
-        21,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 621,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json",
-      "d": [
-        1,
-        21,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 621,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json",
-      "d": [
-        1,
-        21,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 621,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json",
-      "d": [
-        1,
-        21,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/advanced_minecart.item.json",
-      "d": [
-        1,
-        20,
-        80
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 623,
-      "p": "/AutoMiner_BP/items/auto_miner.item.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/advanced_minecart.item.json",
       "d": [
         1,
         21,
@@ -3340,7 +3122,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/copper_drill.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/auto_miner.item.json",
       "d": [
         1,
         21,
@@ -3351,7 +3133,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/copper_rail.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_drill.json",
       "d": [
         1,
         21,
@@ -3362,7 +3144,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/diamond_drill.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_rail.json",
       "d": [
         1,
         21,
@@ -3373,7 +3155,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/diamond_rail.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_drill.json",
       "d": [
         1,
         21,
@@ -3384,7 +3166,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/emerald_rail.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_rail.json",
       "d": [
         1,
         21,
@@ -3395,7 +3177,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/gold_drill.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/emerald_rail.json",
       "d": [
         1,
         21,
@@ -3406,7 +3188,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/golden_rail.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/gold_drill.json",
       "d": [
         1,
         21,
@@ -3417,7 +3199,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/iron_drill.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/golden_rail.json",
       "d": [
         1,
         21,
@@ -3428,7 +3210,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/iron_rail.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_drill.json",
       "d": [
         1,
         21,
@@ -3439,7 +3221,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/AutoMiner_BP/items/stone_drill.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_rail.json",
       "d": [
         1,
         21,
@@ -3450,18 +3232,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json",
-      "d": [
-        1,
-        20,
-        80
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/stone_drill.json",
       "d": [
         1,
         21,
@@ -3472,7 +3243,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json",
+      "p": "/AutoMiner_BP/items/minere/advanced_minecart.item.json",
       "d": [
         1,
         21,
@@ -3483,7 +3254,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json",
+      "p": "/AutoMiner_BP/items/minere/auto_miner.item.json",
       "d": [
         1,
         21,
@@ -3494,7 +3265,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json",
+      "p": "/AutoMiner_BP/items/minere/copper_drill.json",
       "d": [
         1,
         21,
@@ -3505,7 +3276,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json",
+      "p": "/AutoMiner_BP/items/minere/copper_rail.json",
       "d": [
         1,
         21,
@@ -3516,7 +3287,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json",
+      "p": "/AutoMiner_BP/items/minere/diamond_drill.json",
       "d": [
         1,
         21,
@@ -3527,7 +3298,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json",
+      "p": "/AutoMiner_BP/items/minere/diamond_rail.json",
       "d": [
         1,
         21,
@@ -3538,7 +3309,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json",
+      "p": "/AutoMiner_BP/items/minere/emerald_rail.json",
       "d": [
         1,
         21,
@@ -3549,7 +3320,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json",
+      "p": "/AutoMiner_BP/items/minere/gold_drill.json",
       "d": [
         1,
         21,
@@ -3560,7 +3331,7 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json",
+      "p": "/AutoMiner_BP/items/minere/golden_rail.json",
       "d": [
         1,
         21,
@@ -3571,7 +3342,29 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 623,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json",
+      "p": "/AutoMiner_BP/items/minere/iron_drill.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/minere/iron_rail.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 623,
+      "p": "/AutoMiner_BP/items/minere/stone_drill.json",
       "d": [
         1,
         21,
@@ -3582,341 +3375,418 @@
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 628,
-      "p": "/AutoMiner_RP/animations/advanced_minecart.animation.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/advanced_minecart.animation.json",
       "d": [
         1,
-        8,
-        0
+        21,
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 628,
-      "p": "/AutoMiner_RP/animations/auto_miner.animation.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/auto_miner.animation.json",
       "d": [
         1,
-        8,
-        0
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 628,
+      "p": "/AutoMiner_RP/animations/minere/advanced_minecart.animation.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 628,
+      "p": "/AutoMiner_RP/animations/minere/auto_miner.animation.json",
+      "d": [
+        1,
+        21,
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 629,
-      "p": "/AutoMiner_RP/animation_controllers/advanced_minecart.controller.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json",
       "d": [
         1,
-        10,
-        0
+        21,
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 629,
-      "p": "/AutoMiner_RP/animation_controllers/auto_miner.controller.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json",
       "d": [
         1,
-        10,
-        0
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 629,
+      "p": "/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 629,
+      "p": "/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json",
+      "d": [
+        1,
+        21,
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 630,
-      "p": "/AutoMiner_RP/entity/advanced_minecart.entity.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/entity/minere/advanced_minecart.entity.json",
       "d": [
         1,
-        20,
-        0
+        21,
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 630,
-      "p": "/AutoMiner_RP/entity/advanced_minecart.render_controller.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/entity/minere/advanced_minecart.render_controller.json",
       "d": [
         1,
-        10,
-        0
+        21,
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
       "gIx": 630,
-      "p": "/AutoMiner_RP/entity/auto_miner.entity.json",
-      "d": [
-        1,
-        10,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/advanced_minecart.json",
-      "d": [
-        1,
-        12,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/auto_miner.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/copper_drill.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/copper_rail.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/diamond_drill.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/diamond_rail.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/emerald_rail.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/gold_drill.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/golden_rail.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/iron_drill.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/iron_rail.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/AutoMiner_BP/recipes/stone_drill.json",
-      "d": [
-        1,
-        26,
-        30
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json",
-      "d": [
-        1,
-        12,
-        0
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/entity/minere/auto_miner.entity.json",
       "d": [
         1,
         21,
-        0
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json",
+      "gIx": 630,
+      "p": "/AutoMiner_RP/entity/minere/advanced_minecart.entity.json",
       "d": [
         1,
         21,
-        0
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json",
+      "gIx": 630,
+      "p": "/AutoMiner_RP/entity/minere/advanced_minecart.render_controller.json",
       "d": [
         1,
         21,
-        0
+        30
       ]
     },
     {
       "iTp": 2,
       "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json",
-      "d": [
-        1,
-        20,
-        10
-      ]
-    },
-    {
-      "iTp": 2,
-      "gId": "FORMATVER",
-      "gIx": 643,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json",
+      "gIx": 630,
+      "p": "/AutoMiner_RP/entity/minere/auto_miner.entity.json",
       "d": [
         1,
         21,
-        0
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/emerald_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/gold_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/golden_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/stone_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/advanced_minecart.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/copper_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/copper_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/diamond_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/diamond_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/emerald_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/gold_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/golden_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/iron_drill.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/iron_rail.json",
+      "d": [
+        1,
+        26,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "FORMATVER",
+      "gIx": 643,
+      "p": "/AutoMiner_BP/recipes/minere/stone_drill.json",
+      "d": [
+        1,
+        26,
+        30
       ]
     },
     {
@@ -3962,19 +3832,19 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 102,
-      "p": "/AutoMiner_BP/manifest.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json"
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 102,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json"
+      "p": "/AutoMiner_BP/manifest.json"
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 103,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json"
     },
     {
       "iTp": 2,
@@ -3998,13 +3868,13 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 210,
-      "d": 2
+      "d": 4
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 213,
-      "d": 10
+      "d": 20
     },
     {
       "iTp": 2,
@@ -4028,31 +3898,31 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 224,
-      "d": 10
+      "d": 14
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 227,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 228,
-      "d": 2
+      "d": 4
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 229,
-      "d": 2
+      "d": 4
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 230,
-      "d": 3
+      "d": 6
     },
     {
       "iTp": 2,
@@ -4064,13 +3934,13 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 233,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 237,
-      "d": 2
+      "d": 4
     },
     {
       "iTp": 2,
@@ -4082,25 +3952,25 @@
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 254,
-      "d": 2
+      "d": 1
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 258,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 259,
-      "d": 1
+      "d": 2
     },
     {
       "iTp": 2,
       "gId": "ITEMS",
       "gIx": 279,
-      "d": 4
+      "d": 8
     },
     {
       "iTp": 2,
@@ -4162,167 +4032,145 @@
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "p": "/AutoMiner_BP/items/advanced_minecart.item.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/advanced_minecart.item.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/auto_miner.item.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/auto_miner.item.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/copper_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/copper_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/diamond_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/diamond_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/emerald_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/emerald_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/gold_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/gold_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/golden_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/golden_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/iron_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/iron_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/AutoMiner_BP/items/stone_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/stone_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+      "p": "/AutoMiner_BP/items/minere/advanced_minecart.item.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json"
+      "p": "/AutoMiner_BP/items/minere/auto_miner.item.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json"
+      "p": "/AutoMiner_BP/items/minere/copper_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json"
+      "p": "/AutoMiner_BP/items/minere/copper_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json"
+      "p": "/AutoMiner_BP/items/minere/diamond_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json"
+      "p": "/AutoMiner_BP/items/minere/diamond_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json"
+      "p": "/AutoMiner_BP/items/minere/emerald_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json"
+      "p": "/AutoMiner_BP/items/minere/gold_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json"
+      "p": "/AutoMiner_BP/items/minere/golden_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json"
+      "p": "/AutoMiner_BP/items/minere/iron_drill.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json"
+      "p": "/AutoMiner_BP/items/minere/iron_rail.json"
     },
     {
       "iTp": 6,
       "gId": "ITEMTYPE",
       "gIx": 120,
-      "m": "Behavior pack Item Type format version (1.21.30) has a lower minor version number compared to the current version or the previous current minor version",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json"
+      "p": "/AutoMiner_BP/items/minere/stone_drill.json"
     },
     {
       "iTp": 1,
@@ -4333,233 +4181,217 @@
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1110,
-      "p": "/AutoMiner_BP/entities/advanced_minecart.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/entities/minere/advanced_minecart.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1110,
-      "p": "/AutoMiner_BP/entities/auto_miner.behavior.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/entities/minere/auto_miner.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/copper_rail.json"
+      "gIx": 1110,
+      "p": "/AutoMiner_BP/entities/minere/advanced_minecart.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/diamond_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/emerald_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/golden_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSON",
-      "gIx": 1121,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/blocks/iron_rail.json"
+      "gIx": 1110,
+      "p": "/AutoMiner_BP/entities/minere/auto_miner.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "p": "/AutoMiner_BP/items/advanced_minecart.item.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/advanced_minecart.item.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/auto_miner.item.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/auto_miner.item.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/copper_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/copper_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/copper_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/diamond_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/diamond_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/diamond_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/emerald_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/emerald_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/gold_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/gold_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/golden_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/golden_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/iron_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/iron_rail.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/iron_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/AutoMiner_BP/items/stone_drill.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/items/minere/stone_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/advanced_minecart.item.json"
+      "p": "/AutoMiner_BP/items/minere/advanced_minecart.item.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/auto_miner.item.json"
+      "p": "/AutoMiner_BP/items/minere/auto_miner.item.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_drill.json"
+      "p": "/AutoMiner_BP/items/minere/copper_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/copper_rail.json"
+      "p": "/AutoMiner_BP/items/minere/copper_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_drill.json"
+      "p": "/AutoMiner_BP/items/minere/diamond_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/diamond_rail.json"
+      "p": "/AutoMiner_BP/items/minere/diamond_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/emerald_rail.json"
+      "p": "/AutoMiner_BP/items/minere/emerald_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/gold_drill.json"
+      "p": "/AutoMiner_BP/items/minere/gold_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/golden_rail.json"
+      "p": "/AutoMiner_BP/items/minere/golden_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_drill.json"
+      "p": "/AutoMiner_BP/items/minere/iron_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/iron_rail.json"
+      "p": "/AutoMiner_BP/items/minere/iron_rail.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1123,
-      "m": "Item type is not at a current format version (is at 1.21.30)",
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/items/stone_drill.json"
+      "p": "/AutoMiner_BP/items/minere/stone_drill.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1128,
-      "p": "/AutoMiner_RP/animations/advanced_minecart.animation.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/advanced_minecart.animation.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1128,
-      "p": "/AutoMiner_RP/animations/auto_miner.animation.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animations/minere/auto_miner.animation.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1128,
+      "p": "/AutoMiner_RP/animations/minere/advanced_minecart.animation.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1128,
+      "p": "/AutoMiner_RP/animations/minere/auto_miner.animation.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1129,
-      "p": "/AutoMiner_RP/animation_controllers/advanced_minecart.controller.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json"
     },
     {
       "iTp": 2,
       "gId": "JSON",
       "gIx": 1129,
-      "p": "/AutoMiner_RP/animation_controllers/auto_miner.controller.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1129,
+      "p": "/AutoMiner_RP/animation_controllers/minere/advanced_minecart.controller.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSON",
+      "gIx": 1129,
+      "p": "/AutoMiner_RP/animation_controllers/minere/auto_miner.controller.json"
     },
     {
       "iTp": 1,
@@ -4575,8 +4407,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 101,
-      "p": "/AutoMiner_BP/entities/advanced_minecart.json",
-      "d": "/AutoMiner_BP/entities/advanced_minecart.json",
+      "p": "/AutoMiner_BP/entities/minere/advanced_minecart.json",
+      "d": "/AutoMiner_BP/entities/minere/advanced_minecart.json",
       "fs": {
         "defaultComponents": {
           "minecraftIsStackable": 1,
@@ -4587,7 +4419,8 @@
           "minecraftRailSensor": 1,
           "minecraftPhysics": 1,
           "minecraftPushable": 1,
-          "minecraftConditionalBandwidthOptimization": 1
+          "minecraftConditionalBandwidthOptimization": 1,
+          "minecraftLoot": 1
         }
       }
     },
@@ -4595,8 +4428,29 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 101,
-      "p": "/AutoMiner_BP/entities/auto_miner.behavior.json",
-      "d": "/AutoMiner_BP/entities/auto_miner.behavior.json",
+      "p": "/AutoMiner_BP/entities/minere/advanced_minecart.json",
+      "d": "/AutoMiner_BP/entities/minere/advanced_minecart.json",
+      "fs": {
+        "defaultComponents": {
+          "minecraftIsStackable": 1,
+          "minecraftTypeFamily": 1,
+          "minecraftCollisionBox": 1,
+          "minecraftRailMovement": 1,
+          "minecraftRideable": 1,
+          "minecraftRailSensor": 1,
+          "minecraftPhysics": 1,
+          "minecraftPushable": 1,
+          "minecraftConditionalBandwidthOptimization": 1,
+          "minecraftLoot": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 101,
+      "p": "/AutoMiner_BP/entities/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/entities/minere/auto_miner.json",
       "fs": {
         "defaultComponents": {
           "minecraftPhysics": 1,
@@ -4606,7 +4460,10 @@
           "minecraftFireImmune": 1,
           "minecraftInventory": 1,
           "minecraftCollisionBox": 1,
-          "minecraftPushable": 1
+          "minecraftTypeFamily": 1,
+          "minecraftPushable": 1,
+          "minecraftIsStackable": 1,
+          "minecraftLoot": 1
         },
         "entityEvents": {
           "sequence": 4,
@@ -4618,103 +4475,57 @@
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/blocks/copper_rail.json",
+      "gIx": 101,
+      "p": "/AutoMiner_BP/entities/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/entities/minere/auto_miner.json",
       "fs": {
-        "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
+        "defaultComponents": {
+          "minecraftPhysics": 1,
+          "minecraftKnockbackResistance": 1,
+          "minecraftHealth": 1,
+          "minecraftDamageSensor": 1,
+          "minecraftFireImmune": 1,
+          "minecraftInventory": 1,
+          "minecraftCollisionBox": 1,
+          "minecraftTypeFamily": 1,
+          "minecraftPushable": 1,
+          "minecraftIsStackable": 1,
+          "minecraftLoot": 1
+        },
+        "entityEvents": {
+          "sequence": 4,
+          "filters": 2,
+          "setProperty": 3
         }
       }
     },
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/blocks/diamond_rail.json",
-      "fs": {
-        "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftStepSound": 1,
-          "minecraftWaterlogged": 1
-        }
-      }
+      "gIx": 101,
+      "p": "/AutoMiner_BP/loot_tables/entities/advanced_minecart.json",
+      "d": "/AutoMiner_BP/loot_tables/entities/advanced_minecart.json"
     },
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/blocks/emerald_rail.json",
-      "fs": {
-        "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
-        }
-      }
+      "gIx": 101,
+      "p": "/AutoMiner_BP/loot_tables/entities/advanced_minecart.json",
+      "d": "/AutoMiner_BP/loot_tables/entities/advanced_minecart.json"
     },
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/blocks/golden_rail.json",
-      "fs": {
-        "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
-        }
-      }
+      "gIx": 101,
+      "p": "/AutoMiner_BP/loot_tables/entities/auto_miner.json",
+      "d": "/AutoMiner_BP/loot_tables/entities/auto_miner.json"
     },
     {
       "iTp": 2,
       "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/blocks/iron_rail.json",
-      "fs": {
-        "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/loot_tables/blocks/copper_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/loot_tables/blocks/diamond_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/loot_tables/blocks/emerald_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/loot_tables/blocks/golden_rail.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 102,
-      "d": "/loot_tables/blocks/iron_rail.json"
+      "gIx": 101,
+      "p": "/AutoMiner_BP/loot_tables/entities/auto_miner.json",
+      "d": "/AutoMiner_BP/loot_tables/entities/auto_miner.json"
     },
     {
       "iTp": 2,
@@ -4724,10 +4535,19 @@
       "d": "/AutoMiner_BP/blocks/copper_rail.json",
       "fs": {
         "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
+          "minecraftLoot": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/blocks/copper_rail.json",
+      "d": "/AutoMiner_BP/blocks/copper_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftLoot": 1
         }
       }
     },
@@ -4739,11 +4559,19 @@
       "d": "/AutoMiner_BP/blocks/diamond_rail.json",
       "fs": {
         "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftStepSound": 1,
-          "minecraftWaterlogged": 1
+          "minecraftLoot": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/blocks/diamond_rail.json",
+      "d": "/AutoMiner_BP/blocks/diamond_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftLoot": 1
         }
       }
     },
@@ -4755,10 +4583,19 @@
       "d": "/AutoMiner_BP/blocks/emerald_rail.json",
       "fs": {
         "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
+          "minecraftLoot": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/blocks/emerald_rail.json",
+      "d": "/AutoMiner_BP/blocks/emerald_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftLoot": 1
         }
       }
     },
@@ -4770,10 +4607,19 @@
       "d": "/AutoMiner_BP/blocks/golden_rail.json",
       "fs": {
         "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
+          "minecraftLoot": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/blocks/golden_rail.json",
+      "d": "/AutoMiner_BP/blocks/golden_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftLoot": 1
         }
       }
     },
@@ -4785,12 +4631,28 @@
       "d": "/AutoMiner_BP/blocks/iron_rail.json",
       "fs": {
         "blockDefaultComponents": {
-          "minecraftDestructible": 1,
-          "minecraftBreakInfo": 1,
-          "minecraftLoot": 1,
-          "minecraftWaterlogged": 1
+          "minecraftLoot": 1
         }
       }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/blocks/iron_rail.json",
+      "d": "/AutoMiner_BP/blocks/iron_rail.json",
+      "fs": {
+        "blockDefaultComponents": {
+          "minecraftLoot": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/loot_tables/blocks/copper_rail.json",
+      "d": "/AutoMiner_BP/loot_tables/blocks/copper_rail.json"
     },
     {
       "iTp": 2,
@@ -4810,8 +4672,29 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 102,
+      "p": "/AutoMiner_BP/loot_tables/blocks/diamond_rail.json",
+      "d": "/AutoMiner_BP/loot_tables/blocks/diamond_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
       "p": "/AutoMiner_BP/loot_tables/blocks/emerald_rail.json",
       "d": "/AutoMiner_BP/loot_tables/blocks/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/loot_tables/blocks/emerald_rail.json",
+      "d": "/AutoMiner_BP/loot_tables/blocks/emerald_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/loot_tables/blocks/golden_rail.json",
+      "d": "/AutoMiner_BP/loot_tables/blocks/golden_rail.json"
     },
     {
       "iTp": 2,
@@ -4830,8 +4713,16 @@
     {
       "iTp": 2,
       "gId": "JSONTAGS",
+      "gIx": 102,
+      "p": "/AutoMiner_BP/loot_tables/blocks/iron_rail.json",
+      "d": "/AutoMiner_BP/loot_tables/blocks/iron_rail.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
       "gIx": 103,
-      "d": "/items/advanced_minecart.item.json",
+      "p": "/AutoMiner_BP/items/minere/advanced_minecart.item.json",
+      "d": "/AutoMiner_BP/items/minere/advanced_minecart.item.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -4845,7 +4736,23 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "d": "/items/auto_miner.item.json",
+      "p": "/AutoMiner_BP/items/minere/advanced_minecart.item.json",
+      "d": "/AutoMiner_BP/items/minere/advanced_minecart.item.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftGlint": 1,
+          "minecraftIcon": 1,
+          "minecraftEntityPlacer": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/auto_miner.item.json",
+      "d": "/AutoMiner_BP/items/minere/auto_miner.item.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -4860,153 +4767,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "d": "/items/copper_drill.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1,
-          "minecraftDurability": 1,
-          "minecraftRepairable": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/copper_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/diamond_drill.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1,
-          "minecraftDurability": 1,
-          "minecraftRepairable": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/diamond_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/emerald_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/gold_drill.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1,
-          "minecraftDurability": 1,
-          "minecraftRepairable": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/golden_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/iron_drill.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1,
-          "minecraftDurability": 1,
-          "minecraftRepairable": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/iron_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "d": "/items/stone_drill.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1,
-          "minecraftDurability": 1,
-          "minecraftRepairable": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "p": "/AutoMiner_BP/items/advanced_minecart.item.json",
-      "d": "/AutoMiner_BP/items/advanced_minecart.item.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftGlint": 1,
-          "minecraftIcon": 1,
-          "minecraftEntityPlacer": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "p": "/AutoMiner_BP/items/auto_miner.item.json",
-      "d": "/AutoMiner_BP/items/auto_miner.item.json",
+      "p": "/AutoMiner_BP/items/minere/auto_miner.item.json",
+      "d": "/AutoMiner_BP/items/minere/auto_miner.item.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5021,8 +4783,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/copper_drill.json",
-      "d": "/AutoMiner_BP/items/copper_drill.json",
+      "p": "/AutoMiner_BP/items/minere/copper_drill.json",
+      "d": "/AutoMiner_BP/items/minere/copper_drill.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5036,21 +4798,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/copper_rail.json",
-      "d": "/AutoMiner_BP/items/copper_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "p": "/AutoMiner_BP/items/diamond_drill.json",
-      "d": "/AutoMiner_BP/items/diamond_drill.json",
+      "p": "/AutoMiner_BP/items/minere/copper_drill.json",
+      "d": "/AutoMiner_BP/items/minere/copper_drill.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5064,8 +4813,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/diamond_rail.json",
-      "d": "/AutoMiner_BP/items/diamond_rail.json",
+      "p": "/AutoMiner_BP/items/minere/copper_rail.json",
+      "d": "/AutoMiner_BP/items/minere/copper_rail.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5077,8 +4826,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/emerald_rail.json",
-      "d": "/AutoMiner_BP/items/emerald_rail.json",
+      "p": "/AutoMiner_BP/items/minere/copper_rail.json",
+      "d": "/AutoMiner_BP/items/minere/copper_rail.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5090,8 +4839,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/gold_drill.json",
-      "d": "/AutoMiner_BP/items/gold_drill.json",
+      "p": "/AutoMiner_BP/items/minere/diamond_drill.json",
+      "d": "/AutoMiner_BP/items/minere/diamond_drill.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5105,21 +4854,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/golden_rail.json",
-      "d": "/AutoMiner_BP/items/golden_rail.json",
-      "fs": {
-        "components": {
-          "minecraftMaxStackSize": 1,
-          "minecraftIcon": 1
-        }
-      }
-    },
-    {
-      "iTp": 2,
-      "gId": "JSONTAGS",
-      "gIx": 103,
-      "p": "/AutoMiner_BP/items/iron_drill.json",
-      "d": "/AutoMiner_BP/items/iron_drill.json",
+      "p": "/AutoMiner_BP/items/minere/diamond_drill.json",
+      "d": "/AutoMiner_BP/items/minere/diamond_drill.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5133,8 +4869,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/iron_rail.json",
-      "d": "/AutoMiner_BP/items/iron_rail.json",
+      "p": "/AutoMiner_BP/items/minere/diamond_rail.json",
+      "d": "/AutoMiner_BP/items/minere/diamond_rail.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5146,8 +4882,174 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 103,
-      "p": "/AutoMiner_BP/items/stone_drill.json",
-      "d": "/AutoMiner_BP/items/stone_drill.json",
+      "p": "/AutoMiner_BP/items/minere/diamond_rail.json",
+      "d": "/AutoMiner_BP/items/minere/diamond_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/emerald_rail.json",
+      "d": "/AutoMiner_BP/items/minere/emerald_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/emerald_rail.json",
+      "d": "/AutoMiner_BP/items/minere/emerald_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/gold_drill.json",
+      "d": "/AutoMiner_BP/items/minere/gold_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/gold_drill.json",
+      "d": "/AutoMiner_BP/items/minere/gold_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/golden_rail.json",
+      "d": "/AutoMiner_BP/items/minere/golden_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/golden_rail.json",
+      "d": "/AutoMiner_BP/items/minere/golden_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/iron_drill.json",
+      "d": "/AutoMiner_BP/items/minere/iron_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/iron_drill.json",
+      "d": "/AutoMiner_BP/items/minere/iron_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/iron_rail.json",
+      "d": "/AutoMiner_BP/items/minere/iron_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/iron_rail.json",
+      "d": "/AutoMiner_BP/items/minere/iron_rail.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/stone_drill.json",
+      "d": "/AutoMiner_BP/items/minere/stone_drill.json",
+      "fs": {
+        "components": {
+          "minecraftMaxStackSize": 1,
+          "minecraftIcon": 1,
+          "minecraftDurability": 1,
+          "minecraftRepairable": 1
+        }
+      }
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 103,
+      "p": "/AutoMiner_BP/items/minere/stone_drill.json",
+      "d": "/AutoMiner_BP/items/minere/stone_drill.json",
       "fs": {
         "components": {
           "minecraftMaxStackSize": 1,
@@ -5161,7 +5063,8 @@
       "iTp": 2,
       "gId": "JSONTAGS",
       "gIx": 105,
-      "d": "/textures/item_texture.json"
+      "p": "/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_RP/textures/item_texture.json"
     },
     {
       "iTp": 2,
@@ -5176,6 +5079,35 @@
       "gIx": 108,
       "p": "/AutoMiner_RP/sounds.json",
       "d": "/AutoMiner_RP/sounds.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 108,
+      "p": "/AutoMiner_RP/sounds.json",
+      "d": "/AutoMiner_RP/sounds.json"
+    },
+    {
+      "iTp": 2,
+      "gId": "JSONTAGS",
+      "gIx": 111,
+      "p": "/AutoMiner_RP/particles/auto_miner_particles.json",
+      "d": "/AutoMiner_RP/particles/auto_miner_particles.json",
+      "fs": {
+        "particleEmitterComponents": {
+          "minecraftEmitterRateSteady": 1,
+          "minecraftEmitterLifetimeLooping": 1,
+          "minecraftEmitterShapeCustom": 1
+        },
+        "particleComponents": {
+          "minecraftParticleLifetimeExpression": 1,
+          "minecraftParticleInitialSpeed": 1,
+          "minecraftParticleMotionDynamic": 1,
+          "minecraftParticleAppearanceBillboard": 1,
+          "minecraftParticleAppearanceTinting": 1,
+          "minecraftParticleAppearanceLighting": 1
+        }
+      }
     },
     {
       "iTp": 2,
@@ -5211,14 +5143,14 @@
       "fs": {
         "size": {
           "instanceCount": 94,
-          "total": 158604,
-          "max": 10010,
+          "total": 158754,
+          "max": 10015,
           "min": 97,
-          "average": 1687
+          "average": 1689
         },
         "lines": {
           "instanceCount": 94,
-          "total": 6048,
+          "total": 6050,
           "max": 419,
           "min": 5,
           "average": 64
@@ -5252,18 +5184,18 @@
       "gIx": 110,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 3599,
-          "max": 2540,
-          "min": 1059,
-          "average": 1800
+          "instanceCount": 4,
+          "total": 7794,
+          "max": 2787,
+          "min": 1110,
+          "average": 1949
         },
         "lines": {
-          "instanceCount": 2,
-          "total": 203,
-          "max": 150,
-          "min": 53,
-          "average": 102
+          "instanceCount": 4,
+          "total": 438,
+          "max": 164,
+          "min": 55,
+          "average": 110
         }
       }
     },
@@ -5273,15 +5205,15 @@
       "gIx": 113,
       "fs": {
         "size": {
-          "instanceCount": 10,
-          "total": 19005,
-          "max": 10400,
+          "instanceCount": 20,
+          "total": 38108,
+          "max": 10405,
           "min": 259,
-          "average": 1901
+          "average": 1905
         },
         "lines": {
-          "instanceCount": 10,
-          "total": 711,
+          "instanceCount": 20,
+          "total": 1420,
           "max": 351,
           "min": 13,
           "average": 71
@@ -5295,17 +5227,17 @@
       "fs": {
         "size": {
           "instanceCount": 2,
-          "total": 1068,
-          "max": 534,
-          "min": 534,
-          "average": 534
+          "total": 1234,
+          "max": 617,
+          "min": 617,
+          "average": 617
         },
         "lines": {
           "instanceCount": 2,
-          "total": 44,
-          "max": 22,
-          "min": 22,
-          "average": 22
+          "total": 52,
+          "max": 26,
+          "min": 26,
+          "average": 26
         }
       }
     },
@@ -5316,17 +5248,17 @@
       "fs": {
         "size": {
           "instanceCount": 10,
-          "total": 3955,
-          "max": 442,
-          "min": 380,
-          "average": 396
+          "total": 1688,
+          "max": 171,
+          "min": 165,
+          "average": 169
         },
         "lines": {
           "instanceCount": 10,
-          "total": 194,
-          "max": 21,
-          "min": 19,
-          "average": 19
+          "total": 80,
+          "max": 8,
+          "min": 8,
+          "average": 8
         }
       }
     },
@@ -5337,10 +5269,10 @@
       "fs": {
         "size": {
           "instanceCount": 24,
-          "total": 8022,
-          "max": 493,
+          "total": 8042,
+          "max": 494,
           "min": 228,
-          "average": 334
+          "average": 335
         },
         "lines": {
           "instanceCount": 24,
@@ -5357,18 +5289,18 @@
       "gIx": 124,
       "fs": {
         "size": {
-          "instanceCount": 10,
-          "total": 790,
-          "max": 80,
+          "instanceCount": 14,
+          "total": 1566,
+          "max": 195,
           "min": 77,
-          "average": 79
+          "average": 112
         },
         "lines": {
-          "instanceCount": 10,
-          "total": 60,
-          "max": 6,
+          "instanceCount": 14,
+          "total": 108,
+          "max": 12,
           "min": 6,
-          "average": 6
+          "average": 8
         }
       }
     },
@@ -5378,15 +5310,15 @@
       "gIx": 127,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 159,
+          "instanceCount": 2,
+          "total": 318,
           "max": 159,
           "min": 159,
           "average": 159
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 10,
+          "instanceCount": 2,
+          "total": 20,
           "max": 10,
           "min": 10,
           "average": 10
@@ -5399,18 +5331,18 @@
       "gIx": 128,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 1682,
-          "max": 1475,
-          "min": 207,
-          "average": 841
+          "instanceCount": 4,
+          "total": 1782,
+          "max": 682,
+          "min": 209,
+          "average": 446
         },
         "lines": {
-          "instanceCount": 2,
-          "total": 111,
-          "max": 99,
+          "instanceCount": 4,
+          "total": 100,
+          "max": 38,
           "min": 12,
-          "average": 56
+          "average": 25
         }
       }
     },
@@ -5420,15 +5352,15 @@
       "gIx": 129,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 1396,
-          "max": 1224,
-          "min": 172,
-          "average": 698
+          "instanceCount": 4,
+          "total": 2796,
+          "max": 1225,
+          "min": 173,
+          "average": 699
         },
         "lines": {
-          "instanceCount": 2,
-          "total": 60,
+          "instanceCount": 4,
+          "total": 120,
           "max": 52,
           "min": 8,
           "average": 30
@@ -5441,15 +5373,15 @@
       "gIx": 130,
       "fs": {
         "size": {
-          "instanceCount": 3,
-          "total": 2268,
-          "max": 1295,
-          "min": 350,
-          "average": 756
+          "instanceCount": 6,
+          "total": 4542,
+          "max": 1296,
+          "min": 351,
+          "average": 757
         },
         "lines": {
-          "instanceCount": 3,
-          "total": 89,
+          "instanceCount": 6,
+          "total": 178,
           "max": 47,
           "min": 15,
           "average": 30
@@ -5483,15 +5415,15 @@
       "gIx": 133,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 1205,
+          "instanceCount": 2,
+          "total": 2410,
           "max": 1205,
           "min": 1205,
           "average": 1205
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 54,
+          "instanceCount": 2,
+          "total": 108,
           "max": 54,
           "min": 54,
           "average": 54
@@ -5504,15 +5436,15 @@
       "gIx": 137,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 34,
+          "instanceCount": 4,
+          "total": 68,
           "max": 25,
           "min": 9,
           "average": 17
         },
         "lines": {
-          "instanceCount": 2,
-          "total": 4,
+          "instanceCount": 4,
+          "total": 8,
           "max": 2,
           "min": 2,
           "average": 2
@@ -5526,16 +5458,16 @@
       "fs": {
         "size": {
           "instanceCount": 24,
-          "total": 7401,
-          "max": 464,
-          "min": 254,
-          "average": 308
+          "total": 7840,
+          "max": 471,
+          "min": 279,
+          "average": 327
         },
         "lines": {
           "instanceCount": 24,
           "total": 592,
           "max": 32,
-          "min": 17,
+          "min": 20,
           "average": 25
         }
       }
@@ -5546,11 +5478,11 @@
       "gIx": 154,
       "fs": {
         "size": {
-          "instanceCount": 2,
-          "total": 84511,
-          "max": 57956,
-          "min": 26555,
-          "average": 42256
+          "instanceCount": 1,
+          "total": 2404287,
+          "max": 2404287,
+          "min": 2404287,
+          "average": 2404287
         }
       }
     },
@@ -5560,15 +5492,15 @@
       "gIx": 158,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 221,
+          "instanceCount": 2,
+          "total": 442,
           "max": 221,
           "min": 221,
           "average": 221
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 12,
+          "instanceCount": 2,
+          "total": 24,
           "max": 12,
           "min": 12,
           "average": 12
@@ -5581,15 +5513,15 @@
       "gIx": 159,
       "fs": {
         "size": {
-          "instanceCount": 1,
-          "total": 269,
+          "instanceCount": 2,
+          "total": 538,
           "max": 269,
           "min": 269,
           "average": 269
         },
         "lines": {
-          "instanceCount": 1,
-          "total": 15,
+          "instanceCount": 2,
+          "total": 30,
           "max": 15,
           "min": 15,
           "average": 15
@@ -5602,15 +5534,15 @@
       "gIx": 179,
       "fs": {
         "size": {
-          "instanceCount": 4,
-          "total": 1869,
-          "max": 684,
-          "min": 379,
-          "average": 467
+          "instanceCount": 8,
+          "total": 3768,
+          "max": 689,
+          "min": 384,
+          "average": 471
         },
         "lines": {
-          "instanceCount": 4,
-          "total": 46,
+          "instanceCount": 8,
+          "total": 92,
           "max": 18,
           "min": 8,
           "average": 12
@@ -5624,10 +5556,10 @@
       "fs": {
         "size": {
           "instanceCount": 2,
-          "total": 2026,
-          "max": 1013,
-          "min": 1013,
-          "average": 1013
+          "total": 2036,
+          "max": 1018,
+          "min": 1018,
+          "average": 1018
         },
         "lines": {
           "instanceCount": 2,
@@ -5711,7 +5643,7 @@
       "iTp": 2,
       "gId": "MINENGINEVER",
       "gIx": 605,
-      "p": "/AutoMiner_BP/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
       "d": [
         1,
         21,
@@ -5722,7 +5654,7 @@
       "iTp": 2,
       "gId": "MINENGINEVER",
       "gIx": 605,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "p": "/AutoMiner_BP/manifest.json",
       "d": [
         1,
         21,
@@ -5733,7 +5665,7 @@
       "iTp": 2,
       "gId": "MINENGINEVER",
       "gIx": 614,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": [
         1,
         21,
@@ -5765,48 +5697,66 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 104,
-      "p": "/AutoMiner_BP/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
       "d": "Auto Miner [1.0.2]"
     },
     {
       "iTp": 2,
       "gId": "PACK",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "p": "/AutoMiner_BP/manifest.json",
       "d": "Auto Miner [1.0.2]"
     },
     {
       "iTp": 2,
       "gId": "PACK",
       "gIx": 105,
-      "p": "/AutoMiner_BP/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
       "d": "CocoaWarrior's Auto Miner"
     },
     {
       "iTp": 2,
       "gId": "PACK",
       "gIx": 105,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "p": "/AutoMiner_BP/manifest.json",
       "d": "CocoaWarrior's Auto Miner"
     },
     {
       "iTp": 2,
       "gId": "PACK",
       "gIx": 106,
-      "p": "/AutoMiner_BP/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
       "d": "2e839411-4a0e-4cee-b106-33d5bde91193|1.0.1"
     },
     {
       "iTp": 2,
       "gId": "PACK",
       "gIx": 106,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "p": "/AutoMiner_BP/manifest.json",
       "d": "2e839411-4a0e-4cee-b106-33d5bde91193|1.0.1"
     },
     {
       "iTp": 2,
       "gId": "PACK",
       "gIx": 107,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
+      "d": 2
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 107,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
+      "d": [
+        1,
+        21,
+        30
+      ]
+    },
+    {
+      "iTp": 2,
+      "gId": "PACK",
+      "gIx": 107,
       "p": "/AutoMiner_BP/manifest.json",
       "d": 2
     },
@@ -5824,20 +5774,9 @@
     {
       "iTp": 2,
       "gId": "PACK",
-      "gIx": 107,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
-      "d": 2
-    },
-    {
-      "iTp": 2,
-      "gId": "PACK",
-      "gIx": 107,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
-      "d": [
-        1,
-        21,
-        30
-      ]
+      "gIx": 108,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
+      "d": "2e839411-4a0e-4cee-b106-33d5bde91193"
     },
     {
       "iTp": 2,
@@ -5849,9 +5788,8 @@
     {
       "iTp": 2,
       "gId": "PACK",
-      "gIx": 108,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
-      "d": "2e839411-4a0e-4cee-b106-33d5bde91193"
+      "gIx": 109,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json"
     },
     {
       "iTp": 2,
@@ -5862,14 +5800,8 @@
     {
       "iTp": 2,
       "gId": "PACK",
-      "gIx": 109,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json"
-    },
-    {
-      "iTp": 2,
-      "gId": "PACK",
       "gIx": 111,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": [
         1,
         21,
@@ -5891,7 +5823,7 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 112,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": "368af99b-0257-4d18-86ba-056ddbaf52d1"
     },
     {
@@ -5905,7 +5837,7 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 113,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json"
     },
     {
       "iTp": 2,
@@ -5917,7 +5849,7 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 114,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": "AutoMiner [1.0.2]"
     },
     {
@@ -5931,7 +5863,7 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 115,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": "CocoaWarrior's Auto Miner Resources"
     },
     {
@@ -5945,7 +5877,7 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 116,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": "368af99b-0257-4d18-86ba-056ddbaf52d1|1.0.2"
     },
     {
@@ -5959,7 +5891,7 @@
       "iTp": 2,
       "gId": "PACK",
       "gIx": 117,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/manifest.json",
       "d": 2
     },
     {
@@ -5988,37 +5920,37 @@
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 101,
-      "d": 558165
+      "d": 8935467
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 102,
-      "d": 229
+      "d": 332
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 103,
-      "d": 60
+      "d": 98
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 104,
-      "d": 288774
+      "d": 8513714
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 105,
-      "d": 224
+      "d": 326
     },
     {
       "iTp": 7,
       "gId": "PACKSIZE",
       "gIx": 106,
-      "d": 56
+      "d": 92
     },
     {
       "iTp": 1,
@@ -6029,13 +5961,7 @@
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "d": "/AutoMiner_1_0_2__v1.0.2.zip"
-    },
-    {
-      "iTp": 6,
-      "gId": "PATHLENGTH",
-      "gIx": 104,
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip"
+      "d": "/AutoMiner_1.0.2.zip"
     },
     {
       "iTp": 6,
@@ -6179,127 +6105,155 @@
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/machine/autoMiner.js",
-      "d": "machine/autoMiner.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/machine/autoMiner.js",
+      "d": "scripts/machine/autoMiner.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/angerEndermen.js",
-      "d": "mob/angerEndermen.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/angerEndermen.js",
+      "d": "scripts/mob/angerEndermen.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/castFire.js",
-      "d": "mob/castFire.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/castFire.js",
+      "d": "scripts/mob/castFire.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/endSpawns.js",
-      "d": "mob/endSpawns.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/endSpawns.js",
+      "d": "scripts/mob/endSpawns.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/enderTeleport.js",
-      "d": "mob/enderTeleport.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/enderTeleport.js",
+      "d": "scripts/mob/enderTeleport.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/ogreLaugh.js",
-      "d": "mob/ogreLaugh.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/ogreLaugh.js",
+      "d": "scripts/mob/ogreLaugh.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/shootWeb.js",
-      "d": "mob/shootWeb.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/shootWeb.js",
+      "d": "scripts/mob/shootWeb.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/mob/throwBy.js",
-      "d": "mob/throwBy.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/mob/throwBy.js",
+      "d": "scripts/mob/throwBy.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/armorCurve.js",
-      "d": "player/armorCurve.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/player/armorCurve.js",
+      "d": "scripts/player/armorCurve.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/armorWeight.js",
-      "d": "player/armorWeight.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/player/armorWeight.js",
+      "d": "scripts/player/armorWeight.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/consumeXp.js",
-      "d": "player/consumeXp.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/player/consumeXp.js",
+      "d": "scripts/player/consumeXp.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/healFromItem.js",
-      "d": "player/healFromItem.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/player/healFromItem.js",
+      "d": "scripts/player/healFromItem.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/player/playerHungerHeal.js",
-      "d": "player/playerHungerHeal.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/player/playerHungerHeal.js",
+      "d": "scripts/player/playerHungerHeal.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/matchFunctions.js",
-      "d": "util/matchFunctions.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/util/matchFunctions.js",
+      "d": "scripts/util/matchFunctions.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/mathFunctions.js",
-      "d": "util/mathFunctions.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/util/mathFunctions.js",
+      "d": "scripts/util/mathFunctions.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/throwBy.js",
-      "d": "util/throwBy.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/util/throwBy.js",
+      "d": "scripts/util/throwBy.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/vector2Functions.js",
-      "d": "util/vector2Functions.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/util/vector2Functions.js",
+      "d": "scripts/util/vector2Functions.js"
     },
     {
       "iTp": 6,
       "gId": "PATHLENGTH",
       "gIx": 104,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/scripts/util/vector3Functions.js",
-      "d": "util/vector3Functions.js"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/scripts/util/vector3Functions.js",
+      "d": "scripts/util/vector3Functions.js"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/src/machine/autoMiner.ts",
+      "d": "src/machine/autoMiner.ts"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/src/util/mathFunctions.ts",
+      "d": "src/util/mathFunctions.ts"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/src/util/vector2Functions.ts",
+      "d": "src/util/vector2Functions.ts"
+    },
+    {
+      "iTp": 6,
+      "gId": "PATHLENGTH",
+      "gIx": 104,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/src/util/vector3Functions.ts",
+      "d": "src/util/vector3Functions.ts"
     },
     {
       "iTp": 1,
@@ -6317,7 +6271,7 @@
       "gIx": 101,
       "fs": {
         "resource": {
-          "count": 9
+          "count": 18
         }
       }
     },
@@ -6327,19 +6281,13 @@
       "gIx": 102,
       "fs": {
         "resourceAnimationBone": {
-          "count": 22
+          "count": 6
         },
         "resourceAnimationBonePositionContinuous": {
-          "count": 8
+          "count": 16
         },
         "resourceAnimationBoneRotationContinuous": {
-          "count": 40
-        },
-        "resourceAnimationBoneScaleKeyframe": {
-          "count": 4
-        },
-        "resourceAnimationBoneScaleContinuous": {
-          "count": 3
+          "count": 16
         }
       }
     },
@@ -6398,7 +6346,7 @@
           "count": 2
         },
         "system": {
-          "count": 36
+          "count": 38
         },
         "block": {
           "count": 28
@@ -6972,7 +6920,7 @@
       "iTp": 2,
       "gId": "SCRIPTMODULE",
       "gIx": 100,
-      "p": "/AutoMiner_BP/manifest.json",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/manifest.json",
       "d": "1.16.0",
       "iId": "@minecraft/server"
     },
@@ -6980,9 +6928,26 @@
       "iTp": 2,
       "gId": "SCRIPTMODULE",
       "gIx": 100,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/manifest.json",
+      "p": "/AutoMiner_BP/manifest.json",
       "d": "1.16.0",
       "iId": "@minecraft/server"
+    },
+    {
+      "iTp": 2,
+      "gId": "SCRIPTMODULE",
+      "gIx": 101,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/package.json",
+      "d": "^1.16.0",
+      "iId": "@minecraft/server"
+    },
+    {
+      "iTp": 2,
+      "gId": "SCRIPTMODULE",
+      "gIx": 101,
+      "m": "Package.json registers usage of @minecraft/server-ui at ^1.3.0",
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/package.json",
+      "d": "^1.3.0",
+      "iId": "@minecraft/server-ui"
     },
     {
       "iTp": 2,
@@ -7010,13 +6975,6 @@
       "iTp": 1,
       "gId": "STRICT",
       "gIx": 1
-    },
-    {
-      "iTp": 4,
-      "gId": "STRICT",
-      "gIx": 101,
-      "p": "/AutoMiner_BP/entities/advanced_minecart.json",
-      "d": "minecraft:minecart"
     },
     {
       "iTp": 1,
@@ -7047,13 +7005,13 @@
           "count": 2
         },
         "entityResourceCount": {
-          "count": 3
+          "count": 6
         },
         "textureReferences": {
-          "count": 2
+          "count": 4
         },
         "entityReferences": {
-          "count": 2
+          "count": 4
         },
         "fileCount": {
           "count": 18
@@ -7158,44 +7116,44 @@
           "min": 1024,
           "average": 8988
         },
-        "nonTiedWidth": {
-          "instanceCount": 2,
-          "total": 192,
+        "entityWidth": {
+          "instanceCount": 4,
+          "total": 384,
           "max": 128,
           "min": 64,
           "average": 96
         },
-        "nonTiedHeight": {
-          "instanceCount": 2,
-          "total": 160,
+        "entityHeight": {
+          "instanceCount": 4,
+          "total": 320,
           "max": 128,
           "min": 32,
           "average": 80
         },
-        "nonTiedTexels": {
-          "instanceCount": 2,
-          "total": 18432,
+        "entityTexels": {
+          "instanceCount": 4,
+          "total": 36864,
           "max": 16384,
           "min": 2048,
           "average": 9216
         },
-        "nonTiedTextureMemory": {
-          "instanceCount": 2,
-          "total": 73728,
+        "entityTextureMemory": {
+          "instanceCount": 4,
+          "total": 147456,
           "max": 65536,
           "min": 8192,
           "average": 36864
         },
-        "nonTiedNonVanillaTexels": {
-          "instanceCount": 2,
-          "total": 18432,
+        "entityNonVanillaTexels": {
+          "instanceCount": 4,
+          "total": 36864,
           "max": 16384,
           "min": 2048,
           "average": 9216
         },
-        "nonTiedNonVanillaTextureMemory": {
-          "instanceCount": 2,
-          "total": 73728,
+        "entityNonVanillaTextureMemory": {
+          "instanceCount": 4,
+          "total": 147456,
           "max": 65536,
           "min": 8192,
           "average": 36864
@@ -7241,48 +7199,6 @@
           "max": 1024,
           "min": 1024,
           "average": 1024
-        },
-        "entityWidth": {
-          "instanceCount": 2,
-          "total": 192,
-          "max": 128,
-          "min": 64,
-          "average": 96
-        },
-        "entityHeight": {
-          "instanceCount": 2,
-          "total": 160,
-          "max": 128,
-          "min": 32,
-          "average": 80
-        },
-        "entityTexels": {
-          "instanceCount": 2,
-          "total": 18432,
-          "max": 16384,
-          "min": 2048,
-          "average": 9216
-        },
-        "entityTextureMemory": {
-          "instanceCount": 2,
-          "total": 73728,
-          "max": 65536,
-          "min": 8192,
-          "average": 36864
-        },
-        "entityNonVanillaTexels": {
-          "instanceCount": 2,
-          "total": 18432,
-          "max": 16384,
-          "min": 2048,
-          "average": 9216
-        },
-        "entityNonVanillaTextureMemory": {
-          "instanceCount": 2,
-          "total": 73728,
-          "max": 65536,
-          "min": 8192,
-          "average": 36864
         },
         "vanillaGameTextureCoverage": {
           "overrideCount": 0,
@@ -7502,6 +7418,11 @@
       }
     },
     {
+      "iTp": 8,
+      "gId": "TEXTURELIST",
+      "gIx": 2
+    },
+    {
       "iTp": 1,
       "gId": "TEXTUREREF",
       "gIx": 1
@@ -7537,16 +7458,11 @@
       "gIx": 1
     },
     {
-      "iTp": 4,
+      "iTp": 6,
       "gId": "UNLINK",
-      "gIx": 191,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/advanced_minecart.png"
-    },
-    {
-      "iTp": 4,
-      "gId": "UNLINK",
-      "gIx": 191,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/entity/minere/auto_miner.png"
+      "gIx": 205,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/particles/auto_miner_particles.json",
+      "d": "textures/particle/particles"
     },
     {
       "iTp": 6,
@@ -7559,365 +7475,372 @@
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/advanced_minecart.json",
-      "d": "/AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:amethyst_shard`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json to `minecraft:amethyst_shard`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/advanced_minecart.json",
-      "d": "/AutoMiner_BP/recipes/advanced_minecart.json to `minecraft:minecart`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/advanced_minecart.json to `minecraft:minecart`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/auto_miner.json",
-      "d": "/AutoMiner_BP/recipes/auto_miner.json to `minecraft:blast_furnace`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:blast_furnace`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/auto_miner.json",
-      "d": "/AutoMiner_BP/recipes/auto_miner.json to `minecraft:chest_minecart`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:chest_minecart`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/auto_miner.json",
-      "d": "/AutoMiner_BP/recipes/auto_miner.json to `minecraft:hopper_minecart`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:hopper_minecart`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/auto_miner.json",
-      "d": "/AutoMiner_BP/recipes/auto_miner.json to `minecraft:piston`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:piston`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/auto_miner.json",
-      "d": "/AutoMiner_BP/recipes/auto_miner.json to `minecraft:redstone`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:redstone`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/copper_drill.json",
-      "d": "/AutoMiner_BP/recipes/copper_drill.json to `minecraft:copper_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_drill.json to `minecraft:copper_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/copper_drill.json",
-      "d": "/AutoMiner_BP/recipes/copper_drill.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_drill.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/copper_rail.json",
-      "d": "/AutoMiner_BP/recipes/copper_rail.json to `minecraft:copper_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_rail.json to `minecraft:copper_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/copper_rail.json",
-      "d": "/AutoMiner_BP/recipes/copper_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/copper_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/diamond_drill.json",
-      "d": "/AutoMiner_BP/recipes/diamond_drill.json to `minecraft:diamond`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_drill.json to `minecraft:diamond`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/diamond_drill.json",
-      "d": "/AutoMiner_BP/recipes/diamond_drill.json to `minecraft:iron_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_drill.json to `minecraft:iron_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/diamond_rail.json",
-      "d": "/AutoMiner_BP/recipes/diamond_rail.json to `minecraft:diamond`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_rail.json to `minecraft:diamond`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/diamond_rail.json",
-      "d": "/AutoMiner_BP/recipes/diamond_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/diamond_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/emerald_rail.json",
-      "d": "/AutoMiner_BP/recipes/emerald_rail.json to `minecraft:emerald`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/emerald_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/emerald_rail.json to `minecraft:emerald`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/emerald_rail.json",
-      "d": "/AutoMiner_BP/recipes/emerald_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/emerald_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/emerald_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/gold_drill.json",
-      "d": "/AutoMiner_BP/recipes/gold_drill.json to `minecraft:gold_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/gold_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/gold_drill.json to `minecraft:gold_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/gold_drill.json",
-      "d": "/AutoMiner_BP/recipes/gold_drill.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/gold_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/gold_drill.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/golden_rail.json",
-      "d": "/AutoMiner_BP/recipes/golden_rail.json to `minecraft:gold_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/golden_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/golden_rail.json to `minecraft:gold_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/golden_rail.json",
-      "d": "/AutoMiner_BP/recipes/golden_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/golden_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/golden_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/iron_drill.json",
-      "d": "/AutoMiner_BP/recipes/iron_drill.json to `minecraft:iron_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_drill.json to `minecraft:iron_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/iron_rail.json",
-      "d": "/AutoMiner_BP/recipes/iron_rail.json to `minecraft:iron_ingot`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_rail.json to `minecraft:iron_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/iron_rail.json",
-      "d": "/AutoMiner_BP/recipes/iron_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_rail.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/iron_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/stone_drill.json",
-      "d": "/AutoMiner_BP/recipes/stone_drill.json to `minecraft:cobblestone`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/stone_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/stone_drill.json to `minecraft:cobblestone`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/AutoMiner_BP/recipes/stone_drill.json",
-      "d": "/AutoMiner_BP/recipes/stone_drill.json to `minecraft:stick`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/stone_drill.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_BP/recipes/minere/stone_drill.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json to `minecraft:amethyst_shard`"
+      "p": "/AutoMiner_BP/recipes/minere/advanced_minecart.json",
+      "d": "/AutoMiner_BP/recipes/minere/advanced_minecart.json to `minecraft:amethyst_shard`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/advanced_minecart.json to `minecraft:minecart`"
+      "p": "/AutoMiner_BP/recipes/minere/advanced_minecart.json",
+      "d": "/AutoMiner_BP/recipes/minere/advanced_minecart.json to `minecraft:minecart`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:blast_furnace`"
+      "p": "/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:blast_furnace`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:chest_minecart`"
+      "p": "/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:chest_minecart`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:hopper_minecart`"
+      "p": "/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:hopper_minecart`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:piston`"
+      "p": "/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:piston`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/auto_miner.json to `minecraft:redstone`"
+      "p": "/AutoMiner_BP/recipes/minere/auto_miner.json",
+      "d": "/AutoMiner_BP/recipes/minere/auto_miner.json to `minecraft:redstone`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json to `minecraft:copper_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/copper_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/copper_drill.json to `minecraft:copper_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_drill.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/copper_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/copper_drill.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json to `minecraft:copper_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/copper_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/copper_rail.json to `minecraft:copper_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/copper_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/copper_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/copper_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json to `minecraft:diamond`"
+      "p": "/AutoMiner_BP/recipes/minere/diamond_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/diamond_drill.json to `minecraft:diamond`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_drill.json to `minecraft:iron_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/diamond_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/diamond_drill.json to `minecraft:iron_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json to `minecraft:diamond`"
+      "p": "/AutoMiner_BP/recipes/minere/diamond_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/diamond_rail.json to `minecraft:diamond`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/diamond_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/diamond_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/diamond_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json to `minecraft:emerald`"
+      "p": "/AutoMiner_BP/recipes/minere/emerald_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/emerald_rail.json to `minecraft:emerald`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/emerald_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/emerald_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/emerald_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json to `minecraft:gold_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/gold_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/gold_drill.json to `minecraft:gold_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/gold_drill.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/gold_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/gold_drill.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json to `minecraft:gold_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/golden_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/golden_rail.json to `minecraft:gold_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/golden_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/golden_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/golden_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_drill.json to `minecraft:iron_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/iron_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/iron_drill.json to `minecraft:iron_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json to `minecraft:iron_ingot`"
+      "p": "/AutoMiner_BP/recipes/minere/iron_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/iron_rail.json to `minecraft:iron_ingot`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/iron_rail.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/iron_rail.json",
+      "d": "/AutoMiner_BP/recipes/minere/iron_rail.json to `minecraft:stick`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json to `minecraft:cobblestone`"
+      "p": "/AutoMiner_BP/recipes/minere/stone_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/stone_drill.json to `minecraft:cobblestone`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 323,
-      "p": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json",
-      "d": "/Auto_Miner_1_0_2__v1.0.1.zip#/recipes/stone_drill.json to `minecraft:stick`"
+      "p": "/AutoMiner_BP/recipes/minere/stone_drill.json",
+      "d": "/AutoMiner_BP/recipes/minere/stone_drill.json to `minecraft:stick`"
+    },
+    {
+      "iTp": 4,
+      "gId": "UNLINK",
+      "gIx": 351,
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/sounds.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/sounds.json to `machine.auto_miner.hit`"
     },
     {
       "iTp": 4,
@@ -7930,36 +7853,36 @@
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 399,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
-      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/copper_rail`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json to `textures/items/minere/copper_rail`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 399,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
-      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/diamond_rail`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json to `textures/items/minere/diamond_rail`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 399,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
-      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/emerald_rail`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json to `textures/items/minere/emerald_rail`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 399,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
-      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/golden_rail`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json to `textures/items/minere/golden_rail`"
     },
     {
       "iTp": 4,
       "gId": "UNLINK",
       "gIx": 399,
-      "p": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json",
-      "d": "/AutoMiner_1_0_2__v1.0.2.zip#/textures/item_texture.json to `textures/items/minere/iron_rail`"
+      "p": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json",
+      "d": "/AutoMiner_1.0.2.zip#/AutoMiner_RP/textures/item_texture.json to `textures/items/minere/iron_rail`"
     },
     {
       "iTp": 4,
@@ -8024,5 +7947,5 @@
   ],
   "generatorName": "Minecraft Creator Tools",
   "suite": 0,
-  "generatorVersion": "0.17.2"
+  "generatorVersion": "0.17.3"
 }

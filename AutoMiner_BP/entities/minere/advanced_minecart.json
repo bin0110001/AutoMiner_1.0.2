@@ -1,17 +1,16 @@
 {
-  "format_version": "1.20.0",
+  "format_version": "1.21.30",
   "minecraft:entity": {
     "description": {
       "identifier": "minere:advanced_minecart",
-      "runtime_identifier": "minecraft:minecart",
-      "is_spawnable": false,
+      "is_spawnable": true,
       "is_summonable": true,
       "is_experimental": false
     },
     "components": {
       "minecraft:is_stackable": {},
       "minecraft:type_family": {
-        "family": ["minecart", "inanimate"]
+        "family": ["advanced_minecart", "minecart", "inanimate"]
       },
       "minecraft:collision_box": {
         "width": 0.98,
@@ -58,6 +57,9 @@
             ]
           }
         ]
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/advanced_minecart.json"
       }
     }
   }

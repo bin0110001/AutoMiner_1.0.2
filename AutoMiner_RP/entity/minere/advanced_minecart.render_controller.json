@@ -1,5 +1,5 @@
 {
-  "format_version": "1.10.0",
+  "format_version": "1.21.30",
   "minecraft:render_group": {
     "description": "Render controller for advanced_minecart entities",
     "render_groups": [

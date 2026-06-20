@@ -4,7 +4,8 @@
 			"minere:auto_miner": {
 				"events": {
 					"death": "machine.auto_miner.hit",
-					"hurt": "machine.auto_miner.hit"
+					"hurt": "machine.auto_miner.hit",
+					"irongolem.repair": "mob.irongolem.repair"
 				},
 				"pitch": [0.8, 1.2],
 				"volume": 1

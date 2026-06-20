@@ -1,0 +1,39 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:auto_miner"
+    },
+
+    "tags": ["crafting_table"],
+    "pattern": ["BPD", "CRH"],
+    "key": {
+      "D": {
+        "item": "minere:diamond_drill"
+      },
+      "P": {
+        "item": "minecraft:piston"
+      },
+      "B": {
+        "item": "minecraft:blast_furnace"
+      },
+      "C": {
+        "item": "minecraft:chest_minecart"
+      },
+      "H": {
+        "item": "minecraft:hopper_minecart"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "result": {
+      "item": "minere:auto_miner"
+    }
+  }
+}

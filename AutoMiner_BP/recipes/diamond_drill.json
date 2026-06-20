@@ -1,0 +1,27 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:diamond_drill"
+    },
+
+    "tags": ["crafting_table"],
+    "pattern": ["DD ", "IDD", "DD "],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:diamond"
+      }
+    ],
+    "result": {
+      "item": "minere:diamond_drill"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:stone_auto_miner"
+    },
+
+    "tags": ["crafting_table"],
+    "pattern": ["SSS", "CDI", "SSS"],
+    "key": {
+      "S": {
+        "item": "minecraft:cobblestone"
+      },
+      "C": {
+        "item": "minere:stone_drill"
+      },
+      "D": {
+        "item": "minecraft:iron_pickaxe"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+    "result": {
+      "item": "minere:stone_auto_miner"
+    }
+  }
+}

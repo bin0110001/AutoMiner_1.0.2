@@ -1,0 +1,86 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.minere.auto_miner": {
+      "initial_state": "idle",
+      "states": {
+        "idle": {
+          "transitions": [
+            {
+              "drilling": "query.property('minere:fuel') && query.property('minere:is_on')"
+            }
+          ]
+        },
+        "drilling": {
+          "animations": ["drill", "drive"],
+          "particle_effects": [
+            {
+              "effect": "smoke",
+              "locator": "smoke_stack"
+            }
+          ],
+          "transitions": [
+            {
+              "idle": "!query.property('minere:fuel') || !query.property('minere:is_on')"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.minere.auto_miner_hide_drill": {
+      "initial_state": "visible",
+      "states": {
+        "visible": {
+          "transitions": [
+            {
+              "hidden": "!query.property('minere:durability')"
+            }
+          ]
+        },
+        "hidden": {
+          "animations": ["hide_drill"],
+          "transitions": [
+            {
+              "visible": "query.property('minere:durability')"
+            }
+          ]
+        }
+      }
+    },
+    "controller.animation.minere.auto_miner.furnace": {
+      "initial_state": "off",
+      "states": {
+        "off": {
+          "animations": ["off"],
+          "transitions": [
+            {
+              "on0": "query.property('minere:fuel') && query.property('minere:is_on')"
+            }
+          ]
+        },
+        "on0": {
+          "animations": ["on0"],
+          "transitions": [
+            {
+              "off": "!query.property('minere:fuel') || !query.property('minere:is_on')"
+            },
+            {
+              "on1": "query.all_animations_finished"
+            }
+          ]
+        },
+        "on1": {
+          "animations": ["on1"],
+          "transitions": [
+            {
+              "off": "!query.property('minere:fuel') || !query.property('minere:is_on')"
+            },
+            {
+              "on0": "query.all_animations_finished"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

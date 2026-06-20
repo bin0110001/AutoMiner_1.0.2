@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minere:gold_auto_miner"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["GGG", "GDG", "GGG"],
+    "key": {
+      "G": {
+        "item": "minecraft:gold_ingot"
+      },
+      "D": {
+        "item": "minere:gold_drill"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "result": {
+      "item": "minere:gold_auto_miner"
+    }
+  }
+}

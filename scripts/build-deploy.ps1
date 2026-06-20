@@ -75,16 +75,16 @@ function Sync-BehaviorScripts {
 function Get-PackItemNames {
     param([string]$PackType)
     switch ($PackType) {
-        "behavior-pack" { @("manifest.json", "pack_icon.png", "items", "recipes", "scripts", "blocks", "loot_tables") }
-        "resource-pack" { @("manifest.json", "pack_icon.png", "textures", "models") }
+        "behavior-pack" { @("manifest.json", "pack_icon.png", "items", "recipes", "scripts", "blocks", "loot_tables", "entities", "texts") }
+        "resource-pack" { @("manifest.json", "pack_icon.png", "textures", "models", "entity", "animations", "animation_controllers", "particles", "sounds", "texts", "sounds.json") }
     }
 }
 
 function Get-TargetFolders {
     param([string]$PackType)
     switch ($PackType) {
-        "behavior-pack" { @("development_behavior_packs", "behavior_packs") }
-        "resource-pack" { @("development_resource_packs", "resource_packs") }
+        "behavior-pack" { @("development_behavior_packs") }
+        "resource-pack" { @("development_resource_packs") }
     }
 }
 

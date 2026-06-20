@@ -1,0 +1,53 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minere:stone_auto_miner",
+      "materials": {
+        "default": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/entity/minere/auto_miner"
+      },
+      "geometry": {
+        "default": "geometry.minere.auto_miner"
+      },
+      "scripts": {
+        "pre_animation": [
+          "variable.hurt = query.hurt_time - query.frame_alpha;"
+        ],
+        "should_update_effects_offscreen": "1.0",
+        "should_update_bones_and_effects_offscreen": "1.0",
+        "animate": [
+          "controller",
+          "fuel",
+          "hide_drill_controller",
+          "furnace_controller",
+          {
+            "death": "!query.is_alive"
+          }
+        ]
+      },
+      "animations": {
+        "drill": "animation.minere.auto_miner.drill",
+        "drive": "animation.minere.auto_miner.drive",
+        "fuel": "animation.minere.auto_miner.fuel_gauge",
+        "hide_drill": "animation.minere.auto_miner.hide_drill",
+        "death": "animation.minere.auto_miner.death",
+        "off": "animation.minere.auto_miner.furnace_off",
+        "on0": "animation.minere.auto_miner.furnace_on0",
+        "on1": "animation.minere.auto_miner.furnace_on1",
+        "controller": "controller.animation.minere.auto_miner",
+        "hide_drill_controller": "controller.animation.minere.auto_miner_hide_drill",
+        "furnace_controller": "controller.animation.minere.auto_miner.furnace"
+      },
+      "sound_effects": {
+        "start": "machine.auto_miner.start"
+      },
+      "particle_effects": {
+        "smoke": "minere:auto_miner_particles"
+      },
+      "render_controllers": ["controller.render.default"]
+    }
+  }
+}

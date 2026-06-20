@@ -15,12 +15,6 @@
 			"version": [1, 0, 2]
 		}
 	],
-	"dependencies": [
-		{
-			"uuid": "2e839411-4a0e-4cee-b106-33d5bde91193",
-			"version": [1, 0, 2]
-		}
-	],
 	"metadata": {
 		"generated_with": {
 			"bridge": ["2.6.0"],

@@ -1,21 +1,24 @@
 import { world } from "@minecraft/server";
 import { replaceMinecart } from "item/replace_minecart";
-import { startAutoMiner, minerDie, stopAutoMiner } from "machine/autoMiner";
-import { AutoMinerItem } from "item/auto_miner_item";
-import "./block/rail_speed";
+import { startAutoMiner, minerDie, stopAutoMiner, getConfig } from "machine/autoMiner";
+import { AutoMinerItem, StoneAutoMinerItem } from "item/auto_miner_item";
 export const DEFAULT_TICK = 20;
 world.beforeEvents.worldInitialize.subscribe(function (data) {
     data.itemComponentRegistry.registerCustomComponent("minere:auto_miner_item", AutoMinerItem);
+    data.itemComponentRegistry.registerCustomComponent("minere:stone_auto_miner_item", StoneAutoMinerItem);
 });
 world.beforeEvents.entityRemove.subscribe(function (data) {
     replaceMinecart(data);
 });
 world.afterEvents.dataDrivenEntityTrigger.subscribe((data) => {
-    startAutoMiner(data.entity);
+    const config = getConfig(data.entity.typeId);
+    startAutoMiner(data.entity, config);
 });
 world.afterEvents.entityLoad.subscribe((data) => {
-    stopAutoMiner(data.entity);
+    const config = getConfig(data.entity.typeId);
+    stopAutoMiner(data.entity, config);
 });
 world.afterEvents.entityDie.subscribe(function (data) {
-    minerDie(data.deadEntity);
+    const config = getConfig(data.deadEntity.typeId);
+    minerDie(data.deadEntity, config);
 });

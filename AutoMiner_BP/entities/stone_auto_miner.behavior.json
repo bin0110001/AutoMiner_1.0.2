@@ -1,0 +1,301 @@
+{
+  "format_version": "1.18.20",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minere:stone_auto_miner",
+      "is_spawnable": false,
+      "is_summonable": true,
+      "is_experimental": false,
+      "properties": {
+        "minere:fuel": {
+          "type": "int",
+          "client_sync": true,
+          "default": 0,
+          "range": [0, 1500]
+        },
+        "minere:durability": {
+          "type": "int",
+          "client_sync": true,
+          "default": 2000,
+          "range": [0, 2000]
+        },
+        "minere:is_on": {
+          "type": "bool",
+          "client_sync": true,
+          "default": false
+        },
+        "minere:rail_index": {
+          "type": "int",
+          "client_sync": false,
+          "default": 0,
+          "range": [0, 1]
+        }
+      }
+    },
+    "components": {
+      "minecraft:physics": {
+        "has_gravity": true,
+        "has_collision": true,
+        "push_towards_closest_space": true
+      },
+      "minecraft:knockback_resistance": {
+        "value": 1.0
+      },
+      "minecraft:health": {
+        "value": 10
+      },
+      "minecraft:damage_sensor": {
+        "triggers": [
+          {
+            "cause": "fall",
+            "damage_multiplier": 0.05,
+            "damage_modifier": -2,
+            "on_damage": {
+              "event": "minere:turn_off",
+              "target": "self"
+            }
+          },
+          {
+            "cause": "suffocation",
+            "deals_damage": false
+          },
+          {
+            "cause": "fire",
+            "deals_damage": false
+          },
+          {
+            "cause": "projectile",
+            "on_damage": {
+              "event": "minere:turn_off",
+              "target": "self"
+            }
+          },
+          {
+            "cause": "entity_attack",
+            "on_damage": {
+              "filters": {
+                "test": "is_family",
+                "subject": "other",
+                "operator": "==",
+                "value": "player"
+              },
+              "event": "minere:toggle_on",
+              "target": "self"
+            }
+          }
+        ]
+      },
+      "minecraft:fire_immune": {},
+      "minecraft:inventory": {
+        "container_type": "inventory",
+        "inventory_size": 27,
+        "can_be_siphoned_from": true
+      },
+      "minecraft:interact": {
+        "interactions": [
+          {
+            "on_interact": {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "is_family",
+                    "subject": "other",
+                    "value": "player"
+                  },
+                  {
+                    "test": "has_equipment",
+                    "domain": "hand",
+                    "subject": "other",
+                    "value": "iron_ingot"
+                  },
+                  {
+                    "test": "is_missing_health",
+                    "value": true
+                  }
+                ]
+              }
+            },
+            "use_item": true,
+            "health_amount": 5,
+            "play_sounds": "irongolem.repair",
+            "interact_text": "action.interact.repair"
+          },
+          {
+            "on_interact": {
+              "filters": {
+                "all_of": [
+                  {
+                    "any_of": [
+                      {
+                        "test": "has_equipment",
+                        "subject": "other",
+                        "domain": "hand",
+                        "value": "minecraft:coal"
+                      },
+                      {
+                        "test": "has_equipment",
+                        "subject": "other",
+                        "domain": "hand",
+                        "value": "minecraft:charcoal"
+                      },
+                      {
+                        "test": "has_equipment",
+                        "subject": "other",
+                        "domain": "hand",
+                        "value": "minecraft:cobblestone"
+                      }
+                    ]
+                  },
+                  {
+                    "test": "is_family",
+                    "subject": "other",
+                    "value": "player"
+                  }
+                ]
+              },
+              "event": "minere:refuel_150",
+              "target": "self"
+            },
+            "use_item": true,
+            "interact_text": "action.interact.add_fuel"
+          },
+          {
+            "on_interact": {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "other",
+                    "domain": "hand",
+                    "value": "minecraft:diamond"
+                  },
+                  {
+                    "test": "is_family",
+                    "subject": "other",
+                    "value": "player"
+                  },
+                  {
+                    "test": "int_property",
+                    "subject": "self",
+                    "operator": "<",
+                    "domain": "minere:durability",
+                    "value": 2000
+                  }
+                ]
+              },
+              "event": "minere:repair",
+              "target": "self"
+            },
+            "use_item": true,
+            "interact_text": "action.interact.repair"
+          },
+          {
+            "on_interact": {
+              "filters": {
+                "all_of": [
+                  {
+                    "any_of": [
+                      {
+                        "test": "has_equipment",
+                        "subject": "other",
+                        "domain": "hand",
+                        "value": "minere:stone_drill"
+                      }
+                    ]
+                  },
+                  {
+                    "test": "is_family",
+                    "subject": "other",
+                    "value": "player"
+                  },
+                  {
+                    "test": "int_property",
+                    "subject": "self",
+                    "domain": "minere:durability",
+                    "operator": "equals",
+                    "value": 0
+                  }
+                ]
+              },
+              "event": "minere:repair_full",
+              "target": "self"
+            },
+            "use_item": true,
+            "interact_text": "action.interact.repair"
+          }
+        ]
+      },
+      "minecraft:collision_box": {
+        "width": 1.25,
+        "height": 1.25
+      },
+      "minecraft:pushable": {
+        "is_pushable": false
+      }
+    },
+    "events": {
+      "minere:refuel_150": {
+        "sequence": [
+          {
+            "set_property": {
+              "minere:fuel": "query.property('minere:fuel') + 150"
+            }
+          },
+          {
+            "queue_command": {
+              "command": "playsound machine.auto_miner.fill @a ~ ~ ~ 5.0"
+            }
+          },
+          {
+            "set_property": {
+              "minere:is_on": true
+            }
+          }
+        ]
+      },
+      "minere:repair": {
+        "set_property": {
+          "minere:durability": "query.property('minere:durability') + 500"
+        },
+        "queue_command": {
+          "command": "playsound machine.auto_miner.repair @a ~ ~ ~ 5.0"
+        }
+      },
+      "minere:repair_full": {
+        "set_property": {
+          "minere:durability": 2000
+        },
+        "queue_command": {
+          "command": "playsound machine.auto_miner.repair @a ~ ~ ~ 5.0"
+        }
+      },
+      "minere:turn_on": {
+        "filters": {
+          "test": "actor_health",
+          "operator": ">",
+          "value": 0,
+          "subject": "self"
+        },
+        "set_property": {
+          "minere:is_on": true
+        }
+      },
+      "minere:turn_off": {
+        "set_property": {
+          "minere:is_on": false
+        }
+      },
+      "minere:toggle_on": {
+        "filters": {
+          "test": "actor_health",
+          "operator": ">",
+          "value": 0,
+          "subject": "self"
+        },
+        "set_property": {
+          "minere:is_on": "!query.property('minere:is_on')"
+        }
+      }
+    }
+  }
+}

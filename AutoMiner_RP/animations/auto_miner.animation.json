@@ -1,0 +1,121 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.minere.auto_miner.drill": {
+      "loop": true,
+      "bones": {
+        "drill": {
+          "rotation": [0, 0, "query.anim_time * 500"]
+        }
+      }
+    },
+    "animation.minere.auto_miner.drive": {
+      "loop": true,
+      "bones": {
+        "l_wheel0": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel1": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel2": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel3": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel4": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel5": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel6": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        },
+        "l_wheel7": {
+          "rotation": ["query.anim_time * 360", 0, 0]
+        }
+      },
+      "sound_effects": {
+        "0.0": {
+          "effect": "start"
+        }
+      }
+    },
+    "animation.minere.auto_miner.fuel_gauge": {
+      "loop": true,
+      "bones": {
+        "fuel_gauge": {
+          "position": [
+            0,
+            0,
+            "-10.25 * (3000 - query.property('minere:fuel'))/3000"
+          ]
+        }
+      }
+    },
+    "animation.minere.auto_miner.hide_drill": {
+      "loop": true,
+      "bones": {
+        "drill2": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.minere.auto_miner.death": {
+      "loop": true,
+      "bones": {
+        "root": {
+          "scale": {
+            "0.0": [0, 0, 0]
+          }
+        }
+      }
+    },
+    "animation.minere.auto_miner.furnace_off": {
+      "loop": true,
+      "bones": {
+        "furnace_off": {
+          "scale": 1
+        },
+        "furnace_on0": {
+          "scale": 0
+        },
+        "furnace_on1": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.minere.auto_miner.furnace_on0": {
+      "loop": true,
+      "animation_length": 0.25,
+      "bones": {
+        "furnace_off": {
+          "scale": 0
+        },
+        "furnace_on0": {
+          "scale": 1
+        },
+        "furnace_on1": {
+          "scale": 0
+        }
+      }
+    },
+    "animation.minere.auto_miner.furnace_on1": {
+      "loop": true,
+      "animation_length": 0.2,
+      "bones": {
+        "furnace_off": {
+          "scale": 0
+        },
+        "furnace_on0": {
+          "scale": 0
+        },
+        "furnace_on1": {
+          "scale": 1
+        }
+      }
+    }
+  }
+}
